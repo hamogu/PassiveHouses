@@ -5,34 +5,18 @@
 	"properties": {	 
 	"name": "<a href='https://phmass.org/projects/cape-cod-passive-house-2/'>Cape Cod House</a>",
 	"description": "2,400 sq ft",
-	"marker-symbol": "lodging",
-	"marker-color": "#f00"
-	}
-    },
-     { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [ -71.115922, 42.352333]},
-	"properties": {	 
-	"name": "BU housing",
-	"marker-symbol": "home",
-	"marker-color": "#f00"
-	}
-    },
-    { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [ -71.105215, 42.354174]},
-	"properties": {	 
-	"name": "Hyatt",
 	"marker-symbol": "building",
-	"marker-color": "#990"
+	"marker-color": "#f00"
 	}
     },
     { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [ -71.1005, 42.34576]},
+    "geometry": {"type": "Point", "coordinates": [ -70.608588, 41.5532208]},
 	"properties": {	 
-	"name": "Residence Inn",
-	"marker-symbol": "building-alt1",
-	"marker-color": "#990"
+	"name": "<a href='https://phmass.org/projects/distillery-north/'>Distillery North</a>",
+	"description": "58,793 sq ft",
+	"marker-size": "large",
+	"marker-color": "#f00"
 	}
-    }
-  
+    },  
   ]
  }
