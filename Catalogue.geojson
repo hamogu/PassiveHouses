@@ -10,7 +10,7 @@
 	}
     },
     { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [ -70.608588, 41.5532208]},
+    "geometry": {"type": "Point", "coordinates": [ -71.0430627, 42.3375459]},
 	"properties": {	 
 	"name": "<a href='https://phmass.org/projects/distillery-north/'>Distillery North</a>",
 	"description": "58,793 sq ft",
