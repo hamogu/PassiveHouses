@@ -5,7 +5,7 @@
 	"properties": {	 
 	"title": "<a href='https://phmass.org/projects/cape-cod-passive-house-2/'>Cape Cod House</a>",
 	"description": "2,400 sq ft",
-	"marker-symbol": "home",
+	"marker-symbol": "lodging",
 	"marker-color": "#f00"
 	}
     },
@@ -15,7 +15,7 @@
 	"name": "BU housing",
 	"marker-symbol": "lodging",
 	"marker-color": "#f00"
-		}
+	}
     },
     { "type": "Feature",
     "geometry": {"type": "Point", "coordinates": [ -71.105215, 42.354174]},
