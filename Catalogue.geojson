@@ -1,0 +1,39 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [ -70.608588, 41.5532208]},
+	"properties": {	 
+	"title": "Cape Cod House",
+	"description": "2,400 sq ft, https://phmass.org/projects/cape-cod-passive-house-2/",
+	"marker-size": "large",
+	"marker-symbol": "home",
+	"marker-color": "#F00"
+	}
+    },
+     { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [ -71.115922, 42.352333]},
+	"properties": {	 
+	"name": "BU housing",
+	"marker-symbol": "lodging",
+	"marker-color": "#0a0"
+		}
+    },
+    { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [ -71.105215, 42.354174]},
+	"properties": {	 
+	"name": "Hyatt",
+	"marker-symbol": "lodging",
+	"marker-color": "#990"
+	}
+    },
+    { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [ -71.1005, 42.34576]},
+	"properties": {	 
+	"name": "Residence Inn",
+	"marker-symbol": "lodging",
+	"marker-color": "#990"
+	}
+    }
+  
+  ]
+ }
