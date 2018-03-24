@@ -4,8 +4,7 @@
     "geometry": {"type": "Point", "coordinates": [ -70.608588, 41.5532208]},
 	"properties": {	 
 	"title": "Cape Cod House",
-	"description": "2,400 sq ft
-<a href='https://phmass.org/projects/cape-cod-passive-house-2/'>link</a>",
+	"description": "2,400 sq ft; <a href='https://phmass.org/projects/cape-cod-passive-house-2/'>link</a>",
 	"marker-symbol": "home",
 	"marker-color": "#F00"
 	}
