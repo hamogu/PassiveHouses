@@ -62,5 +62,5 @@ with open("Laurenslist.txt") as f:
         else:
             item.append(line)
 
-with open("Catalogue.geojson", 'w') as f:
+with open("NewEngland.geojson", 'w') as f:
     json.dump(out, f, indent=2, separators=(',', ': '))

@@ -1,0 +1,4250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1009'>Center for Design Research (CDR)</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2359496,
+          38.9719384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1073'>Hickory Hall</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8362343,
+          36.7728907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1077'>HABITAT FOR THE 21ST CENTURY</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4398746,
+          47.2495798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1095'>1202 Idaho Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.184535,
+          45.773279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1117'>The Passive-Agressive Home</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0168179,
+          41.5889154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1121'>Grant Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1610916,
+          39.11733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1131'>The Urbana</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1227598,
+          43.5250265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1132'>McKeesport Downtown Housing (Residential)</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.864215,
+          40.3478472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1140'>Abbate House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1143'>Oracle Institute</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7347947,
+          36.7626282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1153'>Summit Haus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4979741,
+          40.6460635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1286'>Coman Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9299841,
+          41.8024604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1176'>Bergman Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5285878127105,
+          40.6540805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1178'>Carmouche Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9602096795782,
+          37.274532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1183'>Hazelwood Neighborhood Center</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1209'>Harrison Street Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1527573,
+          39.0840054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1232'>Bedford Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9554250639011,
+          40.7202445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1235'>Sonoran Desert Passive</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9262353,
+          32.2218917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1244'>Staten Island B3.5</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1246'>Amonette Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5431919,
+          37.6301932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1256'>Durbin Estates Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4436018,
+          36.9903199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1257'>Distillery North</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0494949,
+          42.3334312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1269'>Westminster Place II at Windy Hill</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2205688,
+          40.8964465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1270'>542 W 153rd St</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9866136,
+          40.7306458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1274'>803 Knickerbocker</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9495823,
+          40.6501038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1291'>Rutherford Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7804664,
+          47.6776832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1306'>Staten Island B6</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1327'>Byre Knoll</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8591285,
+          37.693952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1314'>St John Neumann Place II</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635755,
+          39.9524152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1318'>Heritage Point Type 1</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8817316,
+          41.2464824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1319'>Heritage Point Type 2</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8817316,
+          41.2464824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1320'>Heritage Point Type 3</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8817316,
+          41.2464824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1321'>Heritage Point Type 4</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8817316,
+          41.2464824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1336'>Woolman Passivhaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0160594,
+          39.2615606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1342'>Washington Square Town Homes - Townhouses</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6598624,
+          39.9405903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1343'>Bayside Anchor Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2548596,
+          43.6610277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1347'>Acorn Glade</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.010376,
+          41.7938195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1349'>Tenney Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8904308,
+          40.7670126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1353'>Washington Square Town Homes - 24 Unit Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6598624,
+          39.9405903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1356'>Washington Square Town Homes - 18 Unit Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6598624,
+          39.9405903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1357'>Washington Square Town Homes - Community Building</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6598624,
+          39.9405903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1366'>Gilford Village Knolls III</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.407013,
+          43.54805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1367'>11 West 126th Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9866136,
+          40.7306458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1368'>Doig River Community Church</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4746427,
+          56.7165281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1374'>Columbia County Habitat Passive Townhomes 3</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6731749,
+          42.4134168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1389'>Granite City Housing Authority Duplex Prototype</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1487199,
+          38.7014389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1393'>Loantaka</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3837613,
+          43.074761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1394'>Fairwood Commons</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1395'>84 Hadley</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4745621755176,
+          44.60744765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1397'>Shafer Residence Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0168179,
+          41.5889154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1398'>Muncy Greene</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7870991,
+          41.20484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1401'>Montgomery Park</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3399048,
+          40.121497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1402'>Anthony Wayne III</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635755,
+          39.9524152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1405'>The Willows at Landisville - Building 1</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4101958,
+          40.0951196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1409'>3221 Blenheim Place</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2440518,
+          36.0998131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1410'>29 Bellis Circle</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1415'>PH01</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79844,
+          44.311461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1416'>Tree of Life</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7914214158161,
+          40.6524927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1417'>1441 Berkeley Way</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2728639,
+          37.8708393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1421'>577 West 161st Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9866136,
+          40.7306458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1422'>Muncy Greene (w/ Community Space)</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7870991,
+          41.20484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1429'>Greaves Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2126139,
+          47.2868352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1433'>Mount Lebanon Senior Housing</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1437'>Morris II Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9866136,
+          40.7306458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1439'>casaVERDE</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.60988,
+          40.5742696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1441'>The Willows at Landisville - Building 3</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4101958,
+          40.0951196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1442'>The Willows at Landisville - Building 4</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4101958,
+          40.0951196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1443'>The Willows at Landisville - Building 5</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4101958,
+          40.0951196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1445'>West Moberly Health Centre</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8553452,
+          55.8277321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1451'>Jordan Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0668085,
+          40.5508527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1452'>Preissner</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7312291,
+          42.2681569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1454'>Reynolds Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2290366,
+          41.7856489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1458'>Roxbury Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9219698,
+          40.3267407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1459'>Russell/Orritt</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8944599,
+          45.5373072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1462'>CreekView Apartments at Woodland Park Phase I - Building 01</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1470'>CreekView Apartments at Woodland Park Phase 1 - Building 02</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1471'>CreekView Apartments at Woodland Park Phase 1 - Building 03</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1472'>CreekView Apartments at Woodland Park Phase 1 - Building 04</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1473'>CreekView Apartments at Woodland Park Phase 1 - Building 05</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1474'>CreekView Apartments at Woodland Park Phase 1 - Building 06</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1475'>CreekView Apartments at Woodland Park Phase 1 - Building 07</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1476'>CreekView Apartments at Woodland Park Phase 1 - Building 08</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1477'>CreekView Apartments at Woodland Park Phase 1 - Building 09</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1478'>CreekView Apartments at Woodland Park Phase 1 - Building 10</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1479'>CreekView Apartments at Woodland Park Phase 1 - Building 11</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1480'>CreekView Apartments at Woodland Park Phase 1 - Building 12</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278399,
+          42.8844625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1481'>South Jersey Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.718658761236,
+          39.9226305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1489'>Rockquist Passive House Minor</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.945694,
+          41.3839827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1490'>Plainfield Park District</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2284325789041,
+          41.623191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1493'>Parade Street Commons East - Building B</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852421,
+          42.1290657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1494'>Parade Street Commons East - Building A</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852421,
+          42.1290657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1495'>Parade Street Commons East - Building C</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852421,
+          42.1290657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1496'>Parade Street Commons East - Building D</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852421,
+          42.1290657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1497'>Parade Street Commons East - Building E</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852421,
+          42.1290657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1499'>Hook & Ladder</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2654692,
+          44.9772995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1015'>Breezeway House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8904308,
+          40.7670126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1013'>Corehaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1010'>Zero Cottage</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4192363,
+          37.7792808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1066'>EcoCor House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2127109,
+          44.1773049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1016'>Rue-Evans House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.033121,
+          44.9391565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1017'>Kenmore Road</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05578,
+          35.9131542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1018'>the G\u2022O Home!</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0067359,
+          44.4261194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1019'>Center for Energy Efficient Design (CEED), Franklin County Public Schools</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8909474,
+          36.9962007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1021'>Prescott Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5630298,
+          39.0844687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1022'>Gable Home - Illinois - US DOE'S 2009 Solar Decathlon</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2433829,
+          40.1164205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1023'>Habitat for Humanity, Charlotte, Vermont</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8431268,
+          35.2270869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1024'>Hudson Passive Project</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.790959,
+          42.2528649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1025'>Beaton Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7139338,
+          42.29709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1026'>O'Neill Residence Remodel/Retrofit</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1027'>Falmouth</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6147519,
+          41.5514979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1028'>Fairview I</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1029'>Fairview II</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1030'>Smith House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1032'>Stanton Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1033'>Zadeh Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0419502,
+          40.1136387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1034'>Washington Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1035'>Dublin PH</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.207301,
+          40.1117174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1036'>Cleveland Farm</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1037'>Isabella Lake House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.354871,
+          47.61713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1038'>Louisiana PH</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0198427,
+          30.2240897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1039'>Konkol Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7568703,
+          44.9746896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1042'>Lankford House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1043'>New American Foursquare</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1233346261195,
+          38.98130835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1045'>Branch's Bend</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7491015,
+          37.7118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1046'>Omega Institute for Holistic Studies - Women's Leadership Center</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9126639,
+          41.9268754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1047'>Ruby House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8904308,
+          40.7670126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1048'>3226 S. US Hwy. 25W, Williamsburg, KY</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1596561,
+          36.7434169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1049'>Karuna House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9725418,
+          45.300596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1052'>Green Gulch Zen Center Dormitory</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5813667,
+          37.8621493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1053'>Huff ~ Collins Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2780999,
+          37.2187427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1054'>Moskowitz</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0159727,
+          40.8975992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1055'>1206 Lemon</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1821871,
+          37.4538274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1056'>Wallace Homestead</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2656169,
+          36.6409753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1058'>Orchard Street Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0950506,
+          44.0505054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1059'>Jackman Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6860186,
+          44.4653741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1065'>Terrahaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3344892,
+          44.6111793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1068'>TrekHaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1069'>Glasswood</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1107'>02Haus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1070'>Cottle ZEH</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9031599,
+          37.3297085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1071'>First Yellow Springs Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8925234,
+          39.8045432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1074'>Clarke Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1771706,
+          35.7201506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1075'>Lema Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8139483,
+          41.8978091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1076'>Habitat for Humanity of Madison & Clark Counties Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2963224,
+          37.568694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1079'>Thesen-Kramer Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1634472,
+          37.442156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1085'>Gaddy Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9429182,
+          39.2065447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1084'>Hawkins House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8168976,
+          44.6682799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1086'>Heidelberg Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0908886,
+          40.3922914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1087'>Coulter Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05578,
+          35.9131542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1088'>99 Green Valley Rd, Williamsburg, KY</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1596561,
+          36.7434169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1142'>PNC SmartHome</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6934446,
+          41.5051613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1089'>Kiln Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1090'>Yangpyeong Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1033484,
+          37.2700459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1092'>Taccogna Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.010935,
+          45.2781732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1093'>Newry Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.787659,
+          44.487689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1094'>Parsons / Empowerhouse</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0366456,
+          38.8949549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1096'>Cape Cod House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6147519,
+          41.5514979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1097'>Crane-Prado Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984696,
+          39.7391428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1100'>Skidmore House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1101'>Fort St. John Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.835876,
+          56.25098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1111'>336 Rachel Carson Way</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1106'>Blaise House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1307'>Straka Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690308,
+          45.421106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1110'>Nova Passiv Haus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1710914,
+          38.882334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1112'>Ellison Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9447107,
+          34.2257282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1114'>Pumpkin Ridge</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9936261,
+          45.5973123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1115'>ecoMOD South - Abingdon</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9774878,
+          36.7095788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1118'>CAPACES Leadership Institute</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8553725,
+          45.143731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1119'>Landau Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.307892,
+          43.71355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1120'>Aamodt Passivhaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9129419,
+          47.6475134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1122'>Ivy City Passive Houses Block A</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0366456,
+          38.8949549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1125'>Wood Residence Guest House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1126'>Wood Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1127'>Lisuzzo Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6059638,
+          39.9597213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1129'>Ivy City Passive House Block B</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0366456,
+          38.8949549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1133'>Traveler's Rest</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8130275,
+          40.0847055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1138'>Lowell Ave 634</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1634472,
+          37.442156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1141'>63 Green Valley Rd., Williamsburg, KY</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1596561,
+          36.7434169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1145'>98 Green Valley Rd. Williamsburg, KY</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1596561,
+          36.7434169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1146'>Global Sustainable Solutions</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.710969,
+          44.754404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1148'>6th Street House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1149'>Malcolm Rosenberg Hillel Center</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4136767,
+          37.2296566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1150'>Brookfield Homes Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9785223,
+          39.9212746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1151'>Whitchurch Passive Cottage</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6792807,
+          44.2928358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1154'>The Desert Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0978554,
+          31.4384325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1155'>Valley Waste Management Office Building</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.495212,
+          45.0784875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1156'>Karpiak Mulhall Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6621294,
+          41.4086874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1157'>Hill Residence Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9232879,
+          36.5552387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1160'>17 Carol Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4540111,
+          41.394817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1161'>Island Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.948874937827,
+          48.5710147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1162'>Wesley Chapel</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0626008,
+          31.9668887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1170'>Sol Lux Alpha</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4192363,
+          37.7792808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1172'>Sunshine Health Facilities Resident Building</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1966687,
+          47.6691967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1173'>Rickey Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.361359,
+          53.8249697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1174'>Stellar Passive House Apartment Building</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0950506,
+          44.0505054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1175'>Bradburn Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1177'>Specht Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6164233,
+          37.3529172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1185'>Habitat for Humanity SSBC - Canon Perdido Condos</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.453263,
+          34.9528779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1186'>4564 19th Street Passive House Retrofit</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4192363,
+          37.7792808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1188'>Uptown Lofts</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1190'>Warnick Retreat</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0432974,
+          47.5348778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1260'>323 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1211'>Squirrel Hill Duplex</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1199'>Von Eckartsberg</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0841585,
+          38.8903961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1200'>North Street Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9545831,
+          41.4200938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1201'>ecoMOD South - South Boston</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9013987,
+          36.6987494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1203'>The Orchards at Orenco</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.989827,
+          45.5228939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1204'>Weinberg Commons</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0366456,
+          38.8949549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1206'>R Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5490381,
+          35.4619297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1210'>Domus Matris</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922497,
+          43.0349931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1213'>Seventh Day Adventist Church</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6978983,
+          42.3953617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1215'>337 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1216'>340 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1217'>341 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1218'>344 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1219'>Turner House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8168976,
+          44.6682799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1220'>Greener and MacLean Farmhouse</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4439425,
+          45.3360648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1222'>McQuillan Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.867513220741,
+          33.035378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1225'>Owl Haven Passive</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4094051,
+          48.0399806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1228'>Rideau Residences</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690308,
+          45.421106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1233'>Taft Faculty Housing, 59 North St</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1181658,
+          41.6062078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1236'>Madrona Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1239'>Smith Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4979741,
+          40.6460635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1240'>S1230 Studio Addition</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2935035,
+          36.7953392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1241'>Blue-Ridge Passive House Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1242'>5424 Addison Road</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9155291,
+          38.9009452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1243'>Emery Sreet Project</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8904308,
+          40.7670126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1245'>Columbia County Habitat Passive Townhouses</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.790959,
+          42.2528649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1247'>Project 580</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2616968,
+          39.950724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1249'>Viridescent House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.241993,
+          43.729525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1250'>Woodstock Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.118329,
+          42.041003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1251'>Windy View Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367613,
+          44.5400013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1252'>Phoenix PH-01</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1253'>Anton House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2825494,
+          41.7303794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1255'>Solterre Cottage</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3154816,
+          44.3774954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1259'>Mountain Lake Park Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3817107,
+          39.3984308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1261'>322 Rachel Carson Trail</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1262'>Mechanic Street Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5014469,
+          41.437324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1265'>View Haus 5</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1267'>Palatine Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1275'>Windsor Passivhaus</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5944539,
+          43.5480465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1276'>Anchor Bay House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5298281,
+          38.7674439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1279'>Village Center Apartments</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.760681,
+          44.796942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1288'>Wayland Passive house</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3606721,
+          42.3632063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1289'>Madison Supportive Housing</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3837613,
+          43.074761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1290'>Wallingford Passive House Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1292'>Ashtree Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.200835,
+          43.61656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1297'>East Lawrence Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2359496,
+          38.9719384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1298'>Right-Sized Passive Home</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7845025,
+          41.8850317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1299'>Kendra St Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2620435,
+          44.5645659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1300'>Berks Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6290752,
+          40.3734298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1301'>Staten Island B2</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1302'>Staten Island B7</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1303'>2 Thomas Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1633010541542,
+          44.0072736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1304'>Bryan / Corish Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4745621755176,
+          44.60744765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1305'>Alice Street Duplex - Housing NS</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.300006,
+          45.366668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1310'>RMI Basalt Innovation Center</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.0328242,
+          39.3688731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1311'>Beach Green North</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7551326,
+          40.6053825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1313'>Emerson St House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1316'>Italian Market Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635755,
+          39.9524152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1317'>Pitney Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1975851,
+          45.2109843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1323'>Christianson PH</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2620435,
+          44.5645659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1326'>Elm Place Multifamily Project</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11264,
+          44.635925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1329'>Hillcrest Senior Residences</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1330'>Studley Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9301365,
+          41.8498151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1337'>High Street Passive House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9545831,
+          41.4200938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1338'>Passive Lodge at Silver Lake</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4767897,
+          41.8792599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1339'>Joslin Hill House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.824936,
+          44.190082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1348'>Orchards at Orenco II</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.989827,
+          45.5228939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1351'>178 Main Street</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9545831,
+          41.4200938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1358'>Hillsdale</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5259511,
+          42.1789784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1360'>Governor's House - Passive Fair</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750937,
+          45.791619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1361'>Gardner Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3709999,
+          40.6916624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1362'>Saugatucket Pond House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5014469,
+          41.437324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1373'>Central Vermont Chapter Habitat for Humanity PH Build</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.487106,
+          44.271263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1376'>The Rockpile</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6647967,
+          42.5006217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1377'>Krueger Residence</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0201355,
+          42.1745334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1379'>Spring House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.658401,
+          45.0354784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1387'>Lewis</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8948725,
+          47.0450197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1396'>Hebron Heights</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.090385,
+          43.8874729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1414'>Capital Flats II</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635755,
+          39.9524152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-size": "large",
+        "name": "<a href='http://www.phius.org/projects/1419'>Maine Coast Waldorf High School</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.10376,
+          43.857307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFA500",
+        "marker-symbol": "building",
+        "name": "<a href='http://www.phius.org/projects/1431'>Lincoln House</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9971578,
+          44.1057946
+        ]
+      }
+    }
+  ]
+}
