@@ -56,14 +56,15 @@ for row in tab:
 
     prop['name'] = "<a href='http://www.phius.org/projects/{}'>{}</a>".format(row['No.'],
                                                                               row['Project'])
-    desc = ''
+    desc = '<table><tr>'
     for col in ['Builder', 'Const. type', 'Bldg. function', 'Floor area', 'Project type']:
-        desc = desc + '<strong>{}</strong>: {}'.format(col, row[col])
+        desc = desc + '<td>{}: {}</td>'.format(col, row[col])
+    desc = desc + '</tr></table>'
+    prop['description'] = desc
 
     out['features'].append({"type": "Feature",
                             "geometry": loc,
-                            "properties": prop,
-                            "description": desc})
+                            "properties": prop})
 
 
 with open("PHIUS.geojson", 'w') as f:
