@@ -56,10 +56,9 @@ for row in tab:
 
     prop['name'] = "<a href='http://www.phius.org/projects/{}'>{}</a>".format(row['No.'],
                                                                               row['Project'])
-    desc = '<table><tr>'
+    desc = ''
     for col in ['Builder', 'Const. type', 'Bldg. function', 'Floor area', 'Project type']:
-        desc = desc + '<td>{}: {}</td>'.format(col, row[col])
-    desc = desc + '</tr></table>'
+        desc = desc + '<strong>{}</strong>: {}'.format(col, row[col])
 
     out['features'].append({"type": "Feature",
                             "geometry": loc,

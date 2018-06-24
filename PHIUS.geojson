@@ -9,8 +9,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Studio 804 - Kansas University</td><td>Const. type: Timber</td><td>Bldg. function: Government</td><td>Floor area: 2396</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Studio 804 - Kansas University<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Government<strong>Floor area</strong>: 2396<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -25,8 +25,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Mod-U-Kraf</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 29248</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Mod-U-Kraf<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 29248<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -41,8 +41,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1232</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1232<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -57,8 +57,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity of Gallatin Valley</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1604</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity of Gallatin Valley<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1604<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -73,8 +73,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Oak Tree Homes</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3410</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Oak Tree Homes<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3410<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -89,8 +89,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Jos. Klockner & Co.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1735</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Jos. Klockner & Co.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1735<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -105,8 +105,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Phoenix Haus</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3234</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Phoenix Haus<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3234<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -121,8 +121,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Repal Construction</td><td>Const. type: Masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 36643</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Repal Construction<strong>Const. type</strong>: Masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 36643<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -137,8 +137,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Stephen Isdale</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1130</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Stephen Isdale<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1130<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -153,8 +153,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Commercial</td><td>Floor area: 6390</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 6390<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -169,8 +169,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Park City Design Build</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1869</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Park City Design Build<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1869<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -185,8 +185,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Brandon Weiss, Evolutionary Home Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2348</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Brandon Weiss, Evolutionary Home Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2348<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -201,8 +201,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PRHG General Contractors</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2025</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PRHG General Contractors<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2025<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -217,8 +217,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Structures Design/Build, LLC</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 6578</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Structures Design/Build, LLC<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 6578<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -233,8 +233,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Nelcon, Inc.</td><td>Const. type: Masonry</td><td>Bldg. function: Commercial</td><td>Floor area: 11088</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Nelcon, Inc.<strong>Const. type</strong>: Masonry<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 11088<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -249,8 +249,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: O'Neill Development, Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 4024</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: O'Neill Development, Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 4024<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -265,8 +265,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Nugent CM</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3200</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Nugent CM<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3200<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -281,8 +281,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2734</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2734<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -297,8 +297,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 1127</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1127<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -313,8 +313,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Structures Design/Build, LLC</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 1826</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Structures Design/Build, LLC<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1826<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -329,8 +329,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity Bowling Green/Warren County</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1176</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity Bowling Green/Warren County<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1176<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -345,8 +345,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Commodore Builders</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 28933</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Commodore Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 28933<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -361,8 +361,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 52382</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 52382<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -377,8 +377,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 28573</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 28573<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -393,8 +393,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 26734</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 26734<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -409,8 +409,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Andy Smith, Edwards Smith Construction LLC</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3182</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Andy Smith, Edwards Smith Construction LLC<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3182<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -425,8 +425,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 1800</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1800<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -441,8 +441,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Smith Family Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1392</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Smith Family Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1392<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -457,8 +457,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 39482</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 39482<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -473,8 +473,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 13832</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 13832<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -489,8 +489,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 8770</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 8770<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -505,8 +505,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 16977</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 16977<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -521,8 +521,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 10455</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 10455<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -537,8 +537,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Atmosphere Design Build</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3040</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Atmosphere Design Build<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3040<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -553,8 +553,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PIRHL Contractors, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 20950</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PIRHL Contractors, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 20950<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -569,8 +569,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Wright-Ryan Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 36161</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Wright-Ryan Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 36161<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -585,8 +585,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Evolutionary Home Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1785</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Evolutionary Home Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1785<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -601,8 +601,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3450</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3450<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -617,8 +617,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PIRHL Contractors, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 23796</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PIRHL Contractors, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 23796<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -633,8 +633,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PIRHL Contractors, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 17403</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PIRHL Contractors, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 17403<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -649,8 +649,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PIRHL Contractors, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 1708</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PIRHL Contractors, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 1708<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -665,8 +665,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Laconia Area Community Land Trust</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 20663</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Laconia Area Community Land Trust<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 20663<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -681,8 +681,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Banta Homes Corporation</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Multifamily</td><td>Floor area: 9655</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Banta Homes Corporation<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9655<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -697,8 +697,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 5514</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 5514<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -713,8 +713,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Columbia County Habitat for Humanity</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2872</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Columbia County Habitat for Humanity<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2872<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -729,8 +729,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 1150</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 1150<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -745,8 +745,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ryan Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3981</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ryan Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3981<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -761,8 +761,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 56050</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 56050<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -777,8 +777,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: S. Larade Custom Home Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2290</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: S. Larade Custom Home Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2290<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -793,8 +793,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Oak Tree Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1817</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Oak Tree Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1817<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -809,8 +809,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Woda Group</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 4805</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Woda Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 4805<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -825,8 +825,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 42278</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 42278<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -841,8 +841,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 39806</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 39806<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -857,8 +857,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ingerman</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: --</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ingerman<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: --<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -873,8 +873,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Frazier Passie House Design|Build Inc</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2138</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Frazier Passie House Design|Build Inc<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2138<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -889,8 +889,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Group Design Build Inc</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3366</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Group Design Build Inc<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3366<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -905,8 +905,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2013</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2013<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -921,8 +921,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Mixed-Use</td><td>Floor area: 148403</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Mixed-Use<strong>Floor area</strong>: 148403<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -937,8 +937,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: MacLeod Design & Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3090</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: MacLeod Design & Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3090<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -953,8 +953,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Rohan Developments</td><td>Const. type: Masonry</td><td>Bldg. function: Mixed-Use</td><td>Floor area: 16321</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Rohan Developments<strong>Const. type</strong>: Masonry<strong>Bldg. function</strong>: Mixed-Use<strong>Floor area</strong>: 16321<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -969,8 +969,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Woda Group</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 7008</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Woda Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 7008<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -985,8 +985,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: --</td><td>Floor area: --</td><td>Project type: --</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: --<strong>Floor area</strong>: --<strong>Project type</strong>: --",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1001,8 +1001,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Sota</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 61876</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Sota<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 61876<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1017,8 +1017,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Monadnock Construction Inc.</td><td>Const. type: Masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 152126</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Monadnock Construction Inc.<strong>Const. type</strong>: Masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 152126<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1033,8 +1033,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ryan Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2491</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ryan Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2491<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1049,8 +1049,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ingerman</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: --</td><td>Project type: --</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ingerman<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: --<strong>Project type</strong>: --",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1065,8 +1065,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ingerman</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: --</td><td>Project type: --</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ingerman<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: --<strong>Project type</strong>: --",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1081,8 +1081,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ingerman</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: --</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ingerman<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: --<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1097,8 +1097,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 5400</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 5400<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1113,8 +1113,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Craftsmen Builders, Inc.</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 3578</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Craftsmen Builders, Inc.<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3578<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1129,8 +1129,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Adaptive Building Solutions</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 4990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Adaptive Building Solutions<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 4990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1145,8 +1145,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2755</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2755<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1161,8 +1161,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 43573</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 43573<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1177,8 +1177,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Global Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1682</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Global Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1682<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1193,8 +1193,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: DiMarco Constructors LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 9274</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: DiMarco Constructors LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9274<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1209,8 +1209,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 6990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1225,8 +1225,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 9274</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9274<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1241,8 +1241,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 6990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1257,8 +1257,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 9274</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9274<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1273,8 +1273,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 6990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1289,8 +1289,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 6990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1305,8 +1305,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 5904</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 5904<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1321,8 +1321,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 5904</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 5904<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1337,8 +1337,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 9274</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9274<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1353,8 +1353,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 5904</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 5904<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1369,8 +1369,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Multifamily</td><td>Floor area: 6990</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6990<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1385,8 +1385,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hugh Lofting Timber Framing and High Performance Building</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2262</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hugh Lofting Timber Framing and High Performance Building<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2262<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1401,8 +1401,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 3680</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3680<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1417,8 +1417,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Mixed-Use</td><td>Floor area: 40200</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Mixed-Use<strong>Floor area</strong>: 40200<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1433,8 +1433,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 24554</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 24554<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1449,8 +1449,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 7603</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 7603<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1465,8 +1465,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 6120</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6120<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1481,8 +1481,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 9737</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9737<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1497,8 +1497,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 1035</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 1035<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-symbol": "building",
@@ -1513,8 +1513,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Frerichs Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 53167</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Frerichs Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 53167<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "large",
@@ -1529,8 +1529,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2778</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2778<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1545,8 +1545,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PDX Living, LLC</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 1175</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PDX Living, LLC<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1175<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1561,8 +1561,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Jon Landon</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1044</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Jon Landon<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1044<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1577,8 +1577,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: EcoCor Design/Build</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1140</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: EcoCor Design/Build<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1140<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1593,8 +1593,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Bilyeu Homes Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1567</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Bilyeu Homes Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1567<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1609,8 +1609,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: AnchorageBuildingCorp.com</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 2062</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: AnchorageBuildingCorp.com<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2062<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1625,8 +1625,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: G O Logic</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1143</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: G O Logic<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1143<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1641,8 +1641,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Structures Design/Build LLC</td><td>Const. type: Timber</td><td>Bldg. function: School</td><td>Floor area: 3053</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Structures Design/Build LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: School<strong>Floor area</strong>: 3053<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1657,8 +1657,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Studio 804 - Kansas University</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1725</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Studio 804 - Kansas University<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1725<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1673,8 +1673,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: University of Illinois</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 506</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: University of Illinois<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 506<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1689,8 +1689,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Green Mountain Habitat for Humanity</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1487</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Green Mountain Habitat for Humanity<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1487<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1705,8 +1705,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Bill Stratton Building</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1567</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Bill Stratton Building<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1567<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1721,8 +1721,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Beaton Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3184</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Beaton Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3184<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1737,8 +1737,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PassivWorks</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2055</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PassivWorks<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2055<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1753,8 +1753,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1353</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1353<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1769,8 +1769,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Mike Kernagis</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1242</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Mike Kernagis<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1242<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1785,8 +1785,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Mike Kernagis / Tim Gibbs</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1242</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Mike Kernagis / Tim Gibbs<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1242<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1801,8 +1801,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Katrin Klingenberg and Ed Sindelar</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1216</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Katrin Klingenberg and Ed Sindelar<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1216<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1817,8 +1817,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Darcy Bean Construction / Mike Kernagis</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2258</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Darcy Bean Construction / Mike Kernagis<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2258<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1833,8 +1833,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2655</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2655<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1849,8 +1849,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 959</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 959<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1865,8 +1865,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1043</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1043<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1881,8 +1881,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: --</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: --<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1897,8 +1897,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2134</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2134<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1913,8 +1913,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 895</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 895<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1929,8 +1929,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 1770</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1770<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1945,8 +1945,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Jobes Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1713</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Jobes Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1713<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1961,8 +1961,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: O'Neill Development, Inc.</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3674</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: O'Neill Development, Inc.<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3674<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1977,8 +1977,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Mitchell Custom Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 4538</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Mitchell Custom Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 4538<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -1993,8 +1993,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 1422</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 1422<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2009,8 +2009,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Benchmark</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2714</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Benchmark<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2714<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2025,8 +2025,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Southern Tier Housing Corporation</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1094</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Southern Tier Housing Corporation<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1094<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2041,8 +2041,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hammer and Hand</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3261</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hammer and Hand<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3261<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2057,8 +2057,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Sawyer Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2430</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Sawyer Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2430<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2073,8 +2073,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Strucutres Design/Build, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1752</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Strucutres Design/Build, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1752<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2089,8 +2089,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Westchester Modular Homes, Inc. and Big Sky Custom Homes LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2925</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Westchester Modular Homes, Inc. and Big Sky Custom Homes LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2925<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2105,8 +2105,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Clarum Homes (John Suppes & Sean Misskelley, CPHCs)</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2968</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Clarum Homes (John Suppes & Sean Misskelley, CPHCs)<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2968<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2121,8 +2121,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Structures DesignBuild</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3031</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Structures DesignBuild<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3031<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2137,8 +2137,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ecobuilding Collaborative of Oregon</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1137</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ecobuilding Collaborative of Oregon<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1137<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2153,8 +2153,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Donald P. Blake Jr. Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3351</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Donald P. Blake Jr. Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3351<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2169,8 +2169,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: G\u00ef\u00bf\u00bdO Logic</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1560</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: G\u00ef\u00bf\u00bdO Logic<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1560<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2185,8 +2185,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PDX Living, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2370</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PDX Living, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2370<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2201,8 +2201,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hammer and Hand</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 1397</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hammer and Hand<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 1397<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2217,8 +2217,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PDX Living, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2712</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PDX Living, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2712<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2233,8 +2233,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: One Sky Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2776</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: One Sky Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2776<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2249,8 +2249,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Green Generation Building Company</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1748</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Green Generation Building Company<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1748<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2265,8 +2265,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: AnchorageBuildingCorp.com</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 3961</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: AnchorageBuildingCorp.com<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3961<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2281,8 +2281,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Brandon Weiss, Weiss Building and Development, and Eric Barton, Biltmore Insulated Concrete</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 3598</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Brandon Weiss, Weiss Building and Development, and Eric Barton, Biltmore Insulated Concrete<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3598<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2297,8 +2297,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity of Madison & Clark Counties</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 970</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity of Madison & Clark Counties<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 970<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2313,8 +2313,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Josh Moore, Red Company</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2043</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Josh Moore, Red Company<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2043<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2329,8 +2329,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Maryland Custom Builders Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1773</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Maryland Custom Builders Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1773<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2345,8 +2345,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Leonard Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1644</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Leonard Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1644<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2361,8 +2361,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: TBI Contracting</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1739</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: TBI Contracting<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1739<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2377,8 +2377,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: AnchorageBuildingCorp.com</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 1867</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: AnchorageBuildingCorp.com<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1867<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2393,8 +2393,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Kentucky Highlands Investment Corporation</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1094</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Kentucky Highlands Investment Corporation<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1094<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2409,8 +2409,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2935</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2935<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2425,8 +2425,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Lorentz Bruun</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 13164</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Lorentz Bruun<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 13164<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -2441,8 +2441,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: HAOS</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 2619</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: HAOS<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2619<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2457,8 +2457,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Green Hammer, Alex Boetzel, CPHC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1119</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Green Hammer, Alex Boetzel, CPHC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1119<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2473,8 +2473,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: maine passive house</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1955</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: maine passive house<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1955<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2489,8 +2489,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity of Washington DC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 969</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity of Washington DC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 969<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2505,8 +2505,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Dunhill Companies Osterville, Ma  02655</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2019</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Dunhill Companies Osterville, Ma  02655<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2019<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2521,8 +2521,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Accent Builders, Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3112</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Accent Builders, Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3112<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2537,8 +2537,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Jeff Stern</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1680</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Jeff Stern<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1680<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2553,8 +2553,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: BC Passive House</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1890</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: BC Passive House<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1890<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2569,8 +2569,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1267</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1267<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2585,8 +2585,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: E Green Group</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1473</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: E Green Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1473<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2601,8 +2601,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Vert Design</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 2094</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Vert Design<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2094<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2617,8 +2617,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Dobson Building & Remodeling</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2502</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Dobson Building & Remodeling<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2502<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2633,8 +2633,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ellison Building Company</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 5045</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ellison Building Company<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 5045<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2649,8 +2649,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hammer and Hand, Inc</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3050</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hammer and Hand, Inc<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3050<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2665,8 +2665,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cardinal Homes, Wylliesburg, VA</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1361</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cardinal Homes, Wylliesburg, VA<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1361<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2681,8 +2681,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Green Hammer + CLI Staff/Volunteers</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Commercial</td><td>Floor area: 2257</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Green Hammer + CLI Staff/Volunteers<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 2257<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2697,8 +2697,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2700</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2700<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2713,8 +2713,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Homeowners</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1340</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Homeowners<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1340<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2729,8 +2729,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity Washington D.C.</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 3775</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity Washington D.C.<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 3775<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2745,8 +2745,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PassivWorks</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 562</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PassivWorks<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 562<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2761,8 +2761,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: PassivWorks</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3153</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: PassivWorks<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3153<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2777,8 +2777,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hugh Lofting Timber Framing Inc</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 2140</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hugh Lofting Timber Framing Inc<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2140<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2793,8 +2793,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity, Washington D.C.</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 3747</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity, Washington D.C.<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 3747<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2809,8 +2809,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: MainStream Corporation</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 5797</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: MainStream Corporation<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 5797<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2825,8 +2825,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Smith-Hyder Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 5431</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Smith-Hyder Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 5431<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2841,8 +2841,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Kentucky Highlands Investment Corporation</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1094</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Kentucky Highlands Investment Corporation<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1094<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2857,8 +2857,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Kentucky Highlands Investment Corporation</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1094</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Kentucky Highlands Investment Corporation<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1094<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2873,8 +2873,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Global Sustainable Solutions</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Single Family</td><td>Floor area: 2725</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Global Sustainable Solutions<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2725<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2889,8 +2889,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Latitude 38 - www.latitude38llc.com</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2453</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Latitude 38 - www.latitude38llc.com<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2453<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2905,8 +2905,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 7243</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 7243<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2921,8 +2921,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Brookfield Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2680</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Brookfield Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2680<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2937,8 +2937,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Montpelier Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1436</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Montpelier Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1436<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2953,8 +2953,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2190</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2190<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2969,8 +2969,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Roscoe Construction</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Commercial</td><td>Floor area: 6705</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Roscoe Construction<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 6705<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -2985,8 +2985,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Ciervo and Sons Renovations, Inc</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1773</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Ciervo and Sons Renovations, Inc<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1773<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3001,8 +3001,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Carmel Building & Design</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1433</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Carmel Building & Design<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1433<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3017,8 +3017,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Trolle</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1359</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Trolle<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1359<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3033,8 +3033,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: The Artisans Group</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1533</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: The Artisans Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1533<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3049,8 +3049,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cation Construction Co.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1531</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cation Construction Co.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1531<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3065,8 +3065,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Sarter Construciton & Design, Inc; DBA Off The Grid Design</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 6664</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Sarter Construciton & Design, Inc; DBA Off The Grid Design<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 6664<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3081,8 +3081,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Jon Hawley, Tamarack Ridge Construction</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 17852</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Jon Hawley, Tamarack Ridge Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 17852<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -3097,8 +3097,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Pura Vida Homes</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1720</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Pura Vida Homes<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1720<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3113,8 +3113,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Meili Construction Company, Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 5034</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Meili Construction Company, Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 5034<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3129,8 +3129,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Daniel McNaughton</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2621</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Daniel McNaughton<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2621<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3145,8 +3145,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Structures Design/Build, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1406</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Structures Design/Build, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1406<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3161,8 +3161,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity SSBC - Allen Associates</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 3543</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity SSBC - Allen Associates<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 3543<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3177,8 +3177,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: ENU Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3361</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: ENU Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3361<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3193,8 +3193,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Mosites</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 19672</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Mosites<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 19672<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -3209,8 +3209,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Glenn Carter, Advanced Building Consultants</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 2215</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Glenn Carter, Advanced Building Consultants<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2215<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3225,8 +3225,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 948</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 948<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3241,8 +3241,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Builders & Remodelers (\"partial execution\"), Exterior Cladding Leaf Redevelopment (\"partial execution\")</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 4119</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Builders & Remodelers (\"partial execution\"), Exterior Cladding Leaf Redevelopment (\"partial execution\")<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 4119<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3257,8 +3257,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Metro Green LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 4074</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Metro Green LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 4074<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3273,8 +3273,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Nugent CM</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 1845</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Nugent CM<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1845<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3289,8 +3289,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cardinal Homes, Wylliesburg, VA</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1361</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cardinal Homes, Wylliesburg, VA<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1361<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3305,8 +3305,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Walsh Construction</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 42584</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Walsh Construction<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 42584<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -3321,8 +3321,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Entellis Collaborative</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 9380</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Entellis Collaborative<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 9380<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3337,8 +3337,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Daigo Kensetsu Co., Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1631</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Daigo Kensetsu Co., Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1631<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3353,8 +3353,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Edge Grain LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1964</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Edge Grain LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1964<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3369,8 +3369,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Mixed-Use</td><td>Floor area: 6538</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Mixed-Use<strong>Floor area</strong>: 6538<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3385,8 +3385,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1270</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1270<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3401,8 +3401,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1267</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1267<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3417,8 +3417,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1270</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1270<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3433,8 +3433,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Michael Carpenter</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1267</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Michael Carpenter<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1267<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3449,8 +3449,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2083</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2083<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3465,8 +3465,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1675</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1675<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3481,8 +3481,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Alliance Green Builders</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2577</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Alliance Green Builders<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2577<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3497,8 +3497,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Richard Epstein</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1496</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Richard Epstein<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1496<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3513,8 +3513,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: VERT plan.design.build</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Multifamily</td><td>Floor area: 3536</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: VERT plan.design.build<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 3536<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3529,8 +3529,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: BPC Green Builders</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3131</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: BPC Green Builders<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3131<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3545,8 +3545,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hammer and Hand</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3778</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hammer and Hand<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3778<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3561,8 +3561,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: T&T Mountain Builders inc</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2265</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: T&T Mountain Builders inc<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2265<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3577,8 +3577,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Studio 1230</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 436</td><td>Project type: Addition</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Studio 1230<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 436<strong>Project type</strong>: Addition",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3593,8 +3593,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Dyna Contracting</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2891</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Dyna Contracting<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2891<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3609,8 +3609,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: O'Neill Development, Inc.</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1243</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: O'Neill Development, Inc.<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1243<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3625,8 +3625,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Salt Lake City Housing and Neighborhood Development</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1793</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Salt Lake City Housing and Neighborhood Development<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1793<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3641,8 +3641,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Columbia County Habitat for Humanity</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2680</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Columbia County Habitat for Humanity<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2680<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3657,8 +3657,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cedar Street Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2600</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cedar Street Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2600<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3673,8 +3673,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: R&G Bilodeau Carpentry and Electrical</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1470</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: R&G Bilodeau Carpentry and Electrical<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1470<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3689,8 +3689,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 2373</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2373<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3705,8 +3705,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Bilyeu Homes, Inc</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1660</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Bilyeu Homes, Inc<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1660<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3721,8 +3721,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hinge Build Group</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1568</td><td>Project type: Addition</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hinge Build Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1568<strong>Project type</strong>: Addition",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3737,8 +3737,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Swanson Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2715</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Swanson Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2715<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3753,8 +3753,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 1455</td><td>Project type: --</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1455<strong>Project type</strong>: --",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3769,8 +3769,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Gosnell Builders</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3175</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Gosnell Builders<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3175<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3785,8 +3785,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 987</td><td>Project type: --</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 987<strong>Project type</strong>: --",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3801,8 +3801,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Stephen C. DeMetrick Fine Woodworking</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1404</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Stephen C. DeMetrick Fine Woodworking<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1404<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3817,8 +3817,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cascade Built</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1062</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cascade Built<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1062<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3833,8 +3833,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Blue & Yellow Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2493</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Blue & Yellow Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2493<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3849,8 +3849,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Montpelier Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1819</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Montpelier Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1819<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3865,8 +3865,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 996</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 996<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3881,8 +3881,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Wright-Ryan Construction (WRC)</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 51778</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Wright-Ryan Construction (WRC)<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 51778<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -3897,8 +3897,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Auburndale Builders</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 5635</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Auburndale Builders<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 5635<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3913,8 +3913,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: McGann COnstruction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 27838</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: McGann COnstruction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 27838<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -3929,8 +3929,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hammer & Hand</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3458</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hammer & Hand<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3458<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3945,8 +3945,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Enerform</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2845</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Enerform<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2845<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3961,8 +3961,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Studio 804</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1941</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Studio 804<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1941<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3977,8 +3977,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Evolutionary Home Builders</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1724</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Evolutionary Home Builders<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1724<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -3993,8 +3993,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1302</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1302<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4009,8 +4009,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Owner</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2440</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Owner<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2440<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4025,8 +4025,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Bluestone RRSI, LLC</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 820</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Bluestone RRSI, LLC<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 820<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4041,8 +4041,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 1105</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1105<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4057,8 +4057,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Alex Carver</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1721</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Alex Carver<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1721<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4073,8 +4073,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: S.Larade Custom HomeBuilder</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1951</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: S.Larade Custom HomeBuilder<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1951<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4089,8 +4089,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Global Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 3441</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Global Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 3441<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4105,8 +4105,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: JE Dunn Construction</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 15610</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: JE Dunn Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 15610<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4121,8 +4121,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: The Bluestone Organization</td><td>Const. type: Insulated concrete forms</td><td>Bldg. function: Multifamily</td><td>Floor area: 93894</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: The Bluestone Organization<strong>Const. type</strong>: Insulated concrete forms<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 93894<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4137,8 +4137,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Birdsmouth Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 2098</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Birdsmouth Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 2098<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4153,8 +4153,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hanson General Contracting</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2293</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hanson General Contracting<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2293<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4169,8 +4169,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Cellar Ridge Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1004</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Cellar Ridge Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1004<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4185,8 +4185,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: G. Christianson Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1935</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: G. Christianson Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1935<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4201,8 +4201,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 27690</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 27690<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4217,8 +4217,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: SOTA</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 54435</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: SOTA<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 54435<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4233,8 +4233,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: BPC Green Buiders, Jeff Girvalo</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 3600</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: BPC Green Buiders, Jeff Girvalo<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3600<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4249,8 +4249,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Nugent Construction Management LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 3245</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Nugent Construction Management LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3245<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4265,8 +4265,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Benjamin Bogie, Built To Last LLC</td><td>Const. type: Timber</td><td>Bldg. function: Commercial</td><td>Floor area: 2423</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Benjamin Bogie, Built To Last LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 2423<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4281,8 +4281,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Shelterwood Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2548</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Shelterwood Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2548<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4297,8 +4297,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Walsh Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 46148</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Walsh Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 46148<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4313,8 +4313,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Form Factory LLC</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Commercial</td><td>Floor area: 1097</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Form Factory LLC<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Commercial<strong>Floor area</strong>: 1097<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4329,8 +4329,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Steve Bluestone</td><td>Const. type: Autoclaved aerated concrete (AAC)</td><td>Bldg. function: Single Family</td><td>Floor area: 3978</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Steve Bluestone<strong>Const. type</strong>: Autoclaved aerated concrete (AAC)<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 3978<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4345,8 +4345,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1415</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1415<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4361,8 +4361,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Graf Custom Construction, LLC</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2180</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Graf Custom Construction, LLC<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2180<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4377,8 +4377,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Steve DeMetrick</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2480</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Steve DeMetrick<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2480<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4393,8 +4393,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Habitat for Humanity/ Montpelier Construction</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1318</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Habitat for Humanity/ Montpelier Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1318<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4409,8 +4409,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hoeper Green Power</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 807</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hoeper Green Power<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 807<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4425,8 +4425,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Hills Construction Management</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 2116</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Hills Construction Management<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2116<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4441,8 +4441,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: William Murray and Sarah Cobb</td><td>Const. type: Mixed timber-masonry</td><td>Bldg. function: Single Family</td><td>Floor area: 1432</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: William Murray and Sarah Cobb<strong>Const. type</strong>: Mixed timber-masonry<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1432<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4457,8 +4457,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: --</td><td>Bldg. function: Single Family</td><td>Floor area: 2288</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: --<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 2288<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4473,8 +4473,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Graham Construction</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 7473</td><td>Project type: Retrofit</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Graham Construction<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 7473<strong>Project type</strong>: Retrofit",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
@@ -4489,8 +4489,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Onion Flats</td><td>Const. type: Timber</td><td>Bldg. function: Multifamily</td><td>Floor area: 16782</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Onion Flats<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Multifamily<strong>Floor area</strong>: 16782<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4505,8 +4505,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: Warren Construction Group</td><td>Const. type: Timber</td><td>Bldg. function: School</td><td>Floor area: 10216</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: Warren Construction Group<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: School<strong>Floor area</strong>: 10216<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-size": "large",
@@ -4521,8 +4521,8 @@
         ],
         "type": "Point"
       },
-      "description": "<table><tr><td>Builder: --</td><td>Const. type: Timber</td><td>Bldg. function: Single Family</td><td>Floor area: 1794</td><td>Project type: New Construction</td></tr></table>",
       "type": "Feature",
+      "description": "<strong>Builder</strong>: --<strong>Const. type</strong>: Timber<strong>Bldg. function</strong>: Single Family<strong>Floor area</strong>: 1794<strong>Project type</strong>: New Construction",
       "properties": {
         "marker-color": "#FF8C00",
         "marker-symbol": "building",
