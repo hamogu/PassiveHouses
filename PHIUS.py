@@ -15,9 +15,10 @@ geolocator = Nominatim()
 
 loc_by_hand = {'West Moberly, BC': {'coordinates': [-121.8553452, 55.8277321], 'type': 'Point'},
                'St. Joseph, IL': {'coordinates': [-88.0419502, 40.1136387], 'type': 'Point'},
-                              'Unicorporated Adams County, CO': {'coordinates': [-104.9785223, 39.9212746], 'type': 'Point'},
+               'Unicorporated Adams County, CO': {'coordinates': [-104.9785223, 39.9212746], 'type': 'Point'},
                'Yokohama City, Japan': {'coordinates': [139.5490381, 35.4619297], 'type': 'Point'},
                'Va. Beach, VA': {'coordinates': [-76.2935035, 36.7953392], 'type': 'Point'},
+               'Elk, WA': {'coordinates': [-117.2853794, 48.0162853], 'type': 'Point'},
 }
 
 
@@ -42,9 +43,9 @@ for row in tab:
 
     prop = OrderedDict()
     if row['Status'] == 'Pre-certified':
-        prop["marker-color"] = "#FF0000"
+        prop["marker-color"] = "#FFFF00"
     elif row['Status'] == 'Certified':
-        prop["marker-color"] = "#FFA500"
+        prop["marker-color"] = "#FF8C00"
     else:
         prop["marker-color"] = "#FFFFFF"
 
@@ -62,7 +63,8 @@ for row in tab:
 
     out['features'].append({"type": "Feature",
                             "geometry": loc,
-                            "properties": prop})
+                            "properties": prop,
+                            "description": desc})
 
 
 with open("PHIUS.geojson", 'w') as f:
