@@ -347,7 +347,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#FFFF00",
+        "marker-color": "#FF8C00",
         "marker-size": "large",
         "name": "<a href='http://www.phius.org/projects/1257'>Distillery North</a>",
         "description": "<table><tr><td><strong>Builder</strong></td><td>Commodore Builders</td></tr><tr><td><strong>Const. type</strong></td><td>Timber</td></tr><tr><td><strong>Bldg. function</strong></td><td>Multifamily</td></tr><tr><td><strong>Floor area</strong></td><td>28933</td></tr><tr><td><strong>Project type</strong></td><td>New Construction</td></tr></table>"
