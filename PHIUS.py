@@ -67,6 +67,8 @@ for row in tab:
     prop['name'] = "<a href='http://www.phius.org/projects/{}'>{}</a>".format(row['No.'],
                                                                               row['Project'])
     desc = '<table>'
+    desc = desc + '<tr><td>Certified by</td><td><a href="https://www.phius.org">PHIUS</a></td></tr>'
+
     for col in ['Builder', 'Const. type', 'Bldg. function', 'Floor area', 'Project type']:
         desc = desc + '<tr><td><strong>{}</strong></td><td>{}</td></tr>'.format(col, row[col])
     desc = desc + '</table>'
