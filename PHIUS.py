@@ -53,9 +53,9 @@ for row in tab:
 
     prop = OrderedDict()
     if row['Status'] == 'Pre-certified':
-        prop["marker-color"] = "#FFFF00"
+        prop["marker-color"] = "#C4F09E"
     elif row['Status'] == 'Certified':
-        prop["marker-color"] = "#FF8C00"
+        prop["marker-color"] = "#79BD9A"
     else:
         prop["marker-color"] = "#FFFFFF"
 

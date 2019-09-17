@@ -14,7 +14,7 @@ for row in phi:
     loc = {"type": "Point", "coordinates": [row['lon'], row['lat']]}
 
     prop = OrderedDict()
-    prop["marker-color"] = "#FF0000"
+    prop["marker-color"] = "#C02942"
     if row['pid'] is None:
         prop['name'] = standard[row['std']]
     else:
