@@ -13,7 +13,7 @@ tab = Table.read('http://www.phius.org/phius-certification-for-buildings-product
 geolocator = Nominatim()
 
 if os.path.exists("coords_temp.json"):
-    with open("coords_temp.json", 'w') as f:
+    with open("coords_temp.json") as f:
         loc_by_hand = json.load(f)
 
 else:
