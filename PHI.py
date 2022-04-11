@@ -18,7 +18,7 @@ for row in phi:
     if row['pid'] is None:
         prop['name'] = standard[row['std']]
     else:
-        prop['name'] = "<a href='https://passivehouse-database.org/#d_{}'>{}</a>".format(row['pid'],
+        prop['name'] = "<a href='https://passivehouse-database.org/index.php?lang=en#d_{}'>{}</a>".format(row['pid'],
                                                                                   standard[row['std']])
     desc = '<table>'
     desc = desc + '<tr><td>Certified by</td><td><a href="https://passiv.de/">PHI</a></td></tr>'
