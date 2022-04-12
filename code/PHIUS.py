@@ -1,10 +1,11 @@
+import os
 import json
 from urllib.request import urlopen
 
 from geopy.geocoders import Nominatim
 from bs4 import BeautifulSoup
 
-geolocator = Nominatim()
+geolocator = Nominatim(user_agent="PassiveHouseDatabaseHarvester")
 
 
 def extract_project_data(soup):
@@ -94,14 +95,14 @@ def extract_project_detail(soup):
 
     loc = soup.find(attrs={'class': 'location'})
     if loc:
-        extracted_data['location'] = loc[0].get_text().strip()
+        extracted_data['location'] = loc.get_text().strip()
     return extracted_data
 
 
 def get_list_all_projects():
     url = "https://www.phius.org/certified-project-database?_page=1&keywords=&_limit=10000"
     html = urlopen(url).read()
-    allsoup = BeautifulSoup(html)
+    allsoup = BeautifulSoup(html, features="lxml")
     projectlist = allsoup.find_all('article', attrs={'data-result-type': "project"})
     all_projects = {}
     for p in projectlist:
@@ -122,15 +123,16 @@ def download_new_project_details(current_project_list, update_all=False):
     with open("data/PHIUS.json", 'r') as f:
         known_projects = json.load(f)
 
-    for k, v in current_project_list:
-        if (not update_all) or (k not in current_project_list):
+    for k, v in current_project_list.items():
+        if update_all or (k not in known_projects) or ('location' not in known_projects[k]):
+            print(f'Getting details for {k}')
             html = urlopen(v['link']).read()
-            onesoup = BeautifulSoup(html)
+            onesoup = BeautifulSoup(html, features="lxml")
             v.update(extract_project_detail(onesoup))
-            current_project_list[k] = v
+            known_projects[k] = v
 
     with open("data/PHIUS.json", 'w') as f:
-        json.dump(current_project_list, f, indent=2)
+        json.dump(known_projects, f, indent=2)
 
 
 def add_location():
@@ -148,15 +150,16 @@ def add_location():
                 if loc in known_locs:
                     v['Location'] = known_locs[loc]
                 else:
-                    loc = geolocator.geocode(loc + ', USA', timeout=10)
+                    print(f'Searching locations for {loc}')
+                    geoloc = geolocator.geocode(loc + ', USA', timeout=10)
+                    if geoloc is None:
+                        geoloc = geolocator.geocode(loc + ', Canada', timeout=10)
                     if loc is None:
-                        loc = geolocator.geocode(loc + ', Canada', timeout=10)
-                    if loc is None:
-                        loc = geolocator.geocode(loc, timeout=10)
-                    if loc is None:
+                        geoloc = geolocator.geocode(loc, timeout=10)
+                    if geoloc is None:
                         print(f'Skipping project {k} - location not found {v["location"]}')
                         continue
-                    locobj = {"type": "Point", "coordinates": [loc.longitude, loc.latitude]}
+                    locobj = {"type": "Point", "coordinates": [geoloc.longitude, geoloc.latitude]}
                     # Save values so the same location is looked up only once for speed
                     known_locs[loc] = locobj
                     # And also add to the database of objects
@@ -167,9 +170,9 @@ def add_location():
         json.dump(known_locs, f, indent=2)
 
 
-statuscolor = {'Pre-certified': "#C4F09E",
-                'Certified': "#79BD9A",
-                None: "#FFFFFF"}
+statuscolor = {'Pre-certified': "#C4F09E", 'Design Certified': "#C4F09E",
+               'Certified': "#79BD9A", 'Final Certified': '#79BD9A',
+                'Registered': "#FFFFFF", None: "#FFFFFF"}
 
 def json2geojson():
     with open("data/PHIUS.json", 'r') as f:
@@ -183,7 +186,7 @@ def json2geojson():
             continue
         prop = {}
         status = v.get('Status', None)
-        prop["marker-color"] = statuscolor(status)
+        prop["marker-color"] = statuscolor[status]
 
         if v.get('Floor area', 0) > 10000:
             prop["marker-size"] = "large"
@@ -197,7 +200,7 @@ def json2geojson():
 
         for col in ['Project Type', 'Building Function', 'Construction Type', 'INT. Conditioned Floor Area']:
             if col in v:
-                desc = desc + f'<tr><td><strong>{col}</strong></td><td>{v["col"]}</td></tr>'
+                desc = desc + f'<tr><td><strong>{col}</strong></td><td>{v[col]}</td></tr>'
         desc = desc + '</table>'
         prop['description'] = desc
 
@@ -212,7 +215,7 @@ def json2geojson():
 if __name__ == '__main__':
     url = "https://www.phius.org/certified-project-database?_page=1&keywords=&_limit=10000"
     html = urlopen(url).read()
-    allsoup = BeautifulSoup(html)
+    allsoup = BeautifulSoup(html, features="lxml")
     current_project_list = get_list_all_projects()
     download_new_project_details(current_project_list)
     add_location()
