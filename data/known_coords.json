@@ -1,0 +1,4132 @@
+{
+  "West Moberly, BC": {
+    "coordinates": [
+      -121.8553452,
+      55.8277321
+    ],
+    "type": "Point"
+  },
+  "St. Joseph, IL": {
+    "coordinates": [
+      -88.0419502,
+      40.1136387
+    ],
+    "type": "Point"
+  },
+  "Unicorporated Adams County, CO": {
+    "coordinates": [
+      -104.9785223,
+      39.9212746
+    ],
+    "type": "Point"
+  },
+  "Yokohama City, Japan": {
+    "coordinates": [
+      139.5490381,
+      35.4619297
+    ],
+    "type": "Point"
+  },
+  "Va. Beach, VA": {
+    "coordinates": [
+      -76.2935035,
+      36.7953392
+    ],
+    "type": "Point"
+  },
+  "Elk, WA": {
+    "coordinates": [
+      -117.2853794,
+      48.0162853
+    ],
+    "type": "Point"
+  },
+  "Lake Geneva (Jainsville/Rock County, WI climate data set), WI": {
+    "coordinates": [
+      -88.4509902,
+      42.5866519
+    ],
+    "type": "Point"
+  },
+  "Belingham, WA": {
+    "coordinates": [
+      -122.5313497,
+      48.753404
+    ],
+    "type": "Point"
+  },
+  "Wurtsburo, NY": {
+    "coordinates": [
+      -74.4945967,
+      41.5765227
+    ],
+    "type": "Point"
+  },
+  "Shaw Island, San Juan Islands, WA": {
+    "coordinates": [
+      -122.9949629,
+      48.570948
+    ],
+    "type": "Point"
+  },
+  "Lawrence, KS": {
+    "type": "Point",
+    "coordinates": [
+      -95.2359496,
+      38.9719384
+    ]
+  },
+  "Emory , VA": {
+    "type": "Point",
+    "coordinates": [
+      -81.8362343,
+      36.7728907
+    ]
+  },
+  "Tacoma, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.4398746,
+      47.2495798
+    ]
+  },
+  "Belgrade, MT": {
+    "type": "Point",
+    "coordinates": [
+      -111.184535,
+      45.773279
+    ]
+  },
+  "Wilton, IA": {
+    "type": "Point",
+    "coordinates": [
+      -91.0168179,
+      41.5889154
+    ]
+  },
+  "Derwood, MD": {
+    "type": "Point",
+    "coordinates": [
+      -77.1610916,
+      39.11733
+    ]
+  },
+  "Freeland, MI": {
+    "type": "Point",
+    "coordinates": [
+      -84.1227598,
+      43.5250265
+    ]
+  },
+  "McKeesport, PA": {
+    "type": "Point",
+    "coordinates": [
+      -79.864215,
+      40.3478472
+    ]
+  },
+  "Austin, TX": {
+    "type": "Point",
+    "coordinates": [
+      -92.7907215,
+      35.5306348
+    ]
+  },
+  "Hillsville, VA": {
+    "type": "Point",
+    "coordinates": [
+      -80.7347947,
+      36.7626282
+    ]
+  },
+  "Park City, UT": {
+    "type": "Point",
+    "coordinates": [
+      -111.4979741,
+      40.6460635
+    ]
+  },
+  "Hinsdale, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.9299841,
+      41.8024604
+    ]
+  },
+  "Bellmore, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.5285878127105,
+      40.6540805
+    ]
+  },
+  "ROANOKE, VA": {
+    "type": "Point",
+    "coordinates": [
+      -79.9602021478478,
+      37.2738215
+    ]
+  },
+  "Pittsburgh, PA": {
+    "type": "Point",
+    "coordinates": [
+      -79.9900861,
+      40.4416941
+    ]
+  },
+  "Rockville, MD": {
+    "type": "Point",
+    "coordinates": [
+      -77.1527573,
+      39.0840054
+    ]
+  },
+  "Tucson, AZ": {
+    "type": "Point",
+    "coordinates": [
+      -110.9262353,
+      32.2218917
+    ]
+  },
+  "Staten Island, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.1496048,
+      40.5834557
+    ]
+  },
+  "Natural Bridge, VA": {
+    "type": "Point",
+    "coordinates": [
+      -79.5431919,
+      37.6301932
+    ]
+  },
+  "Bowling Green, KY": {
+    "type": "Point",
+    "coordinates": [
+      -86.4436018,
+      36.9903199
+    ]
+  },
+  "Philipsburg, PA": {
+    "type": "Point",
+    "coordinates": [
+      -78.2205688,
+      40.8964465
+    ]
+  },
+  "New York, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9495823,
+      40.6501038
+    ]
+  },
+  "Elizabethtown, KY": {
+    "type": "Point",
+    "coordinates": [
+      -85.8591285,
+      37.693952
+    ]
+  },
+  "Philadelphia, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.1635262,
+      39.9527237
+    ]
+  },
+  "Wilkes Barre, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.8817316,
+      41.2464824
+    ]
+  },
+  "Nevada City, CA": {
+    "type": "Point",
+    "coordinates": [
+      -121.0160594,
+      39.2615606
+    ]
+  },
+  "Chambersburg, PA": {
+    "type": "Point",
+    "coordinates": [
+      -77.6598624,
+      39.9405903
+    ]
+  },
+  "Downers Grove, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.010376,
+      41.7938195
+    ]
+  },
+  "Salt Lake City, UT": {
+    "type": "Point",
+    "coordinates": [
+      -111.8904308,
+      40.7670126
+    ]
+  },
+  "New York City , NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Doig River, BC": {
+    "type": "Point",
+    "coordinates": [
+      -120.4746427,
+      56.7165281
+    ]
+  },
+  "Valatie, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.6731749,
+      42.4134168
+    ]
+  },
+  "Post Falls, ID": {
+    "type": "Point",
+    "coordinates": [
+      -116.9480877,
+      47.7110106
+    ]
+  },
+  "Callicoon, NY": {
+    "type": "Point",
+    "coordinates": [
+      -75.0562785,
+      41.7673105
+    ]
+  },
+  "Lake Tapps, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.175326724325,
+      47.2198644
+    ]
+  },
+  "Madison, NJ": {
+    "type": "Point",
+    "coordinates": [
+      -74.417097,
+      40.7598227
+    ]
+  },
+  "Columbus, OH": {
+    "type": "Point",
+    "coordinates": [
+      -83.0007065,
+      39.9622601
+    ]
+  },
+  "Halifax, NS": {
+    "type": "Point",
+    "coordinates": [
+      -76.9314571,
+      40.4691049
+    ]
+  },
+  "Muncy, PA": {
+    "type": "Point",
+    "coordinates": [
+      -76.7870991,
+      41.20484
+    ]
+  },
+  "Norristown, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.3399048,
+      40.121497
+    ]
+  },
+  "Landisville, PA": {
+    "type": "Point",
+    "coordinates": [
+      -76.4101958,
+      40.0951196
+    ]
+  },
+  "Winston Salem, NC": {
+    "type": "Point",
+    "coordinates": [
+      -80.2440518,
+      36.0998131
+    ]
+  },
+  "Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1056157,
+      42.3750997
+    ]
+  },
+  "Spicewood, TX": {
+    "type": "Point",
+    "coordinates": [
+      -98.1566355,
+      30.4759222
+    ]
+  },
+  "Brookings, SD": {
+    "type": "Point",
+    "coordinates": [
+      -96.79844,
+      44.311461
+    ]
+  },
+  "Queens, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.7914214158161,
+      40.6524927
+    ]
+  },
+  "Berkeley, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.2728639,
+      37.8708393
+    ]
+  },
+  "New York City, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Bronx, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.8404035580209,
+      40.85048545
+    ]
+  },
+  "Portland, ME": {
+    "type": "Point",
+    "coordinates": [
+      -70.2548596,
+      43.6610277
+    ]
+  },
+  "Somerville, NJ": {
+    "type": "Point",
+    "coordinates": [
+      -74.60988,
+      40.5742696
+    ]
+  },
+  "Glassport, PA": {
+    "type": "Point",
+    "coordinates": [
+      -79.8922712,
+      40.3247918
+    ]
+  },
+  "Sioux Falls, SD": {
+    "type": "Point",
+    "coordinates": [
+      -96.700327,
+      43.5499749
+    ]
+  },
+  "Johnstown, PA": {
+    "type": "Point",
+    "coordinates": [
+      -78.9219698,
+      40.3267407
+    ]
+  },
+  "Seattle, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.3300624,
+      47.6038321
+    ]
+  },
+  "bellingham, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.4788361,
+      48.7544012
+    ]
+  },
+  "Meriden , CT": {
+    "type": "Point",
+    "coordinates": [
+      -72.8070435,
+      41.5381535
+    ]
+  },
+  "Meriden, CT": {
+    "type": "Point",
+    "coordinates": [
+      -72.8070435,
+      41.5381535
+    ]
+  },
+  "Erie, PA": {
+    "type": "Point",
+    "coordinates": [
+      -80.0852695,
+      42.1294712
+    ]
+  },
+  "Minneapolis, MN": {
+    "type": "Point",
+    "coordinates": [
+      -93.268217735811,
+      44.9706705
+    ]
+  },
+  "Washington, DC": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365625,
+      38.8950092
+    ]
+  },
+  "Lake Bluff, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.8342362,
+      42.2789117
+    ]
+  },
+  "Chicago, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.6244212,
+      41.8755616
+    ]
+  },
+  "Provo, UT": {
+    "type": "Point",
+    "coordinates": [
+      -111.6585337,
+      40.2338438
+    ]
+  },
+  "Far Rockaway, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.7551326,
+      40.6053825
+    ]
+  },
+  "Williamstown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -73.2035986,
+      42.712207
+    ]
+  },
+  "Cary, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.2381381,
+      42.2119684
+    ]
+  },
+  "Spokane, WA": {
+    "type": "Point",
+    "coordinates": [
+      -117.4212265,
+      47.6579425
+    ]
+  },
+  "Cooperstown, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.924321,
+      42.7006303
+    ]
+  },
+  "Newburgh, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.0104179,
+      41.5034271
+    ]
+  },
+  "Norton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1869939,
+      41.9667666
+    ]
+  },
+  "Falls Church, VA": {
+    "type": "Point",
+    "coordinates": [
+      -77.1710914,
+      38.882334
+    ]
+  },
+  "Edgartown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.5133599,
+      41.3890052
+    ]
+  },
+  "New Kensington, PA": {
+    "type": "Point",
+    "coordinates": [
+      -79.7647705,
+      40.5697893
+    ]
+  },
+  "Brooklyn , NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9495823,
+      40.6501038
+    ]
+  },
+  "Rockford, MI": {
+    "type": "Point",
+    "coordinates": [
+      -85.559604,
+      43.119721
+    ]
+  },
+  "Vienna, VA": {
+    "type": "Point",
+    "coordinates": [
+      -77.2651762,
+      38.9013729
+    ]
+  },
+  "Susquehanna Township, PA": {
+    "type": "Point",
+    "coordinates": [
+      -78.7691743735002,
+      40.6804015
+    ]
+  },
+  "Hillsboro, OR": {
+    "type": "Point",
+    "coordinates": [
+      -122.989827,
+      45.5228939
+    ]
+  },
+  "Hatfield, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.2995777,
+      40.2796371
+    ]
+  },
+  "MOAB, UT": {
+    "type": "Point",
+    "coordinates": [
+      -109.5462146,
+      38.5738096
+    ]
+  },
+  "Bainbridge Island, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.5204513,
+      47.6262626
+    ]
+  },
+  "Burlington, VT": {
+    "type": "Point",
+    "coordinates": [
+      -73.2135472,
+      44.4762975
+    ]
+  },
+  "Indianola, IA": {
+    "type": "Point",
+    "coordinates": [
+      -93.5599632,
+      41.3605271
+    ]
+  },
+  "State College, PA": {
+    "type": "Point",
+    "coordinates": [
+      -77.8616386,
+      40.7944504
+    ]
+  },
+  "Richland, MI": {
+    "type": "Point",
+    "coordinates": [
+      -85.4550054,
+      42.3761504
+    ]
+  },
+  "Northbrook, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.8299476,
+      42.1299234
+    ]
+  },
+  "Middlebury , IN": {
+    "type": "Point",
+    "coordinates": [
+      -85.7058146,
+      41.6750375
+    ]
+  },
+  "Portland, OR": {
+    "type": "Point",
+    "coordinates": [
+      -122.6741949,
+      45.5202471
+    ]
+  },
+  "San Francisco, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.4192363,
+      37.7792808
+    ]
+  },
+  "Knox, ME": {
+    "type": "Point",
+    "coordinates": [
+      -69.2127109,
+      44.1773049
+    ]
+  },
+  "Salem, OR": {
+    "type": "Point",
+    "coordinates": [
+      -70.278122,
+      44.9006121
+    ]
+  },
+  "Chapel Hill, NC": {
+    "type": "Point",
+    "coordinates": [
+      -79.05578,
+      35.9131542
+    ]
+  },
+  "Belfast, ME": {
+    "type": "Point",
+    "coordinates": [
+      -69.0067359,
+      44.4261194
+    ]
+  },
+  "Rocky Mount, VA": {
+    "type": "Point",
+    "coordinates": [
+      -79.8909474,
+      36.9962007
+    ]
+  },
+  "Kansas City, KS": {
+    "type": "Point",
+    "coordinates": [
+      -94.626497,
+      39.1134562
+    ]
+  },
+  "Champaign, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.2433829,
+      40.1164205
+    ]
+  },
+  "Charlotte , VT": {
+    "type": "Point",
+    "coordinates": [
+      -73.2545441,
+      44.3096989
+    ]
+  },
+  "Hudson, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.790959,
+      42.2528649
+    ]
+  },
+  "Shrewsbury, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.7139338,
+      42.29709
+    ]
+  },
+  "Sonoma, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.8473388,
+      38.5110803
+    ]
+  },
+  "Falmouth, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.6147519,
+      41.5514979
+    ]
+  },
+  "Urbana, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.207301,
+      40.1117174
+    ]
+  },
+  "MA": {
+    "type": "Point",
+    "coordinates": [
+      58.4357263504229,
+      23.6063305
+    ]
+  },
+  "Isabella, MN": {
+    "type": "Point",
+    "coordinates": [
+      -91.354871,
+      47.61713
+    ]
+  },
+  "Lafayette, LA": {
+    "type": "Point",
+    "coordinates": [
+      -92.0198427,
+      30.2240897
+    ]
+  },
+  "Hudson, WI": {
+    "type": "Point",
+    "coordinates": [
+      -92.7568703,
+      44.9746896
+    ]
+  },
+  "Charlottesville, VA": {
+    "type": "Point",
+    "coordinates": [
+      -78.4766781,
+      38.029306
+    ]
+  },
+  "Bethesda, MD": {
+    "type": "Point",
+    "coordinates": [
+      -77.0946459,
+      38.9848265
+    ]
+  },
+  "Onancock, VA": {
+    "type": "Point",
+    "coordinates": [
+      -75.7491015,
+      37.7118
+    ]
+  },
+  "Rhinebeck, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9126639,
+      41.9268754
+    ]
+  },
+  "Williamsburg, KY": {
+    "type": "Point",
+    "coordinates": [
+      -84.1596561,
+      36.7434169
+    ]
+  },
+  "Newberg, OR": {
+    "type": "Point",
+    "coordinates": [
+      -122.9725418,
+      45.300596
+    ]
+  },
+  "Muir Beach, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.5813667,
+      37.8621493
+    ]
+  },
+  "Ironto, VA": {
+    "type": "Point",
+    "coordinates": [
+      -80.2780999,
+      37.2187427
+    ]
+  },
+  "Teaneck, NJ": {
+    "type": "Point",
+    "coordinates": [
+      -74.0072568,
+      40.8860164
+    ]
+  },
+  "Menlo Park, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.1779927,
+      37.4519671
+    ]
+  },
+  "Stuart, VA": {
+    "type": "Point",
+    "coordinates": [
+      -80.2656169,
+      36.6409753
+    ]
+  },
+  "Eugene, OR": {
+    "type": "Point",
+    "coordinates": [
+      -84.7069492,
+      43.2922543
+    ]
+  },
+  "Stowe, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.6860186,
+      44.4653741
+    ]
+  },
+  "Unity, ME": {
+    "type": "Point",
+    "coordinates": [
+      -69.3344892,
+      44.6111793
+    ]
+  },
+  "San Jose, CA": {
+    "type": "Point",
+    "coordinates": [
+      -121.8905833,
+      37.3361905
+    ]
+  },
+  "Yellow Springs, OH": {
+    "type": "Point",
+    "coordinates": [
+      -83.8925234,
+      39.8045432
+    ]
+  },
+  "Pittsboro, NC": {
+    "type": "Point",
+    "coordinates": [
+      -79.1771539,
+      35.7201229
+    ]
+  },
+  "River Forest, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.8139483,
+      41.8978091
+    ]
+  },
+  "Berea, KY": {
+    "type": "Point",
+    "coordinates": [
+      -84.2963224,
+      37.568694
+    ]
+  },
+  "Palo Alto, CA": {
+    "type": "Point",
+    "coordinates": [
+      -122.1598465,
+      37.4443293
+    ]
+  },
+  "Clarksville, MD": {
+    "type": "Point",
+    "coordinates": [
+      -76.9429182,
+      39.2065447
+    ]
+  },
+  "Hubley, NS": {
+    "type": "Point",
+    "coordinates": [
+      -76.6136390712632,
+      40.6335748
+    ]
+  },
+  "Heidelberg, PA": {
+    "type": "Point",
+    "coordinates": [
+      -80.0908886,
+      40.3922914
+    ]
+  },
+  "Cleveland, OH": {
+    "type": "Point",
+    "coordinates": [
+      -81.6934446,
+      41.5051613
+    ]
+  },
+  "Gyeonggi-do South Korea": {
+    "type": "Point",
+    "coordinates": [
+      127.1033484,
+      37.2700459
+    ]
+  },
+  "Dundee, OR": {
+    "type": "Point",
+    "coordinates": [
+      -71.1317385,
+      44.1397901
+    ]
+  },
+  "Newry, ME": {
+    "type": "Point",
+    "coordinates": [
+      -70.787659,
+      44.487689
+    ]
+  },
+  "Denver, CO": {
+    "type": "Point",
+    "coordinates": [
+      -104.9653271,
+      39.7348381
+    ]
+  },
+  "Fort St. John, BC": {
+    "type": "Point",
+    "coordinates": [
+      -120.846943,
+      56.2524039
+    ]
+  },
+  "Ithaca, NY": {
+    "type": "Point",
+    "coordinates": [
+      -76.4968019,
+      42.4396039
+    ]
+  },
+  "Austin , TX": {
+    "type": "Point",
+    "coordinates": [
+      -92.7907215,
+      35.5306348
+    ]
+  },
+  "Ottawa, ON": {
+    "type": "Point",
+    "coordinates": [
+      -85.9709708,
+      41.6626712
+    ]
+  },
+  "Wilmington, NC": {
+    "type": "Point",
+    "coordinates": [
+      -77.9447107,
+      34.2257282
+    ]
+  },
+  "North Plains, OR": {
+    "type": "Point",
+    "coordinates": [
+      -122.9936261,
+      45.5973123
+    ]
+  },
+  "Abingdon, VA": {
+    "type": "Point",
+    "coordinates": [
+      -81.9774878,
+      36.7095788
+    ]
+  },
+  "Woodburn, OR": {
+    "type": "Point",
+    "coordinates": [
+      -122.8553725,
+      45.143731
+    ]
+  },
+  "Norwich, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.307892,
+      43.71355
+    ]
+  },
+  "Carnation, WA": {
+    "type": "Point",
+    "coordinates": [
+      -121.9129419,
+      47.6475134
+    ]
+  },
+  "Washington D.C., DC": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365625,
+      38.8950092
+    ]
+  },
+  "West Chester, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.6059638,
+      39.9597213
+    ]
+  },
+  "Fort Lupton, CO": {
+    "type": "Point",
+    "coordinates": [
+      -104.8130275,
+      40.0847055
+    ]
+  },
+  "Waubaushene, ON, ON": {
+    "type": "Point",
+    "coordinates": [
+      -79.710969,
+      44.754404
+    ]
+  },
+  "Blacksburg, VA": {
+    "type": "Point",
+    "coordinates": [
+      -80.4136767,
+      37.2296566
+    ]
+  },
+  "Middlesex, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.6792807,
+      44.2928358
+    ]
+  },
+  "Hereford, AZ": {
+    "type": "Point",
+    "coordinates": [
+      -110.0978554,
+      31.4384325
+    ]
+  },
+  "Kentville, NS": {
+    "type": "Point",
+    "coordinates": [
+      -89.2761877,
+      43.1817005
+    ]
+  },
+  "Scranton, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.6621294,
+      41.4086874
+    ]
+  },
+  "Carmel-by-the-Sea, CA": {
+    "type": "Point",
+    "coordinates": [
+      -121.9232879,
+      36.5552387
+    ]
+  },
+  "Danbury, CT": {
+    "type": "Point",
+    "coordinates": [
+      -73.4540111,
+      41.394817
+    ]
+  },
+  "Chatham, IL": {
+    "type": "Point",
+    "coordinates": [
+      -79.3980806,
+      36.8256943
+    ]
+  },
+  "Spokane Valley, WA": {
+    "type": "Point",
+    "coordinates": [
+      -117.2613936,
+      47.6571104
+    ]
+  },
+  "Thaxton, VA": {
+    "type": "Point",
+    "coordinates": [
+      -79.6164233,
+      37.3529172
+    ]
+  },
+  "Santa Barbara, CA": {
+    "type": "Point",
+    "coordinates": [
+      -119.7026673,
+      34.4221319
+    ]
+  },
+  "Issaquah, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.0432974,
+      47.5348778
+    ]
+  },
+  "Arlington, VA": {
+    "type": "Point",
+    "coordinates": [
+      -77.0841585,
+      38.8903961
+    ]
+  },
+  "Cold Spring, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9545831,
+      41.4200938
+    ]
+  },
+  "South Boston, VA": {
+    "type": "Point",
+    "coordinates": [
+      -78.9013987,
+      36.6987494
+    ]
+  },
+  "Washington , DC": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365625,
+      38.8950092
+    ]
+  },
+  "Milwaukee, WI": {
+    "type": "Point",
+    "coordinates": [
+      -75.7776937,
+      41.4225784
+    ]
+  },
+  "Kinderhook, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.6978983,
+      42.3953617
+    ]
+  },
+  "Clifton, NS": {
+    "type": "Point",
+    "coordinates": [
+      -74.1637553,
+      40.8584328
+    ]
+  },
+  "Ramona, CA": {
+    "type": "Point",
+    "coordinates": [
+      -116.8680821,
+      33.0417112
+    ]
+  },
+  "Langley, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.4094051,
+      48.0399806
+    ]
+  },
+  "Bedford, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.6426507,
+      41.2042741
+    ]
+  },
+  "Watertown, CT": {
+    "type": "Point",
+    "coordinates": [
+      -73.1181658,
+      41.6062078
+    ]
+  },
+  "Fairmount Heights, MD": {
+    "type": "Point",
+    "coordinates": [
+      -76.9155291,
+      38.9009452
+    ]
+  },
+  "Zionsville, IN": {
+    "type": "Point",
+    "coordinates": [
+      -86.2616968,
+      39.950724
+    ]
+  },
+  "Goreville, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.9722932,
+      37.5544953
+    ]
+  },
+  "Falmouth, ME": {
+    "type": "Point",
+    "coordinates": [
+      -70.241993,
+      43.729525
+    ]
+  },
+  "Woodstock, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.118329,
+      42.041003
+    ]
+  },
+  "Philomath, OR": {
+    "type": "Point",
+    "coordinates": [
+      -123.367613,
+      44.5400013
+    ]
+  },
+  "Warren, RI": {
+    "type": "Point",
+    "coordinates": [
+      -71.2825494,
+      41.7303794
+    ]
+  },
+  "Lunenburg, NS": {
+    "type": "Point",
+    "coordinates": [
+      -91.9076483,
+      36.0025716
+    ]
+  },
+  "South Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0494949,
+      42.3334312
+    ]
+  },
+  "Mountain Lake Park, MD": {
+    "type": "Point",
+    "coordinates": [
+      -79.3817107,
+      39.3984308
+    ]
+  },
+  "Wakefield , RI": {
+    "type": "Point",
+    "coordinates": [
+      -71.5014469,
+      41.437324
+    ]
+  },
+  "Windsor County, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.5944539,
+      43.5480465
+    ]
+  },
+  "Gualala, CA": {
+    "type": "Point",
+    "coordinates": [
+      -123.5298281,
+      38.7674439
+    ]
+  },
+  "Brewer, ME": {
+    "type": "Point",
+    "coordinates": [
+      -68.760681,
+      44.796942
+    ]
+  },
+  "Wayland, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.3606721,
+      42.3632063
+    ]
+  },
+  "Madison, WI": {
+    "type": "Point",
+    "coordinates": [
+      -83.4129254,
+      30.4693772
+    ]
+  },
+  "Coeur d'Alene, ID": {
+    "type": "Point",
+    "coordinates": [
+      -116.7811531,
+      47.6742994
+    ]
+  },
+  "Boise, ID": {
+    "type": "Point",
+    "coordinates": [
+      -116.200835,
+      43.61656
+    ]
+  },
+  "Oak Park, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.7887615,
+      41.8878145
+    ]
+  },
+  "Corvallis, OR": {
+    "type": "Point",
+    "coordinates": [
+      -123.2620435,
+      44.5645659
+    ]
+  },
+  "Bechtelsville, PA": {
+    "type": "Point",
+    "coordinates": [
+      -75.6290752,
+      40.3734298
+    ]
+  },
+  "Middlebury, VT": {
+    "type": "Point",
+    "coordinates": [
+      -73.1633010541542,
+      44.0072736
+    ]
+  },
+  "Truro , NS": {
+    "type": "Point",
+    "coordinates": [
+      -70.0497457,
+      41.993437
+    ]
+  },
+  "Basalt, CO": {
+    "type": "Point",
+    "coordinates": [
+      -107.0328242,
+      39.3688731
+    ]
+  },
+  "Mcminnville, OR": {
+    "type": "Point",
+    "coordinates": [
+      -123.194463,
+      45.2100367
+    ]
+  },
+  "Milton, VT": {
+    "type": "Point",
+    "coordinates": [
+      -73.11264,
+      44.635925
+    ]
+  },
+  "Staatsburg, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9301365,
+      41.8498151
+    ]
+  },
+  "Sharon, CT": {
+    "type": "Point",
+    "coordinates": [
+      -73.4767897,
+      41.8792599
+    ]
+  },
+  "Waitsfield, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.8227076,
+      44.192132
+    ]
+  },
+  "Hillsdale, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.5259511,
+      42.1789784
+    ]
+  },
+  "Britton, SD": {
+    "type": "Point",
+    "coordinates": [
+      -97.750937,
+      45.791619
+    ]
+  },
+  "Beaver, PA": {
+    "type": "Point",
+    "coordinates": [
+      -80.3709999,
+      40.6916624
+    ]
+  },
+  "Wakefield, RI": {
+    "type": "Point",
+    "coordinates": [
+      -71.5014469,
+      41.437324
+    ]
+  },
+  "Gilford, NH": {
+    "type": "Point",
+    "coordinates": [
+      -71.407013,
+      43.54805
+    ]
+  },
+  "East Montpelier, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.487106,
+      44.271263
+    ]
+  },
+  "Dubuque, IA": {
+    "type": "Point",
+    "coordinates": [
+      -90.6647967,
+      42.5006217
+    ]
+  },
+  "Palenville, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.0201355,
+      42.1745334
+    ]
+  },
+  "Abercorn, QC": {
+    "type": "Point",
+    "coordinates": [
+      -72.658401,
+      45.0354784
+    ]
+  },
+  "Olympia, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.8950075,
+      47.0451022
+    ]
+  },
+  "Granite City, IL": {
+    "type": "Point",
+    "coordinates": [
+      -90.1487199,
+      38.7014389
+    ]
+  },
+  "Hebron, NS": {
+    "type": "Point",
+    "coordinates": [
+      -82.4912676,
+      39.9617305
+    ]
+  },
+  "Freeport, ME": {
+    "type": "Point",
+    "coordinates": [
+      -70.10376,
+      43.857307
+    ]
+  },
+  "Bellevue, WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.1923372,
+      47.6144219
+    ]
+  },
+  "Seattle , WA": {
+    "type": "Point",
+    "coordinates": [
+      -122.3300624,
+      47.6038321
+    ]
+  },
+  "Lincoln, VT": {
+    "type": "Point",
+    "coordinates": [
+      -72.9971578,
+      44.1057946
+    ]
+  },
+  "Newton , MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2092214,
+      42.3370414
+    ]
+  },
+  "Fort Collins, CO": {
+    "type": "Point",
+    "coordinates": [
+      -105.0668085,
+      40.5508527
+    ]
+  },
+  "Ann Arbor, MI": {
+    "type": "Point",
+    "coordinates": [
+      -83.7312291,
+      42.2681569
+    ]
+  },
+  "Accord, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.2290366,
+      41.7856489
+    ]
+  },
+  "Salt Springs, NS": {
+    "type": "Point",
+    "coordinates": [
+      -93.3474306,
+      39.1122427
+    ]
+  },
+  "Summerside , PE": {
+    "type": "Point",
+    "coordinates": [
+      -63.7839319877345,
+      46.41487645
+    ]
+  },
+  "Canandaigua, NY": {
+    "type": "Point",
+    "coordinates": [
+      -77.278399,
+      42.8844625
+    ]
+  },
+  "Southampton, NJ": {
+    "type": "Point",
+    "coordinates": [
+      -74.718658761236,
+      39.9226305
+    ]
+  },
+  "Garrison, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.945694,
+      41.3839827
+    ]
+  },
+  "Plainfield, IL": {
+    "type": "Point",
+    "coordinates": [
+      -88.2039539,
+      41.6269745
+    ]
+  },
+  "Opelika, AL": {
+    "type": "Point",
+    "coordinates": [
+      -85.3918362387387,
+      32.727363
+    ]
+  },
+  "New Meadows , ID": {
+    "type": "Point",
+    "coordinates": [
+      -116.2840176,
+      44.9712808
+    ]
+  },
+  "Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8785937,
+      40.8466508
+    ]
+  },
+  "Griswold, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -71.9622443,
+      41.6035026
+    ]
+  },
+  "Bryn Athyn, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.07212510775798,
+      40.14273955
+    ]
+  },
+  "Salt Lake City, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.8867975,
+      40.7596198
+    ]
+  },
+  "Acton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.43284,
+      42.4850931
+    ]
+  },
+  "Austin, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -97.7436995,
+      30.2711286
+    ]
+  },
+  "Stevensville, Montana": {
+    "type": "Point",
+    "coordinates": [
+      -114.094385,
+      46.510407
+    ]
+  },
+  "Kennett Square, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.7116997,
+      39.8467414
+    ]
+  },
+  "Meriden, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.8070435,
+      41.5381535
+    ]
+  },
+  "Hartford, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.6908547,
+      41.764582
+    ]
+  },
+  "Calais, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.4681875,
+      44.3692263
+    ]
+  },
+  "Long Branch, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -73.9923596,
+      40.3042778
+    ]
+  },
+  "Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1635262,
+      39.9527237
+    ]
+  },
+  "Seattle, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.3300624,
+      47.6038321
+    ]
+  },
+  "Denmark, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.803452,
+      43.970581
+    ]
+  },
+  "Northbrook, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8265089,
+      42.128704
+    ]
+  },
+  "Tucson, Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -110.9748477,
+      32.2228765
+    ]
+  },
+  "Orr's Island, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.96497497313277,
+      43.77249795
+    ]
+  },
+  "Eugene, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.0950506,
+      44.0505054
+    ]
+  },
+  "State College, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -77.8616386,
+      40.7944504
+    ]
+  },
+  "Olivebridge, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.2154239,
+      41.9278705
+    ]
+  },
+  "Muncy, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.7870991,
+      41.20484
+    ]
+  },
+  "Hampton Falls, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -70.88806837480472,
+      42.9280119
+    ]
+  },
+  "Washington, District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365427,
+      38.8950368
+    ]
+  },
+  "Putney, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.5219215,
+      42.9750374
+    ]
+  },
+  "bellingham, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.478836,
+      48.7544012
+    ]
+  },
+  "Bromont, Quebec": {
+    "type": "Point",
+    "coordinates": [
+      -72.6892886696998,
+      45.30202559999999
+    ]
+  },
+  "Bandon, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -124.4094086,
+      43.1195634
+    ]
+  },
+  "Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.2654692,
+      44.9772995
+    ]
+  },
+  "Oak Park, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.7887615,
+      41.8878145
+    ]
+  },
+  "Hamilton, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -77.503606,
+      42.7623645
+    ]
+  },
+  "New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Callicoon, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.0562785,
+      41.7673105
+    ]
+  },
+  "Doig River, British Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -120.4746427,
+      56.7165281
+    ]
+  },
+  "Lake Tapps, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.17532672432489,
+      47.2198644
+    ]
+  },
+  "Marlboro, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.7259271,
+      42.859526
+    ]
+  },
+  "Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1056157,
+      42.3750997
+    ]
+  },
+  "Lake Bluff, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8342362,
+      42.2789117
+    ]
+  },
+  "New Kensington, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.7647705,
+      40.5697893
+    ]
+  },
+  "Chicago, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.6244212,
+      41.8755616
+    ]
+  },
+  "Valatie, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6731749,
+      42.4134168
+    ]
+  },
+  "Spokane, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -117.4235106,
+      47.6571934
+    ]
+  },
+  "Middlebury, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -85.7058146,
+      41.6750375
+    ]
+  },
+  "Erie, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -80.0852695,
+      42.1294712
+    ]
+  },
+  "New York, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Winston Salem, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.2440518,
+      36.0998131
+    ]
+  },
+  "Newburgh, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.0104179,
+      41.5034271
+    ]
+  },
+  "Marengo, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.6078921,
+      42.2525476
+    ]
+  },
+  "Brunswick, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.9653278,
+      43.9145244
+    ]
+  },
+  "Indianola, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -93.5613292,
+      41.3604966
+    ]
+  },
+  "Far Rockaway, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7551326,
+      40.6053825
+    ]
+  },
+  "Provo, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.6587085,
+      40.2337289
+    ]
+  },
+  "Afton, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -92.7835373,
+      44.9027452
+    ]
+  },
+  "Lebanon, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -72.251587,
+      43.643032
+    ]
+  },
+  "Burlington, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.212906,
+      44.4761601
+    ]
+  },
+  "Madison, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.417097,
+      40.7598227
+    ]
+  },
+  "Downers Grove, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.0102281,
+      41.7936822
+    ]
+  },
+  "Park City, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.4979963,
+      40.6460921
+    ]
+  },
+  "Norton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1869939,
+      41.9667666
+    ]
+  },
+  "Spicewood, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -98.1566355,
+      30.4759222
+    ]
+  },
+  "Edgartown, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.5133599,
+      41.3890052
+    ]
+  },
+  "Cooperstown, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.924321,
+      42.7006303
+    ]
+  },
+  "Hinsdale, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.9299841,
+      41.8024604
+    ]
+  },
+  "Columbus, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -83.0007065,
+      39.9622601
+    ]
+  },
+  "Olympia, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.8950075,
+      47.0451022
+    ]
+  },
+  "Johnstown, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -78.9219698,
+      40.3267407
+    ]
+  },
+  "MOAB, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -109.5462146,
+      38.5738096
+    ]
+  },
+  "Bellingham, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.478836,
+      48.7544012
+    ]
+  },
+  "Brookings, South Dakota": {
+    "type": "Point",
+    "coordinates": [
+      -96.78595150993536,
+      44.300254550000005
+    ]
+  },
+  "Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2799761,
+      42.8858579
+    ]
+  },
+  "Opelika, Alabama": {
+    "type": "Point",
+    "coordinates": [
+      -85.3782795,
+      32.6454116
+    ]
+  },
+  "Plainfield, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.2054345,
+      41.6086711
+    ]
+  },
+  "Southampton, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.71865876123596,
+      39.9226305
+    ]
+  },
+  "Ann Arbor, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.7312291,
+      42.2681569
+    ]
+  },
+  "Bellevue, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.192337,
+      47.6144219
+    ]
+  },
+  "Portland, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2548596,
+      43.6610277
+    ]
+  },
+  "New Meadows, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.28546801930905,
+      44.972519500000004
+    ]
+  },
+  "Garrison, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.945694,
+      41.3839827
+    ]
+  },
+  "Summerside, Prince Edward Island": {
+    "type": "Point",
+    "coordinates": [
+      -63.789368,
+      46.394306
+    ]
+  },
+  "Granite City, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -90.1487199,
+      38.7014389
+    ]
+  },
+  "Salt Springs, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -62.8944599,
+      45.5373072
+    ]
+  },
+  "South Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0494949,
+      42.3334312
+    ]
+  },
+  "Bedford, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.64248758397832,
+      41.1945405
+    ]
+  },
+  "Fort Collins, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.0668085,
+      40.5508527
+    ]
+  },
+  "Gilford, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.407013,
+      43.54805
+    ]
+  },
+  "Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2092214,
+      42.3370414
+    ]
+  },
+  "Accord, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.22923853406763,
+      41.7979985
+    ]
+  },
+  "Goreville, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.9722932,
+      37.5544953
+    ]
+  },
+  "Berkeley, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.23963364918777,
+      37.8753497
+    ]
+  },
+  "Staten Island, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1496048,
+      40.5834557
+    ]
+  },
+  "Waitsfield, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.8227076,
+      44.192132
+    ]
+  },
+  "Mountain Lake Park, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -79.378314,
+      39.3957522
+    ]
+  },
+  "Coeur d'Alene, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.7811531,
+      47.6742994
+    ]
+  },
+  "Clarksville, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.9429182,
+      39.2065447
+    ]
+  },
+  "Madison, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.3837613,
+      43.074761
+    ]
+  },
+  "Corvallis, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.2620435,
+      44.5645659
+    ]
+  },
+  "Issaquah, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.0432974,
+      47.5348778
+    ]
+  },
+  "East Montpelier, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.487106,
+      44.271263
+    ]
+  },
+  "Wayland, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3606721,
+      42.3632063
+    ]
+  },
+  "Beaver, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -80.3047887,
+      40.6953896
+    ]
+  },
+  "Dubuque, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -90.6647985,
+      42.5006243
+    ]
+  },
+  "Cold Spring, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9545831,
+      41.4200938
+    ]
+  },
+  "San Francisco, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.419906,
+      37.7790262
+    ]
+  },
+  "Pittsburgh, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.9900861,
+      40.4416941
+    ]
+  },
+  "Ottawa, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -94.7630041,
+      36.9875663
+    ]
+  },
+  "Hebron, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -66.090385,
+      43.8874729
+    ]
+  },
+  "Abercorn, Quebec": {
+    "type": "Point",
+    "coordinates": [
+      -72.6583062,
+      45.0351185
+    ]
+  },
+  "Freeport, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.10376,
+      43.857307
+    ]
+  },
+  "Lincoln, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.9971578,
+      44.1057946
+    ]
+  },
+  "Wakefield, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.5014469,
+      41.437324
+    ]
+  },
+  "Palenville, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.02318220185444,
+      42.1795475
+    ]
+  },
+  "Milwaukee, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -87.922497,
+      43.0349931
+    ]
+  },
+  "Carnation, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -121.9129419,
+      47.6475134
+    ]
+  },
+  "Britton, South Dakota": {
+    "type": "Point",
+    "coordinates": [
+      -97.750937,
+      45.791619
+    ]
+  },
+  "Staatsburg, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.91943711868966,
+      41.8527325
+    ]
+  },
+  "Middlebury, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.16330105415423,
+      44.007273600000005
+    ]
+  },
+  "Milton, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.11264,
+      44.635925
+    ]
+  },
+  "Boise, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.200886,
+      43.6166163
+    ]
+  },
+  "Windsor County, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.54867296060002,
+      43.59239545
+    ]
+  },
+  "Kinderhook, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7046695,
+      42.3935769
+    ]
+  },
+  "Halifax, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -117.7210163,
+      34.0481644
+    ]
+  },
+  "Bechtelsville, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.6290752,
+      40.3734298
+    ]
+  },
+  "Virginia Beach, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -75.9774183,
+      36.8529841
+    ]
+  },
+  "Sharon, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.4767897,
+      41.8792599
+    ]
+  },
+  "Washington D.C., District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365427,
+      38.8950368
+    ]
+  },
+  "Ramona, California": {
+    "type": "Point",
+    "coordinates": [
+      -116.86751322074122,
+      33.035378
+    ]
+  },
+  "Mcminnville, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.194463,
+      45.2100367
+    ]
+  },
+  "Hillsboro, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.989827,
+      45.5228939
+    ]
+  },
+  "Brewer, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -68.760681,
+      44.796942
+    ]
+  },
+  "Fairmount Heights, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.9116989,
+      38.9011623
+    ]
+  },
+  "Woodstock, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1182492,
+      42.0410578
+    ]
+  },
+  "Hillsdale, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.5259511,
+      42.1789784
+    ]
+  },
+  "Portland, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.6741949,
+      45.5202471
+    ]
+  },
+  "Yokohama City": {
+    "type": "Point",
+    "coordinates": [
+      -122.2272418,
+      37.4867084
+    ]
+  },
+  "Truro, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -63.300006,
+      45.366668
+    ]
+  },
+  "Teaneck, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.0072568,
+      40.8860164
+    ]
+  },
+  "Warren, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.2825494,
+      41.7303794
+    ]
+  },
+  "Chatham, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -89.7045439,
+      39.676163
+    ]
+  },
+  "Falmouth, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.241993,
+      43.729525
+    ]
+  },
+  "Hudson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.790959,
+      42.2528649
+    ]
+  },
+  "Lawrence, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -95.2359496,
+      38.9719384
+    ]
+  },
+  "Gualala, California": {
+    "type": "Point",
+    "coordinates": [
+      -123.529828,
+      38.7674439
+    ]
+  },
+  "Arlington, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0841585,
+      38.8903961
+    ]
+  },
+  "Fort Lupton, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -104.813027,
+      40.0847055
+    ]
+  },
+  "Basalt, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -107.03534713180227,
+      39.360393900000005
+    ]
+  },
+  "Scranton, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.6621294,
+      41.4086874
+    ]
+  },
+  "Philomath, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.367613,
+      44.5400013
+    ]
+  },
+  "Clifton, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -63.4439425,
+      45.3360648
+    ]
+  },
+  "Langley, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.4094051,
+      48.0399806
+    ]
+  },
+  "Hubley, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -63.8168976,
+      44.6682799
+    ]
+  },
+  "Zionsville, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -86.2616968,
+      39.950724
+    ]
+  },
+  "West Chester, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.6059638,
+      39.9597213
+    ]
+  },
+  "Spokane Valley, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -117.2613936,
+      47.6571104
+    ]
+  },
+  "Watertown, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.1181658,
+      41.6062078
+    ]
+  },
+  "Denver, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -104.9848623,
+      39.7392364
+    ]
+  },
+  "Fort St. John, British Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -120.846943,
+      56.2524039
+    ]
+  },
+  "Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.54831458600927,
+      42.437072
+    ]
+  },
+  "Lunenburg, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -64.3154816,
+      44.3774954
+    ]
+  },
+  "Middlesex, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.6792056,
+      44.2925824
+    ]
+  },
+  "Santa Barbara, California": {
+    "type": "Point",
+    "coordinates": [
+      -119.7026673,
+      34.4221319
+    ]
+  },
+  "North Plains, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.9936261,
+      45.5973123
+    ]
+  },
+  "Wilmington, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -77.9447107,
+      34.2257282
+    ]
+  },
+  "Palo Alto, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.1598465,
+      37.4443293
+    ]
+  },
+  "Elk, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -117.2766032,
+      48.0162861
+    ]
+  },
+  "Sonoma, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.8473388,
+      38.5110803
+    ]
+  },
+  "Falmouth, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.6147519,
+      41.5514979
+    ]
+  },
+  "Newry, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.787659,
+      44.487689
+    ]
+  },
+  "Danbury, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.4540111,
+      41.394817
+    ]
+  },
+  "Waubaushene, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -79.710969,
+      44.754404
+    ]
+  },
+  "Abingdon, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -81.975249,
+      36.7104018
+    ]
+  },
+  "South Boston, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -78.9013987,
+      36.6987494
+    ]
+  },
+  "Williamsburg, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.1596561,
+      36.7434169
+    ]
+  },
+  "Yellow Springs, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -83.8925234,
+      39.8045432
+    ]
+  },
+  "Kentville, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -64.495212,
+      45.0784875
+    ]
+  },
+  "Carmel-by-the-Sea, California": {
+    "type": "Point",
+    "coordinates": [
+      -121.9232785,
+      36.5552656
+    ]
+  },
+  "Newberg, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.972751,
+      45.300347
+    ]
+  },
+  "Charlottesville, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -78.4766781,
+      38.029306
+    ]
+  },
+  "Falls Church, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.1710914,
+      38.882334
+    ]
+  },
+  "Cleveland, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -81.6936813,
+      41.4996562
+    ]
+  },
+  "Dundee, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.010935,
+      45.2781732
+    ]
+  },
+  "Hereford, Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -110.0978554,
+      31.4384325
+    ]
+  },
+  "River Forest, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8139483,
+      41.8978091
+    ]
+  },
+  "Blacksburg, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -80.4136767,
+      37.2296566
+    ]
+  },
+  "Woodburn, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.8553725,
+      45.143731
+    ]
+  },
+  "Norwich, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.3081535,
+      43.7136654
+    ]
+  },
+  "Heidelberg, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -80.0910519,
+      40.3921671
+    ]
+  },
+  "Chapel Hill, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -79.05578,
+      35.9131542
+    ]
+  },
+  "Pittsboro, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -79.17392253750467,
+      35.72757045
+    ]
+  },
+  "Knox, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.2021949,
+      44.5180521
+    ]
+  },
+  "Ironto, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -80.2780999,
+      37.2187427
+    ]
+  },
+  "Berea, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.2963224,
+      37.568694
+    ]
+  },
+  "Thaxton, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -79.6164233,
+      37.3529172
+    ]
+  },
+  "Muir Beach, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.58985865076625,
+      37.8661174
+    ]
+  },
+  "Gyeonggi-do": {
+    "type": "Point",
+    "coordinates": [
+      126.99842110652273,
+      37.01678255
+    ]
+  },
+  "Unity, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.3344892,
+      44.6111793
+    ]
+  },
+  "San Jose, California": {
+    "type": "Point",
+    "coordinates": [
+      -121.890583,
+      37.3361905
+    ]
+  },
+  "Stowe, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.6854695,
+      44.4654236
+    ]
+  },
+  "Stuart, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -80.2656169,
+      36.6409753
+    ]
+  },
+  "Menlo Park, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.1779927,
+      37.4519671
+    ]
+  },
+  "Rhinebeck, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9126639,
+      41.9268754
+    ]
+  },
+  "Onancock, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -75.7491015,
+      37.7118
+    ]
+  },
+  "Bethesda, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.12335871396549,
+      38.98127255
+    ]
+  },
+  "Hudson, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -92.7556281,
+      44.9751273
+    ]
+  },
+  "Lafayette, Louisiana": {
+    "type": "Point",
+    "coordinates": [
+      -92.0298813,
+      30.2043259
+    ]
+  },
+  "Isabella, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -91.354871,
+      47.61713
+    ]
+  },
+  "Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.032366,
+      42.3788774
+    ]
+  },
+  "Urbana, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.207301,
+      40.1117174
+    ]
+  },
+  "St. Joseph, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.0417048,
+      40.1117007
+    ]
+  },
+  "Shrewsbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.7172866,
+      42.283828
+    ]
+  },
+  "Charlotte, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.23897890288501,
+      44.31258675
+    ]
+  },
+  "Champaign, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.2430932,
+      40.1164841
+    ]
+  },
+  "Kansas City, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.5781416,
+      39.100105
+    ]
+  },
+  "Rocky Mount, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -79.8909474,
+      36.9962007
+    ]
+  },
+  "Belfast, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.0067359,
+      44.4261194
+    ]
+  },
+  "Salem, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.033121,
+      44.9391565
+    ]
+  },
+  "Northborough, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.6406529,
+      42.3273118
+    ]
+  },
+  "Brewster, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.082796,
+      41.7601093
+    ]
+  },
+  "Bend, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -121.3153096,
+      44.0581728
+    ]
+  },
+  "Niles, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8122348,
+      42.0289319
+    ]
+  },
+  "Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0328284,
+      42.3917638
+    ]
+  },
+  "Bethany, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9970496,
+      41.4217637
+    ]
+  },
+  "Kansas City, Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -94.5781416,
+      39.100105
+    ]
+  },
+  "Davidson, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.8485218,
+      35.4992614
+    ]
+  },
+  "Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0994968,
+      42.3875968
+    ]
+  },
+  "Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0582912,
+      42.3602534
+    ]
+  },
+  "New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9250518,
+      41.3082138
+    ]
+  },
+  "Hastings-on-Hudson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8785922,
+      40.9946622
+    ]
+  },
+  "Hudson, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.4397167,
+      42.7654433
+    ]
+  },
+  "Gloucester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.6619888,
+      42.6159286
+    ]
+  },
+  "Nantucket, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.00901408779944,
+      41.315731400000004
+    ]
+  },
+  "Fitchburg, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.8119837,
+      42.5903661
+    ]
+  },
+  "Branford, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.8150989,
+      41.2795414
+    ]
+  },
+  "Islesboro, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -68.9033651,
+      44.3084113
+    ]
+  },
+  "Salem, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8967226,
+      42.5195292
+    ]
+  },
+  "Waterford, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.1519367,
+      41.358659
+    ]
+  },
+  "Williams Township, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.22915169524987,
+      40.63160995
+    ]
+  },
+  "Dorchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0744952,
+      42.2973205
+    ]
+  },
+  "Riverwoods, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8970986,
+      42.1676068
+    ]
+  },
+  "Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0950158,
+      42.3248426
+    ]
+  },
+  "Mount Joy, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.5033406,
+      40.1098561
+    ]
+  },
+  "Amherst, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.505714,
+      42.3685658
+    ]
+  },
+  "Sandwich, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.4968152,
+      41.7579043
+    ]
+  },
+  "Newington, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.7237063,
+      41.6978777
+    ]
+  },
+  "Charlotte, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.8430827,
+      35.2272086
+    ]
+  },
+  "Gallatin, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.72131236331683,
+      42.049484500000005
+    ]
+  },
+  "Randolph, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0424838,
+      42.1618005
+    ]
+  },
+  "Lawrence, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1631137,
+      42.7070354
+    ]
+  },
+  "Newburyport, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8772751,
+      42.8125913
+    ]
+  },
+  "Baltimore, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.610759,
+      39.2908816
+    ]
+  },
+  "Birmingham, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.2113192,
+      42.5467012
+    ]
+  },
+  "Elizaville, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7937408,
+      42.0509242
+    ]
+  },
+  "Hamilton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8431049,
+      42.6362052
+    ]
+  },
+  "Holbrook, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.008958,
+      42.1552232
+    ]
+  },
+  "Beaver Dam, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -76.6383509,
+      37.3273918
+    ]
+  },
+  "New Britain, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.7795419,
+      41.6612104
+    ]
+  },
+  "Saint John, New Brunswick": {
+    "type": "Point",
+    "coordinates": [
+      -74.4401369,
+      40.4881014
+    ]
+  },
+  "Embro, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -80.9005219,
+      43.1546467
+    ]
+  },
+  "Gladwyne, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.2791788,
+      40.0397304
+    ]
+  },
+  "Glasgow, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -85.9124842,
+      36.995906
+    ]
+  },
+  "Westville, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -75.1265177,
+      39.8700552
+    ]
+  },
+  "Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.7342163,
+      41.6500201
+    ]
+  },
+  "East Lyme, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.2258709,
+      41.3569909
+    ]
+  },
+  "Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9497211,
+      40.6526006
+    ]
+  },
+  "Cerrillos, New Mexico": {
+    "type": "Point",
+    "coordinates": [
+      -106.1259178,
+      35.4369196
+    ]
+  },
+  "Providence, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4128343,
+      41.8239891
+    ]
+  },
+  "Holmdel, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.1840322,
+      40.3451095
+    ]
+  },
+  "Mount Vernon, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8370786,
+      40.9125815
+    ]
+  },
+  "Bloomington, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -86.5342881,
+      39.1670396
+    ]
+  },
+  "Blounts Creek, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -78.8725363,
+      35.0476378
+    ]
+  },
+  "Huntingdon, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -78.0102813,
+      40.4847959
+    ]
+  },
+  "Sagle, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.5476927,
+      48.2024189
+    ]
+  },
+  "Mesa, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -108.565996,
+      39.0589084
+    ]
+  },
+  "Norristown, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.3399048,
+      40.121497
+    ]
+  },
+  "Millinocket, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -68.709869,
+      45.657728
+    ]
+  },
+  "Loch Sheldrake, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.6571048,
+      41.7700906
+    ]
+  },
+  "Verona, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.843105,
+      40.5064571
+    ]
+  },
+  "Manchester, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -84.0377231,
+      42.1503178
+    ]
+  },
+  "St. Paul, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.0931028,
+      44.9497487
+    ]
+  },
+  "Ancramdale, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.5912358,
+      42.0181473
+    ]
+  },
+  "Iowa city, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -91.5299106,
+      41.6612561
+    ]
+  },
+  "Mt Prospect, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.9372908,
+      42.0664167
+    ]
+  },
+  "Ossining, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.87816187585699,
+      41.1609095
+    ]
+  },
+  "Wheatland, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -88.2084224,
+      42.5939069
+    ]
+  },
+  "Saugatuck Township, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -86.16208197813536,
+      42.63729695
+    ]
+  },
+  "Springettsbury, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.67678492007022,
+      39.99128975
+    ]
+  },
+  "Spring Brook Township, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.86844,
+      40.142426
+    ]
+  },
+  "Onoway, Alberta": {
+    "type": "Point",
+    "coordinates": [
+      -114.1882898,
+      53.7066655
+    ]
+  },
+  "Bainbridge Island, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.54602915532405,
+      47.6475683
+    ]
+  },
+  "Williamstown, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -73.2246057,
+      42.6889156
+    ]
+  },
+  "Richland, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -85.4550054,
+      42.3761504
+    ]
+  },
+  "Post Falls, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.9480877,
+      47.7110106
+    ]
+  },
+  "Hatfield, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.2995777,
+      40.2796371
+    ]
+  },
+  "Rockford, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -85.559604,
+      43.119721
+    ]
+  },
+  "Susquehanna Township, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -78.76917437350025,
+      40.6804015
+    ]
+  },
+  "Glassport, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.8922712,
+      40.3247918
+    ]
+  },
+  "Vienna, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.2651762,
+      38.9013729
+    ]
+  },
+  "Cary, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.2381381,
+      42.2119684
+    ]
+  },
+  "Sioux Falls, South Dakota": {
+    "type": "Point",
+    "coordinates": [
+      -96.7313928,
+      43.5460587
+    ]
+  },
+  "Queens, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8283132,
+      40.7135078
+    ]
+  },
+  "Philipsburg, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -78.2205688,
+      40.8964465
+    ]
+  },
+  "Somerville, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.60988,
+      40.5742696
+    ]
+  },
+  "Wilton, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -91.0168179,
+      41.5889154
+    ]
+  },
+  "Nevada City, California": {
+    "type": "Point",
+    "coordinates": [
+      -121.0160594,
+      39.2615606
+    ]
+  },
+  "Landisville, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.4101958,
+      40.0951196
+    ]
+  },
+  "Chambersburg, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -77.6598624,
+      39.9405903
+    ]
+  },
+  "Elizabethtown, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -85.8591285,
+      37.693952
+    ]
+  },
+  "Wilkes Barre, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.8817316,
+      41.2464824
+    ]
+  },
+  "Bowling Green, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -86.4436018,
+      36.9903199
+    ]
+  },
+  "Natural Bridge, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -79.5431919,
+      37.6301932
+    ]
+  },
+  "Bellmore, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.5284852913932,
+      40.653812599999995
+    ]
+  },
+  "Freeland, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -84.1227598,
+      43.5250265
+    ]
+  },
+  "Earlysville, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -78.4827896,
+      38.1576342
+    ]
+  },
+  "Rockville, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.1516844,
+      39.0817985
+    ]
+  },
+  "McKeesport, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.864215,
+      40.3478472
+    ]
+  },
+  "ROANOKE, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -79.9414313,
+      37.270973
+    ]
+  },
+  "Derwood, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.1610916,
+      39.11733
+    ]
+  },
+  "Hillsville, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -80.7347947,
+      36.7626282
+    ]
+  },
+  "Tacoma, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.4398746,
+      47.2495798
+    ]
+  },
+  "Belgrade, Montana": {
+    "type": "Point",
+    "coordinates": [
+      -111.184535,
+      45.773279
+    ]
+  },
+  "Emory, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -81.8362343,
+      36.7728907
+    ]
+  },
+  "Tiverton, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.166333,
+      41.6257406
+    ]
+  },
+  "Buffalo, New York": {
+    "type": "Point",
+    "coordinates": [
+      -78.8783922,
+      42.8867166
+    ]
+  },
+  "Durham, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -70.927048,
+      43.134564
+    ]
+  },
+  "Guelph, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -80.2493276,
+      43.5460516
+    ]
+  },
+  "Washington": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365427,
+      38.8950368
+    ]
+  },
+  "Hanson, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8800423,
+      42.0751013
+    ]
+  },
+  "Westwood, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.6169013,
+      39.0405608
+    ]
+  },
+  "Maine": {
+    "type": "Point",
+    "coordinates": [
+      -68.8590201,
+      45.709097
+    ]
+  },
+  "Denver, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -81.0297994,
+      35.5312452
+    ]
+  },
+  "Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -120.737257,
+      43.9792797
+    ]
+  },
+  "New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -117.6484304,
+      34.065846
+    ]
+  },
+  "Edmonton, Alberta": {
+    "type": "Point",
+    "coordinates": [
+      -113.507996,
+      53.535411
+    ]
+  },
+  "Pittstown, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.9589826,
+      40.5821362
+    ]
+  },
+  "Toledo, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -83.5378173,
+      41.6529143
+    ]
+  },
+  "Bridgewater, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9750426,
+      41.9903787
+    ]
+  },
+  "Toronto, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -93.6737694,
+      42.0359038
+    ]
+  },
+  "Fairplay, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.99959752584583,
+      39.225224499999996
+    ]
+  },
+  "West Moberly, British Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -121.5445822,
+      55.0947165
+    ]
+  },
+  "Naragansett, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4495005,
+      41.4501021
+    ]
+  },
+  "Belingham, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.478836,
+      48.7544012
+    ]
+  },
+  "Wurtsburo, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.4871031,
+      41.5767603
+    ]
+  },
+  "Unicorporated Adams County, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -104.2701374,
+      39.8714085
+    ]
+  },
+  "Shaw Island, San Juan Islands, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.9292374,
+      48.5840191
+    ]
+  },
+  "Valle de Guadalupe, Ensenada, BC": {
+    "type": "Point",
+    "coordinates": [
+      -116.5688893,
+      31.7864255
+    ]
+  },
+  "Hannover, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -72.288666,
+      43.703622
+    ]
+  },
+  "Springettbury, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.67678492007022,
+      39.99128975
+    ]
+  },
+  "Barnegate, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.22073950889322,
+      39.7557459
+    ]
+  },
+  "Geneva (Jainsville/Rock County, WI climate data set), Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -88.4334301,
+      42.5916836
+    ]
+  },
+  "Lake Geneva (Jainsville/Rock County, WI climate data set), Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -88.4334301,
+      42.5916836
+    ]
+  }
+}
