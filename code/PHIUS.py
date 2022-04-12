@@ -194,7 +194,7 @@ def json2geojson():
             prop["marker-symbol"] = "building"
 
         link = v['link']
-        prop['name'] = "<a href='{link}'>{k}</a>"
+        prop['name'] = f"<a href='{link}'>{k}</a>"
         desc = '<table>'
         desc = desc + '<tr><td>Certified by</td><td><a href="https://www.phius.org">PHIUS</a></td></tr>'
 
