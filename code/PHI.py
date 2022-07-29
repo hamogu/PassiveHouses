@@ -12,6 +12,10 @@ def json2geojson():
 
     out = {'type': "FeatureCollection", 'features': []}
     for row in known_projects:
+        # Don't know what 5 is. I notice those projects don't have a pid either,
+        # so I can't look up any additional details anyway.
+        if row['std'] == '5':
+            continue
         loc = {"type": "Point", "coordinates": [row['lon'], row['lat']]}
 
         prop = {}
