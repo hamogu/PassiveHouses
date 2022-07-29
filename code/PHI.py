@@ -38,7 +38,7 @@ def json2geojson():
                                 "geometry": loc,
                                 "properties": prop})
 
-    with open("PHI.geojson", 'w') as f:
+    with open("data/PHI.geojson", 'w') as f:
         json.dump(out, f, indent=2, separators=(',', ': '))
 
 

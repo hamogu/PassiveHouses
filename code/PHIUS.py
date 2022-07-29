@@ -208,7 +208,7 @@ def json2geojson():
                                 "geometry": v['Location'],
                                 "properties": prop})
 
-    with open("PHIUS.geojson", 'w') as f:
+    with open("data/PHIUS.geojson", 'w') as f:
         json.dump(out, f, indent=2, separators=(',', ': '))
 
 

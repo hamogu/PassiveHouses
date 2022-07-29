@@ -4128,5 +4128,243 @@
       -88.4334301,
       42.5916836
     ]
+  },
+  "Coyle, Oklahoma": {
+    "type": "Point",
+    "coordinates": [
+      -97.2344804,
+      35.9567175
+    ]
+  },
+  "Lowell, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3161718,
+      42.6334247
+    ]
+  },
+  "Paradise Valley, Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -111.9556001,
+      33.5428006
+    ]
+  },
+  "Gary, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -87.3370647,
+      41.6020962
+    ]
+  },
+  "West Windsor, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.62587457073727,
+      40.295093949999995
+    ]
+  },
+  "Versailles, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.7299464,
+      38.052576
+    ]
+  },
+  "White Lake, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.1481227,
+      43.542757
+    ]
+  },
+  "East Greenwich, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4558911,
+      41.6603788
+    ]
+  },
+  "Stone Ridge, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1390329,
+      41.8531485
+    ]
+  },
+  "Ridgefield, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.4981792,
+      41.2814842
+    ]
+  },
+  "Bridgewater, Nova Scotia": {
+    "type": "Point",
+    "coordinates": [
+      -64.5193946,
+      44.3774134
+    ]
+  },
+  "Waldwick, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.1182019,
+      41.0109281
+    ]
+  },
+  "Cincinnati, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -84.5124602,
+      39.1014537
+    ]
+  },
+  "Scarborough, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.3395776,
+      43.5909038
+    ]
+  },
+  "Snohomish, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -121.7304882,
+      48.0074736
+    ]
+  },
+  "Northfield, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.161159,
+      44.4582041
+    ]
+  },
+  "Utica, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.2326641,
+      43.1009031
+    ]
+  },
+  "BOSTON, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.060511,
+      42.3554334
+    ]
+  },
+  "Medway, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3967256,
+      42.1417641
+    ]
+  },
+  "Bayfield, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -91.1983175,
+      46.4710241
+    ]
+  },
+  "Marysville, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.1768209,
+      48.0517429
+    ]
+  },
+  "Silver Spring, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.02403709829767,
+      38.9997621
+    ]
+  },
+  "Edgewater, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -73.975694,
+      40.8270448
+    ]
+  },
+  "Payson, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.7321518,
+      40.0443989
+    ]
+  },
+  "Studio City, CA": {
+    "type": "Point",
+    "coordinates": [
+      -118.3961877,
+      34.1483989
+    ]
+  },
+  "Fayetteville, Arkansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.1574328,
+      36.0625843
+    ]
+  },
+  "New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.6553992,
+      43.4849133
+    ]
+  },
+  "Goffstown, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.600257,
+      43.020445
+    ]
+  },
+  "Yonkers, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8987469,
+      40.9312099
+    ]
+  },
+  "Brockton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0183787,
+      42.0834335
+    ]
+  },
+  "Saskatchewan": {
+    "type": "Point",
+    "coordinates": [
+      -106.1412243,
+      55.5321257
+    ]
+  },
+  "Lewiston, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2147764,
+      44.100351
+    ]
+  },
+  "Shoreline, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.3437497,
+      47.7564667
+    ]
+  },
+  "Black Earth, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.7482978,
+      43.1378765
+    ]
   }
 }

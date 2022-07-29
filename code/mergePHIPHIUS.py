@@ -1,9 +1,9 @@
 import json
 
-with open("PHIUS.geojson", 'r') as f:
+with open("data/PHIUS.geojson", 'r') as f:
     phius = json.load(f)
 
-with open("PHI.geojson", 'r') as f:
+with open("data/PHI.geojson", 'r') as f:
     phi = json.load(f)
 
 # Append only those in North America
@@ -21,5 +21,5 @@ for r in phius['features']:
         if n in r['properties']:
             del r['properties'][n]
 
-with open("PHIPHIUS.geojson", 'w') as f:
+with open("data/PHIPHIUS.geojson", 'w') as f:
     json.dump(phius, f, indent=2, separators=(',', ': '))

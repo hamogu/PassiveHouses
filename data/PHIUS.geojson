@@ -8598,6 +8598,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.2344804,
+          35.9567175
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/russell-home'>Russell Home</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3072 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.9250518,
           41.3082138
         ]
@@ -9647,6 +9663,1958 @@
         "marker-symbol": "building",
         "name": "<a href='https://www.phius.org/certified-project-database/west-moberly-health-centre'>West Moberly Health Centre</a>",
         "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Other Non-Residential</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5400 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0102813,
+          40.4847959
+        ]
+      },
+      "properties": {
+        "marker-color": "#79BD9A",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/westminster-place-huntingdon'>Westminster Place at Huntingdon</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>52459 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2995777,
+          40.2796371
+        ]
+      },
+      "properties": {
+        "marker-color": "#79BD9A",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/susie-clemens-house'>Susie Clemens House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>57137 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "marker-color": "#79BD9A",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/ames-residence'>Ames Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>Retrofit</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7811531,
+          47.6742994
+        ]
+      },
+      "properties": {
+        "marker-color": "#79BD9A",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/rammed-earth-passive-house'>Rammed Earth Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3505 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8867975,
+          40.7596198
+        ]
+      },
+      "properties": {
+        "marker-color": "#79BD9A",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/emery-street-project'>Emery Street Project</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single-Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>1793 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2548596,
+          43.6610277
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/chom-middle-street'>CHOM - Middle Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>31008 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3161718,
+          42.6334247
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/555-merrimack-st-lowell-ma'>555 Merrimack St.; Lowell, MA</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>25283 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8772751,
+          42.8125913
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/3-boston-way'>3 Boston Way</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>82291 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2548596,
+          43.6610277
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/200-valley-street'>200 Valley Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>53204 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9556001,
+          33.5428006
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/0pv2-zero-equals-pv-squared'>0=PV2 [zero equals pv squared]</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>4144 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/60-stearns'>60 Stearns</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3901 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3370647,
+          41.6020962
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/broadway-lofts'>Broadway Lofts</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>33929 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.62587457073727,
+          40.295093949999995
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/princeton-university-graduate-student-housing-building-c'>Princeton University - Graduate Student Housing - Building C</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Dormitory</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>82084 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.62587457073727,
+          40.295093949999995
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/princeton-university-graduate-student-housing-building-b'>Princeton University - Graduate Student Housing - Building B</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Dormitory</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>130217 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2654692,
+          44.9772995
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/1719-sheridan-avenue-north'>1719 Sheridan Avenue North</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>1281 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7299464,
+          38.052576
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hartsfield-residence'>Hartsfield Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2513 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/12-fayette-street'>12 Fayette Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3247 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1481227,
+          43.542757
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/town-bethel-town-hall'>Town of Bethel Town Hall</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>Retrofit</td></tr><tr><td><strong>Building Function</strong></td><td>Government / Public</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>4808 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.62587457073727,
+          40.295093949999995
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/princeton-university-graduate-student-housing-building'>Princeton University - Graduate Student Housing - Building A</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Dormitory</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>106182 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4558911,
+          41.6603788
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/brookside-terrace-building'>Brookside Terrace - Building A</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>22952 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1390329,
+          41.8531485
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/basten-farm-flexhouse-iii'>Basten Farm: FlexHouse III</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2094 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/humboldt-residence'>Humboldt Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>Retrofit</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3154 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4981792,
+          41.2814842
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/saint-johns-rd'>Saint Johns Rd</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>6145 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8967226,
+          42.5195292
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/lighthouse-34-34-peabody-street'>Lighthouse 34 (34 Peabody Street)</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>27880 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5193946,
+          44.3774134
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/treehouse-village-ecohousing'>Treehouse Village Ecohousing</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>6348 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/zero-six'>Zero Six</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>10311 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0994968,
+          42.3875968
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/wallace-st-der'>Wallace St DER</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>Retrofit</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2200 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/2436-laburnum-avenue'>2436 Laburnum Avenue</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5301 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9372908,
+          42.0664167
+        ]
+      },
+      "properties": {
+        "marker-color": "#C4F09E",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/prairie-trails-early-learning-center'>Prairie Trails Early Learning Center</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>Retrofit</td></tr><tr><td><strong>Building Function</strong></td><td>School / Education</td></tr><tr><td><strong>Construction Type</strong></td><td>Masonry</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>27930 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610759,
+          39.2908816
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/sbclt-duplex-2e'>SBCLT Duplex 2E</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>1335 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/parkview-terwilliger-plaza'>Parkview at Terwilliger Plaza</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>266273 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/friendship-court-redevelopment-phase-1-building-3'>Friendship Court Redevelopment Phase 1, Building 3</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/friendship-court-redevelopment-phase-1-building-2'>Friendship Court Redevelopment Phase 1, Building 2</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/friendship-court-redevelopment-phase-1-building-1'>Friendship Court Redevelopment Phase 1, Building 1</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2430932,
+          40.1164841
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/graumlich-house'>Graumlich House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Insulated Concrete Form (ICF)</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1182019,
+          41.0109281
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/waldwick'>Waldwick</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3376 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5124602,
+          39.1014537
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/menlo'>Menlo</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5631 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/second-and-delaware-apartments'>Second and Delaware Apartments</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Masonry</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>159228 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/28-mount-pleasant-street'>28 Mount Pleasant Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>28529 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/59-61-bow-street'>59-61 Bow Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>15378 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/tieton-timber'>Tieton Timber</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>11736 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-cove-building-f'>Woodland Cove - Building F</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>30530 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-cove-building-e'>Woodland Cove - Building E</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>40713 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3395776,
+          43.5909038
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jocelyn-place'>Jocelyn Place</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>43863 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1390329,
+          41.8531485
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/richardson-ripple-residence'>Richardson-Ripple Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7304882,
+          48.0074736
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/lake-bosworth-passive-house'>Lake Bosworth Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5259511,
+          42.1789784
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/mitchell-street-ph'>Mitchell Street PH</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7312291,
+          42.2681569
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/a2-collaborative-passive-house'>A2 Collaborative Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2228 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.161159,
+          44.4582041
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hillcrest-village'>Hillcrest Village</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-1328-gates-ave'>TPT X: 1328 Gates Ave</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-310-harman-st'>TPT X: 310 Harman St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-230-moffat-st'>TPT X: 230 Moffat St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-160-bleecker-st'>TPT X: 160 Bleecker St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-135-menahan-st'>TPT X: 135 Menahan St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-115-linden-st'>TPT X: 115 Linden St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jp-federal-building-6'>JP Federal - Building 6</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>62000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jp-federal-building-4'>JP Federal - Building 4</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>75000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jp-federal-building-3'>JP Federal - Building 3</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>72000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jp-federal-building-2'>JP Federal - Building 2</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>73000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2326641,
+          43.1009031
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/johnson-park-center-200-square-street'>Johnson Park Center: 200 Square Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2326641,
+          43.1009031
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/johnson-park-center-14-johnson-square'>Johnson Park Center: 14 Johnson Square</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/carlisle-passive-house'>Carlisle Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Insulated Concrete Form (ICF)</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3860 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.060511,
+          42.3554334
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/dudley-crossing-387-397-dudley-st'>Dudley Crossing (387-397 Dudley St)</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-8'>Hill Central Phase 1 Building 8</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>24830 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-7'>Hill Central Phase 1 Building 7</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2826 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-5'>Hill Central Phase 1 Building 5</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5040 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-4'>Hill Central Phase 1 Building 4</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>4610 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-3'>Hill Central Phase 1 Building 3</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>12260 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-2'>Hill Central Phase 1 Building 2</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>11680 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3967256,
+          42.1417641
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/glen-brook-way-phase-2-bldg-e'>Glen Brook Way Phase 2 - Bldg E</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>25855 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3967256,
+          42.1417641
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/glen-brook-way-phase-2-bldg-d'>Glen Brook Way Phase 2 - Bldg D</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>20646 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1983175,
+          46.4710241
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/ipsen-wegerson-passive-house'>Ipsen-Wegerson Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>1393 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0994968,
+          42.3875968
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/872-broadway'>872 Broadway</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1768209,
+          48.0517429
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/twin-lakes-landing-phase-2-building-4'>Twin Lakes Landing Phase 2 - Building 4</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1768209,
+          48.0517429
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/twin-lakes-landing-phase-2-building-3'>Twin Lakes Landing Phase 2 - Building 3</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1768209,
+          48.0517429
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/twin-lakes-landing-phase-2-building-2'>Twin Lakes Landing Phase 2 - Building 2</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1768209,
+          48.0517429
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/twin-lakes-landing-phase-2'>Twin Lakes Landing Phase 2</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02403709829767,
+          38.9997621
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hillandale-gateway-nar'>Hillandale Gateway NAR</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02403709829767,
+          38.9997621
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hillandale-gateway-ar'>Hillandale Gateway AR</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610759,
+          39.2908816
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/sbclt-duplex-2w'>SBCLT Duplex 2W</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2608 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0994968,
+          42.3875968
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/21-allen-street'>21 Allen Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>58659 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419906,
+          37.7790262
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/730-stanyan'>730 Stanyan</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>125000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0744952,
+          42.2973205
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/270-talbot'>270 Talbot</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>16041 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975694,
+          40.8270448
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/undercliff-ave'>Undercliff Ave</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>4500 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0582912,
+          42.3602534
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/jj-carroll-redevelopment'>J.J. Carroll Redevelopment</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Mixed-Use</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>143202 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0994968,
+          42.3875968
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/118-prospect-street'>118 Prospect Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>26198 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/friendship-court-community-resource-center'>Friendship Court - Community Resource Center</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Other Non-Residential</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/1118-w-7th'>1118 W 7th</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5000 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3837613,
+          43.074761
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/bayview-building-3'>Bayview Building 3</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Government / Public</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/1419-apartments'>1419 Apartments</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>42918 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0432974,
+          47.5348778
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/west-hoadley-residence'>West-Hoadley Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7321518,
+          40.0443989
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/loforti-passive-house'>Loforti Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood-Frame, Steel</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>1600 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3961877,
+          34.1483989
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/st-clair'>ST CLAIR</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3165 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1574328,
+          36.0625843
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/everleigh'>Everleigh</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Construction Type</strong></td><td>Insulated Concrete Form, Wood-Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3259 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-g'>Woodland Village - Building G</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3824 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-f'>Woodland Village - Building F</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>7353 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-e'>Woodland Village - Building E</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>7353 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-d'>Woodland Village - Building D</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>7353 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-c'>Woodland Village - Building C</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>5419 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.600257,
+          43.020445
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building-b'>Woodland Village - Building B</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3578 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4558911,
+          41.6603788
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/brookside-terrace-building-d'>Brookside Terrace - Building D</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>22219 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4558911,
+          41.6603788
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/brookside-terrace-building-c'>Brookside Terrace - Building C</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>22219 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.600257,
+          43.020445
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/woodland-village-building'>Woodland Village - Building A</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>38333 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4558911,
+          41.6603788
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/brookside-terrace-building-b'>Brookside Terrace - Building B</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>22799 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8987469,
+          40.9312099
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/lamora-senior-living'>LaMora Senior Living</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>53752 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/100-throop-corners'>100 Throop Corners</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>131189 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/bush-school-upper-school'>Bush School - Upper School</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>School / Education</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>19099 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0183787,
+          42.0834335
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/1200-montello'>1200 Montello</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>98945 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1412243,
+          55.5321257
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/aspen-ridge-passive-house-104-barrett-st'>Aspen Ridge Passive House, 104 Barrett St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2368 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/garfield-green-south-parcel'>Garfield Green - South Parcel</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>52245 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.507996,
+          53.535411
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/t5m-glenora-16'>T5M Glenora 16</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>14175 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2147764,
+          44.100351
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/blake-street-apartments'>Blake Street Apartments</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>8274 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3837613,
+          43.074761
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/bayview-building-8'>Bayview Building 8</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2651762,
+          38.9013729
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/214-ayr-hill'>214 Ayr Hill</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/hill-central-phase-1-building-6'>Hill Central Phase 1 Building 6</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>4945 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922497,
+          43.0349931
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/goodness-residence'>Goodness Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3437497,
+          47.7564667
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/chittenden-residence'>Chittenden Residence</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>3656 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7482978,
+          43.1378765
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/black-earth-passive-house'>Black Earth Passive House</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Single Family</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>2117 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2326641,
+          43.1009031
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/johnson-park-center-1300-west-street'>Johnson Park Center: 1300 West Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>45234 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-symbol": "building",
+        "name": "<a href='https://www.phius.org/certified-project-database/tpt-x-111-linden-st'>TPT X: 111 Linden St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0994968,
+          42.3875968
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/31-tufts-st'>31 Tufts St</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Multifamily</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>11739 sq. ft.</td></tr></table>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0582912,
+          42.3602534
+        ]
+      },
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "large",
+        "name": "<a href='https://www.phius.org/certified-project-database/2147-washington-street'>2147 Washington Street</a>",
+        "description": "<table><tr><td>Certified by</td><td><a href=\"https://www.phius.org\">PHIUS</a></td></tr><tr><td><strong>Project Type</strong></td><td>New Construction</td></tr><tr><td><strong>Building Function</strong></td><td>Mixed-Use</td></tr><tr><td><strong>Construction Type</strong></td><td>Wood Frame</td></tr><tr><td><strong>INT. Conditioned Floor Area</strong></td><td>72910 sq. ft.</td></tr></table>"
       }
     }
   ]
