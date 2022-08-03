@@ -219,4 +219,4 @@ if __name__ == '__main__':
     current_project_list = get_list_all_projects()
     download_new_project_details(current_project_list)
     add_location()
-    json2geojson()
+    #json2geojson()

@@ -48,4 +48,4 @@ if __name__ == '__main__':
     known_projects = json.loads(webjson)
     with open("data/PHI.json", 'w') as f:
         json.dump(known_projects, f, indent=2)
-    json2geojson()
+    #json2geojson()
