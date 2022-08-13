@@ -18147,7 +18147,7 @@
   "Far View PH Residence": {
     "link": "https://www.phius.org/certified-project-database/far-view-ph-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3830 sq. ft.",
     "Floor area": 3830.0,
     "Project Submitter": "Scott Witt",
@@ -18157,7 +18157,7 @@
   "Robles Residence": {
     "link": "https://www.phius.org/certified-project-database/robles-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "Project Submitter": "Dylan Lamar",
     "Number of Units": "1"
   },
@@ -18219,7 +18219,7 @@
   "Norman home addition": {
     "link": "https://www.phius.org/certified-project-database/norman-home-addition",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "Project Type": "Addition",
     "INT. Conditioned Floor Area": "2996 sq. ft.",
     "Floor area": 2996.0,
@@ -18268,7 +18268,7 @@
   "3 Van Horne": {
     "link": "https://www.phius.org/certified-project-database/3-van-horne",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3186 sq. ft.",
     "Floor area": 3186.0,
     "Project Submitter": "Kim Walton",
@@ -18277,7 +18277,7 @@
   "Wharton-Kelleher Residence": {
     "link": "https://www.phius.org/certified-project-database/wharton-kelleher-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "4492 sq. ft.",
     "Floor area": 4492.0,
     "Phius Certified Rater": "Troy Hodas",
@@ -18299,7 +18299,7 @@
   "Brooks Residence": {
     "link": "https://www.phius.org/certified-project-database/brooks-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3264 sq. ft.",
     "Floor area": 3264.0,
     "Project Submitter": "John Slater",
@@ -18397,6 +18397,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "161195 sq. ft.",
     "Floor area": 161195.0,
+    "Primary Reviewer": "Al Mitchell",
+    "Phius Certified Verifier": "Chris Straile",
+    "Phius CPHC (Lead)": "Michelle Tinner",
     "Project Submitter": "Michelle Tinner"
   },
   "Mont Passive House": {
@@ -22754,7 +22757,7 @@
   "Vandehay Passive House": {
     "link": "https://www.phius.org/certified-project-database/vandehay-passive-house",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3246 sq. ft.",
     "Floor area": 3246.0,
     "Project Submitter": "Scott Kosmecki",
@@ -22772,7 +22775,7 @@
   "Resilient Corners - Building 2B": {
     "link": "https://www.phius.org/certified-project-database/resilient-corners-building-2b",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "1576 sq. ft.",
     "Floor area": 1576.0,
     "Project Submitter": "Chris Straile",
@@ -22781,7 +22784,7 @@
   "Resilient Corners - Building 2A": {
     "link": "https://www.phius.org/certified-project-database/resilient-corners-building-2a",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "1576 sq. ft.",
     "Floor area": 1576.0,
     "Project Submitter": "Chris Straile",
@@ -22790,7 +22793,7 @@
   "Resilient Corners - Building 1C": {
     "link": "https://www.phius.org/certified-project-database/resilient-corners-building-1c",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "1542 sq. ft.",
     "Floor area": 1542.0,
     "Project Submitter": "Chris Straile",
@@ -22799,7 +22802,7 @@
   "Resilient Corners - Building 1B": {
     "link": "https://www.phius.org/certified-project-database/resilient-corners-building-1b",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "1542 sq. ft.",
     "Floor area": 1542.0,
     "Project Submitter": "Chris Straile",
@@ -22808,7 +22811,7 @@
   "Resilient Corners - Building 1A": {
     "link": "https://www.phius.org/certified-project-database/resilient-corners-building-1a",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "1542 sq. ft.",
     "Floor area": 1542.0,
     "Project Submitter": "Chris Straile",
@@ -22826,7 +22829,7 @@
   "Del Ray House": {
     "link": "https://www.phius.org/certified-project-database/del-ray-house",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "6650 sq. ft.",
     "Floor area": 6650.0,
@@ -22836,7 +22839,7 @@
   "Salish Beach House": {
     "link": "https://www.phius.org/certified-project-database/salish-beach-house",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3964 sq. ft.",
     "Floor area": 3964.0,
     "Project Submitter": "Robert Herrmann",
@@ -22932,10 +22935,17 @@
     "link": "https://www.phius.org/certified-project-database/goers-residence",
     "Status": "Registered",
     "Building Function": "Single Family",
+    "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "2434 sq. ft.",
+    "Construction Completion": "2023",
     "Floor area": 2434.0,
     "Project Submitter": "Joseph Juhl",
-    "Number of Units": "1"
+    "Architecture Planning": "Tom Bassett-Dilley Architects",
+    "Mechanical Systems Designer": "Tom Bassett-Dilley Architects",
+    "Additional Consultants": "Fred Lam, Structural Engineer",
+    "Number of Units": "1",
+    "Market Category": "Market Rate",
+    "Project Delivery Method": "Design-Bid-Build (DBB)"
   },
   "Solebury School New Dorm": {
     "link": "https://www.phius.org/certified-project-database/solebury-school-new-dorm",
@@ -22945,7 +22955,7 @@
   "Georgetown Lake Earth Shelter": {
     "link": "https://www.phius.org/certified-project-database/georgetown-lake-earth-shelter",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "4000 sq. ft.",
     "Floor area": 4000.0,
@@ -23395,7 +23405,7 @@
   "Beit El Jabal": {
     "link": "https://www.phius.org/certified-project-database/beit-el-jabal",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "2334 sq. ft.",
     "Floor area": 2334.0,
     "Project Submitter": "Sylvia Wallis",
@@ -23457,7 +23467,7 @@
   "China Pond Passive": {
     "link": "https://www.phius.org/certified-project-database/china-pond-passive",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "4282 sq. ft.",
     "Floor area": 4282.0,
     "Project Submitter": "Karl Hansen",
@@ -23543,7 +23553,7 @@
   "Konanbatch Residence": {
     "link": "https://www.phius.org/certified-project-database/konanbatch-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "2399 sq. ft.",
     "Floor area": 2399.0,
     "Project Submitter": "Sy Safi",
@@ -23609,7 +23619,7 @@
   "Grant St": {
     "link": "https://www.phius.org/certified-project-database/grant-st",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "3554 sq. ft.",
     "Floor area": 3554.0,
     "Project Submitter": "Alexander Jackson",
@@ -23674,7 +23684,7 @@
   "Cordisco Residence": {
     "link": "https://www.phius.org/certified-project-database/cordisco-residence",
     "Status": "Registered",
-    "Building Function": "Single Family",
+    "Building Function": "Single-Family",
     "INT. Conditioned Floor Area": "2215 sq. ft.",
     "Floor area": 2215.0,
     "Project Submitter": "Ben Valentin"
@@ -23944,6 +23954,143 @@
       "coordinates": [
         -71.0582912,
         42.3602534
+      ]
+    }
+  },
+  "154 Broadway": {
+    "link": "https://www.phius.org/certified-project-database/154-broadway",
+    "Status": "Design Certified",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "30982 sq. ft.",
+    "Construction Completion": "2023",
+    "Floor area": 30982.0,
+    "Phius Certified Verifier": "Greg Downing",
+    "Phius CPHC (Lead)": "Jeff Geisinger",
+    "Project Submitter": "Jeff Geisinger",
+    "Primary Reviewer": "Andres Pinzon",
+    "Developer": "Construction Managers & Developers, LLC",
+    "Architecture Planning": "Utile",
+    "Building Owner": "Construction Managers & Developers, LLC",
+    "Mechanical Systems Designer": "Petersen Engineering",
+    "Additional Consultants": "RSE Associates",
+    "Construction Type": "Heavy Timber, Wood-Frame",
+    "Number of Units": "45",
+    "Number of Stories": "5",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Market Category": "Market Rate",
+    "Design Certification": "August 10, 2022",
+    "Region": "Northeast",
+    "Annual Heating Demand": "2.73",
+    "Annual Cooling Demand": "2.83",
+    "Peak Heating Load": "3.52",
+    "Peak Cooling Load": "2.72",
+    "Site Energy Use Index (EUI)": "23.48",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "6978",
+    "Air Tightness (per enclosure area)": "0.06",
+    "Facade Type": "Fiber Cement",
+    "location": "Somerville, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.0994968,
+        42.3875968
+      ]
+    }
+  },
+  "Asbjornson Residence": {
+    "link": "https://www.phius.org/certified-project-database/asbjornson-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "INT. Conditioned Floor Area": "3500 sq. ft.",
+    "Floor area": 3500.0,
+    "Project Submitter": "Cameron Caja",
+    "Number of Units": "1"
+  },
+  "100 Broadway Street, Commercial": {
+    "link": "https://www.phius.org/certified-project-database/100-broadway-street-commercial",
+    "Status": "Registered",
+    "Building Function": "Other Non-Residential",
+    "INT. Conditioned Floor Area": "5621 sq. ft.",
+    "Floor area": 5621.0,
+    "Project Submitter": "Elizabeth Hauver",
+    "Number of Units": "1"
+  },
+  "100 Broadway Street, Residential": {
+    "link": "https://www.phius.org/certified-project-database/100-broadway-street-residential",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "INT. Conditioned Floor Area": "14848 sq. ft.",
+    "Floor area": 14848.0,
+    "Project Submitter": "Elizabeth Hauver",
+    "Number of Units": "21"
+  },
+  "Oreland Passive House": {
+    "link": "https://www.phius.org/certified-project-database/oreland-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "INT. Conditioned Floor Area": "2000 sq. ft.",
+    "Floor area": 2000.0,
+    "Project Submitter": "Ilka Cassidy",
+    "Number of Units": "1"
+  },
+  "Galoso Passive House": {
+    "link": "https://www.phius.org/certified-project-database/galoso-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "INT. Conditioned Floor Area": "3140 sq. ft.",
+    "Floor area": 3140.0,
+    "Project Submitter": "Michael Nolan",
+    "Number of Units": "1",
+    "Program Version": "Phius CORE Prescriptive 2021"
+  },
+  "West House II": {
+    "link": "https://www.phius.org/certified-project-database/west-house-ii",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "INT. Conditioned Floor Area": "50862 sq. ft.",
+    "Floor area": 50862.0,
+    "Project Submitter": "Joel VanderWeele",
+    "Number of Units": "54"
+  },
+  "Indiana Dunes Passive House": {
+    "link": "https://www.phius.org/certified-project-database/indiana-dunes-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "INT. Conditioned Floor Area": "2268 sq. ft.",
+    "Floor area": 2268.0,
+    "Project Submitter": "Mark Miller",
+    "Number of Units": "1",
+    "Program Version": "Phius CORE Prescriptive 2021",
+    "All Electric": "Yes"
+  },
+  "2371 Frederick Douglass Blvd.": {
+    "link": "https://www.phius.org/certified-project-database/2371-frederick-douglass-blvd",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "21768 sq. ft.",
+    "Floor area": 21768.0,
+    "Phius CPHC (Lead)": "Carmel Pratt",
+    "Project Submitter": "Carmel Pratt",
+    "Construction Company": "Rohan Developments",
+    "Construction Type": "Masonry",
+    "Number of Units": "30",
+    "Number of Stories": "11",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York, New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
       ]
     }
   }
