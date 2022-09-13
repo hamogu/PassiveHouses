@@ -4366,5 +4366,33 @@
       -89.7482978,
       43.1378765
     ]
+  },
+  "Santa Rosa, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.7141049,
+      38.4404925
+    ]
+  },
+  "Caln Township, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.76962922944233,
+      40.0014111
+    ]
+  },
+  "Porter, TX": {
+    "type": "Point",
+    "coordinates": [
+      -95.2296553,
+      30.1024397
+    ]
+  },
+  "Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -84.6824346,
+      43.6211955
+    ]
   }
 }
