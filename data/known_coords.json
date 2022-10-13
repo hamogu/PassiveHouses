@@ -4394,5 +4394,110 @@
       -84.6824346,
       43.6211955
     ]
+  },
+  "Milwaukie, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.6412523,
+      45.4440051
+    ]
+  },
+  "CALN TOWNSHIP, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.76962922944233,
+      40.0014111
+    ]
+  },
+  "Wilmette, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.7193768,
+      42.0757315
+    ]
+  },
+  "Moravia, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -92.8145031,
+      40.891181
+    ]
+  },
+  "Louisiana": {
+    "type": "Point",
+    "coordinates": [
+      -92.007126,
+      30.8703881
+    ]
+  },
+  "Kerhonkson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.2982059,
+      41.7748155
+    ]
+  },
+  "Haverhill, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0767724,
+      42.7777829
+    ]
+  },
+  "Methuen, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1908924,
+      42.7262016
+    ]
+  },
+  "Conway, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.120682,
+      43.979475
+    ]
+  },
+  "Rochester, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -70.9753629,
+      43.3050631
+    ]
+  },
+  "Desert Hot Springs, California": {
+    "type": "Point",
+    "coordinates": [
+      -116.5016784,
+      33.961124
+    ]
+  },
+  "Centerfield, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.8190914,
+      39.1252392
+    ]
+  },
+  "Old Orchard Beach, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.377731,
+      43.517684
+    ]
+  },
+  "Kittanning, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.5219893,
+      40.8164531
+    ]
+  },
+  "SOMERVILLE, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0994968,
+      42.3875968
+    ]
   }
 }
