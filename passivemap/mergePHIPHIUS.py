@@ -8,7 +8,7 @@ with open("data/PHI.geojson", 'r') as f:
 
 # Append only those in North America
 for r in phi['features']:
-    # These liens where used ti limit to North America. Now we do all.
+    # These lines where used it limits to North America. Now we do all.
     # lon, lat = r['geometry']['coordinates']
     # if (lat > 15) and (lon<-40):
         phius['features'].append(r)

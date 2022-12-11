@@ -6,11 +6,15 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 PHIUSstatuscolor = {'Pre-certified': "darkgreen", 'Design Certified': "darkgreen",
                'Certified': "gray", 'Final Certified': 'gray',
-                'Registered': "white", None: "white"}
+                'Registered': "lightgray", None: "lightgray"}
 
 PHIstandard = {'0': 'PHI Low Energy Building',
                '1': 'EnerPHit',
-               '2': 'Passive House'}
+               '2': 'Passive House',
+               # In Dec 2022 there is only one building with std=4 and according to the text
+               # on the PHI website for that project, it's a "Passive house".
+               # So, this might just be an error in the database.
+               '4': 'Passive House'}
 
 
 
@@ -35,7 +39,7 @@ def PHIUS_data():
         locations.append([v['Location']['coordinates'][1], v['Location']['coordinates'][0]])
     
         link = v['link']
-        name = f"<a href='{link}'>{k}</a>"
+        name = f"<a href='{link}' target='_blank'>{k}</a>"
         desc = '<table>'
         desc = desc + '<tr><td>Certified by</td><td><a href="https://www.phius.org">PHIUS</a></td></tr>'
 
@@ -73,7 +77,7 @@ def PHI_data():
         locations.append([row['lat'], row['lon']])
 
         if row['pid']:
-            name = f"<a href='https://passivehouse-database.org/index.php?lang=en#d_{row['pid']}'>{PHIstandard[row['std']]}</a>"
+            name = f"<a href='https://passivehouse-database.org/index.php?lang=en#d_{row['pid']}' target='_blank'>{PHIstandard[row['std']]}</a>"
         else:
             name = PHIstandard[row['std']]
 

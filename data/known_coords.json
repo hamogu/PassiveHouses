@@ -4499,5 +4499,47 @@
       -71.0994968,
       42.3875968
     ]
-  }
+  },
+  "Redfield, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -94.19607,
+      41.5894322
+    ]
+  },
+  "East Falmouth, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.5586401,
+      41.5784425
+    ]
+  },
+  "Viola, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -90.668186,
+      43.5060862
+    ]
+  },
+  "Raleigh, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -78.6390989,
+      35.7803977
+    ]
+  },
+  "Kent, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.2270272,
+      47.3826903
+    ]
+  },
+  "Klimarnock, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -76.3836561,
+      37.7138134
+      ]
+    }
 }
