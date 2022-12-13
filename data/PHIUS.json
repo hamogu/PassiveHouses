@@ -25375,7 +25375,14 @@
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
     "Air Tightness (per enclosure area)": "0.0146",
-    "location": "Klimarnock, Virginia"
+    "location": "Klimarnock, Virginia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -76.3836561,
+        37.7138134
+      ]
+    }
   },
   "North Avenue Workforce Housing": {
     "link": "https://www.phius.org/certified-project-database/north-avenue-workforce-housing",
@@ -26738,6 +26745,31 @@
     "Site Energy Use Index (EUI)": "19.31",
     "Compliance Software": "WUFI Passive",
     "Source Energy (Residential)": "4331",
+    "location": "Brooklyn, New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.9497211,
+        40.6526006
+      ]
+    }
+  },
+  "Vital Brooklyn": {
+    "link": "https://www.phius.org/certified-project-database/vital-brooklyn",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "134908 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 134908.0,
+    "Phius CPHC (Lead)": "Carmel Pratt",
+    "Project Submitter": "Zoe Kaufman",
+    "Number of Units": "160",
+    "Number of Stories": "7",
+    "Program Version": "PHIUS+ 2015",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
     "location": "Brooklyn, New York",
     "Location": {
       "type": "Point",
