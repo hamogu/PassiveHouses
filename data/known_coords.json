@@ -4541,5 +4541,96 @@
       -76.3836561,
       37.7138134
     ]
+  },
+  "New Hope, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -74.9512785,
+      40.3642728
+    ]
+  },
+  "Nederland, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.510831,
+      39.9613759
+    ]
+  },
+  "Bristol Township, PA": {
+    "type": "Point",
+    "coordinates": [
+      -74.86447057681232,
+      40.122900200000004
+    ]
+  },
+  "Olneyville, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4464469,
+      41.8148223
+    ]
+  },
+  "Elgin, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.2810994,
+      42.03726
+    ]
+  },
+  "Bothell, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.2068288,
+      47.7598697
+    ]
+  },
+  "Asbury Park, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.0120817,
+      40.2203907
+    ]
+  },
+  "Springfield, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.0220289,
+      44.0462362
+    ]
+  },
+  "Boulder, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.270241,
+      40.0154155
+    ]
+  },
+  "Sutton, Quebec": {
+    "type": "Point",
+    "coordinates": [
+      -72.6186317,
+      45.1115241
+    ]
+  },
+  "Warren, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.855743,
+      44.1131991
+    ]
+  },
+  "Harrisburg, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.8861122,
+      40.2663107
+    ]
+  },
+  "Minden, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -78.72493,
+      44.9254436
+    ]
   }
 }
