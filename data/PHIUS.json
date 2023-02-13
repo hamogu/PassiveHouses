@@ -18316,13 +18316,15 @@
     "link": "https://www.phius.org/certified-project-database/wharton-kelleher-residence",
     "Status": "Registered",
     "Building Function": "Single-Family",
+    "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "4492 sq. ft.",
     "Floor area": 4492.0,
     "Phius Certified Rater": "Troy Hodas",
     "Phius CPHC (Lead)": "Stephanie Bassler",
     "Phius CPHC (Secondary)": "John Loercher",
     "Project Submitter": "Stephanie Bassler",
-    "Number of Units": "1"
+    "Number of Units": "1",
+    "Compliance Software": "WUFI Passive"
   },
   "Harvey West Studios": {
     "link": "https://www.phius.org/certified-project-database/harvey-west-studios",
@@ -23207,16 +23209,38 @@
   },
   "Scranton Main Senior Housing": {
     "link": "https://www.phius.org/certified-project-database/scranton-main-senior-housing",
-    "Status": "Registered",
+    "Status": "Design Certified",
     "Building Function": "Multifamily",
     "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
     "INT. Conditioned Floor Area": "43031 sq. ft.",
     "Floor area": 43031.0,
+    "Phius Certified Verifier": "Mike Browne",
     "Phius CPHC (Lead)": "Vitor Leite Goncalves",
-    "Phius CPHC (Secondary)": "Hans Breaux",
+    "Phius CPHC (Secondary)": "Ian Johnson",
     "Project Submitter": "Ian Johnson",
     "Number of Units": "48",
-    "Number of Stories": "3"
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Design Certification": "January 20, 2023",
+    "Region": "Northeast",
+    "Annual Heating Demand": "1.66",
+    "Annual Cooling Demand": "3.34",
+    "Peak Heating Load": "3.67",
+    "Peak Cooling Load": "1.69",
+    "Site Energy Use Index (EUI)": "22.48",
+    "Site Energy Use Index (w/Renewables)": "19.25",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "5372",
+    "Source Energy (Residential w/Renewables)": "4601",
+    "location": "Falmouth, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -70.6147519,
+        41.5514979
+      ]
+    }
   },
   "The Equinox": {
     "link": "https://www.phius.org/certified-project-database/equinox",
@@ -23943,10 +23967,28 @@
   "Stonley Brookley": {
     "link": "https://www.phius.org/certified-project-database/stonley-brookley",
     "Status": "Registered",
-    "INT. Conditioned Floor Area": "37171 sq. ft.",
-    "Floor area": 37171.0,
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "38009 sq. ft.",
+    "Floor area": 38009.0,
+    "Phius Certified Verifier": "Greg Downing",
+    "Phius CPHC (Lead)": "Michelle Tinner",
     "Project Submitter": "Michelle Tinner",
-    "Number of Units": "45"
+    "Number of Units": "45",
+    "Number of Stories": "4",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
   },
   "Old First Church": {
     "link": "https://www.phius.org/certified-project-database/old-first-church",
@@ -24590,10 +24632,24 @@
     "link": "https://www.phius.org/certified-project-database/west-house-ii",
     "Status": "Registered",
     "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
     "INT. Conditioned Floor Area": "50862 sq. ft.",
     "Floor area": 50862.0,
     "Project Submitter": "Joel VanderWeele",
-    "Number of Units": "54"
+    "Number of Units": "54",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Middletown, Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.2914388,
+        41.5456578
+      ]
+    }
   },
   "Indiana Dunes Passive House": {
     "link": "https://www.phius.org/certified-project-database/indiana-dunes-passive-house",
@@ -24989,8 +25045,8 @@
     "Building Function": "Multifamily",
     "INT. Conditioned Floor Area": "49368 sq. ft.",
     "Floor area": 49368.0,
-    "Phius CPHC (Lead)": "Hans Breaux",
-    "Project Submitter": "Ian Johnson",
+    "Phius CPHC (Lead)": "Vitor Leite Goncalves",
+    "Project Submitter": "Rebecca O'Hearn",
     "Number of Units": "58"
   },
   "East Gables": {
@@ -27833,5 +27889,232 @@
         40.7127281
       ]
     }
+  },
+  "Second and Delaware Apartments (West)": {
+    "link": "https://www.phius.org/certified-project-database/second-and-delaware-apartments-west",
+    "Status": "Design Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "158825 sq. ft.",
+    "Floor area": 158825.0,
+    "Phius Certified Verifier": "Erik Henson",
+    "Phius CPHC (Lead)": "Prudence Ferreira",
+    "Project Submitter": "Prudence Ferreira",
+    "Architecture Planning": "Jeffrey M. White",
+    "Mechanical Systems Designer": "Kyle Greenfield, Greenfield Energy",
+    "Additional Consultants": "Jason Jenkins, SysTek",
+    "Construction Company": "Crossland Construction Company",
+    "Construction Type": "Masonry",
+    "Number of Units": "138",
+    "Number of Stories": "6",
+    "Program Version": "PHIUS+ 2018 CORE",
+    "Design Certification": "January 30, 2023",
+    "Region": "Midwest",
+    "Annual Heating Demand": "1.33",
+    "Annual Cooling Demand": "9.73",
+    "Peak Heating Load": "2.66",
+    "Peak Cooling Load": "2.97",
+    "Site Energy Use Index (EUI)": "18.6",
+    "Site Energy Use Index (w/Renewables)": "15.08",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "7003",
+    "Source Energy (Residential w/Renewables)": "5469",
+    "Air Tightness (per enclosure area)": "0.084",
+    "location": "Kansas City, Missouri",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -94.5781416,
+        39.100105
+      ]
+    }
+  },
+  "Second and Delaware Apartments (East)": {
+    "link": "https://www.phius.org/certified-project-database/second-and-delaware-apartments-east",
+    "Status": "Design Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "158825 sq. ft.",
+    "Floor area": 158825.0,
+    "Phius Certified Verifier": "Erik Henson",
+    "Phius CPHC (Lead)": "Prudence Ferreira",
+    "Project Submitter": "Prudence Ferreira",
+    "Architecture Planning": "Jeffrey M. White",
+    "Mechanical Systems Designer": "Kyle Greenfield, Greenfield Energy",
+    "Additional Consultants": "Jason Jenkins, SysTek",
+    "Construction Company": "Crossland Construction Company",
+    "Construction Type": "Masonry",
+    "Number of Units": "138",
+    "Number of Stories": "6",
+    "Program Version": "PHIUS+ 2018 CORE",
+    "Design Certification": "January 30, 2023",
+    "Region": "Midwest",
+    "Annual Heating Demand": "1.47",
+    "Annual Cooling Demand": "9.82",
+    "Peak Heating Load": "2.77",
+    "Peak Cooling Load": "2.99",
+    "Site Energy Use Index (EUI)": "18.64",
+    "Site Energy Use Index (w/Renewables)": "15.12",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "7027",
+    "Source Energy (Residential w/Renewables)": "5491",
+    "Air Tightness (per enclosure area)": "0.084",
+    "location": "Kansas City, Missouri",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -94.5781416,
+        39.100105
+      ]
+    }
+  },
+  "14th Avenue Townhomes": {
+    "link": "https://www.phius.org/certified-project-database/14th-avenue-townhomes",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "11200 sq. ft.",
+    "Floor area": 11200.0,
+    "Project Submitter": "Elizabeth Turner",
+    "Number of Units": "10",
+    "Compliance Software": "WUFI Passive"
+  },
+  "733 Broadway": {
+    "link": "https://www.phius.org/certified-project-database/733-broadway",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "73661 sq. ft.",
+    "Floor area": 73661.0,
+    "Project Submitter": "Vitor Leite Goncalves",
+    "Number of Units": "52",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Samaritas Affordable Living Spring Lake": {
+    "link": "https://www.phius.org/certified-project-database/samaritas-affordable-living-spring-lake",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "51420 sq. ft.",
+    "Floor area": 51420.0,
+    "Project Submitter": "James Lewis",
+    "Number of Units": "53",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Lake ZNE": {
+    "link": "https://www.phius.org/certified-project-database/lake-zne",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2700 sq. ft.",
+    "Floor area": 2700.0,
+    "Project Submitter": "Milo Stella",
+    "Number of Units": "1",
+    "Compliance Software": "Prescriptive Checklist"
+  },
+  "McManus Manor": {
+    "link": "https://www.phius.org/certified-project-database/mcmanus-manor",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "49389 sq. ft.",
+    "Floor area": 49389.0,
+    "Project Submitter": "Mark Newey",
+    "Number of Units": "41",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Echo at Eastlake": {
+    "link": "https://www.phius.org/certified-project-database/echo-eastlake",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4C - Mixed - Marine",
+    "INT. Conditioned Floor Area": "3478 sq. ft.",
+    "Floor area": 3478.0,
+    "Project Submitter": "Matt Hutchins",
+    "Architecture Planning": "CAST architecture",
+    "Mechanical Systems Designer": "Ecotope",
+    "Additional Consultants": "BEE Engineers",
+    "Number of Units": "10",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Seattle, Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.3300624,
+        47.6038321
+      ]
+    }
+  },
+  "Acorn Flats": {
+    "link": "https://www.phius.org/certified-project-database/acorn-flats",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "19831 sq. ft.",
+    "Floor area": 19831.0,
+    "Project Submitter": "Stephen McEwen",
+    "Number of Units": "23",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Ridgeway VI": {
+    "link": "https://www.phius.org/certified-project-database/ridgeway-vi",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "79665 sq. ft.",
+    "Floor area": 79665.0,
+    "Project Submitter": "Edwin May",
+    "Number of Units": "92",
+    "Compliance Software": "WUFI Passive"
+  },
+  "31 Bartlett St. Site A-2": {
+    "link": "https://www.phius.org/certified-project-database/31-bartlett-st-site-2",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "24616 sq. ft.",
+    "Floor area": 24616.0,
+    "Project Submitter": "Nishad Bahekar",
+    "Number of Units": "29",
+    "Compliance Software": "WUFI Passive"
+  },
+  "665 Flushing Ave Site A-1": {
+    "link": "https://www.phius.org/certified-project-database/665-flushing-ave-site-1",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "48609 sq. ft.",
+    "Floor area": 48609.0,
+    "Project Submitter": "Nishad Bahekar",
+    "Number of Units": "50",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Cheney Senior Homes": {
+    "link": "https://www.phius.org/certified-project-database/cheney-senior-homes",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "44382 sq. ft.",
+    "Floor area": 44382.0,
+    "Project Submitter": "Daniel Perez",
+    "Number of Units": "48",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Meadows Residence": {
+    "link": "https://www.phius.org/certified-project-database/meadows-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "4463 sq. ft.",
+    "Floor area": 4463.0,
+    "Project Submitter": "Lisa Farmer",
+    "Number of Units": "1",
+    "Program Version": "Phius CORE Prescriptive 2021",
+    "All Electric": "Yes",
+    "Compliance Software": "Prescriptive Checklist"
   }
 }

@@ -4632,5 +4632,12 @@
       -78.72493,
       44.9254436
     ]
+  },
+  "Middletown, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.2914388,
+      41.5456578
+    ]
   }
 }
