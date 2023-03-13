@@ -4639,5 +4639,26 @@
       -71.2914388,
       41.5456578
     ]
+  },
+  "Waltham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2358004,
+      42.3756401
+    ]
+  },
+  "Grand Rapids, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -85.6678639,
+      42.9632405
+    ]
+  },
+  "Overland Park, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.6851702,
+      38.9742502
+    ]
   }
 }
