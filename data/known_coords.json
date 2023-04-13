@@ -4660,5 +4660,229 @@
       -94.6851702,
       38.9742502
     ]
+  },
+  "Gibsonia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.9695004,
+      40.6300671
+    ]
+  },
+  "Beverly Shores, IN": {
+    "type": "Point",
+    "coordinates": [
+      -86.9775319,
+      41.6925381
+    ]
+  },
+  "Perinton, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.4282796,
+      43.0780929
+    ]
+  },
+  "Houston, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -95.3676974,
+      29.7589382
+    ]
+  },
+  "Trumansburg, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.6660589,
+      42.5422939
+    ]
+  },
+  "Washington, DC, District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365427,
+      38.8950368
+    ]
+  },
+  "District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -76.98804281910948,
+      38.89384735
+    ]
+  },
+  "Puslinch, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -80.11377014121024,
+      43.47750295
+    ]
+  },
+  "Indianapolis, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -86.1583502,
+      39.7683331
+    ]
+  },
+  "Durham, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -78.9018053,
+      35.996653
+    ]
+  },
+  "Galveston, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -94.7945882,
+      29.299328
+    ]
+  },
+  "Concord, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.537476,
+      43.207178
+    ]
+  },
+  "Franconia, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.7478468,
+      44.2273919
+    ]
+  },
+  "Victor, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -111.111309,
+      43.6025939
+    ]
+  },
+  "Calabogie, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -76.725769,
+      45.30218
+    ]
+  },
+  "Newark, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.7630866,
+      39.6775927
+    ]
+  },
+  "Barre, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.106275,
+      42.4203295
+    ]
+  },
+  "Howell, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.9293952,
+      42.6072552
+    ]
+  },
+  "Orland Park, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8536288,
+      41.630663
+    ]
+  },
+  "Calpine, California": {
+    "type": "Point",
+    "coordinates": [
+      -120.4396558,
+      39.6662911
+    ]
+  },
+  "Morrisville, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.5981251,
+      44.5616154
+    ]
+  },
+  "Eastsound, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.9054625,
+      48.696771
+    ]
+  },
+  "Amagansett, New York": {
+    "type": "Point",
+    "coordinates": [
+      -72.1437716,
+      40.9736557
+    ]
+  },
+  "Amery, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -92.3621369,
+      45.3069062
+    ]
+  },
+  "Jacksonville, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.965346,
+      42.314411
+    ]
+  },
+  "LaGrange, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -85.38422129802817,
+      38.41246945
+    ]
+  },
+  "Riegelsville, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1951673,
+      40.5943218
+    ]
+  },
+  "Estes Park, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.54968963482818,
+      40.369766
+    ]
+  },
+  "Steamboat Springs, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -106.8317359,
+      40.4848003
+    ]
+  },
+  "Lloyd Harbor, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.4598432,
+      40.9034315
+    ]
+  },
+  "Nashville, Tennessee": {
+    "type": "Point",
+    "coordinates": [
+      -86.7742984,
+      36.1622767
+    ]
+  },
+  "Columbia, Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -92.3337366,
+      38.951883
+    ]
   }
 }
