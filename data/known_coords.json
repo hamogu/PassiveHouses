@@ -4884,5 +4884,40 @@
       -92.3337366,
       38.951883
     ]
+  },
+  "Syracuse, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.1474244,
+      43.0481221
+    ]
+  },
+  "Carmel Hamlet, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6788272,
+      41.4266361
+    ]
+  },
+  "Tobermory, Ontario": {
+    "type": "Point",
+    "coordinates": [
+      -81.64304911238214,
+      45.234697049999994
+    ]
+  },
+  "Atlanta, Georgia": {
+    "type": "Point",
+    "coordinates": [
+      -84.3902644,
+      33.7489924
+    ]
+  },
+  "Narragansett, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4495005,
+      41.4501021
+    ]
   }
 }
