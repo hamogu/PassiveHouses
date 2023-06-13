@@ -4919,5 +4919,19 @@
       -71.4495005,
       41.4501021
     ]
+  },
+  "Canmore, Alberta": {
+    "type": "Point",
+    "coordinates": [
+      -115.3481135,
+      51.0866897
+    ]
+  },
+  "Oregon City, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.6067583,
+      45.3573429
+    ]
   }
 }
