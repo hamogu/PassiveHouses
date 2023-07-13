@@ -4933,5 +4933,26 @@
       -122.6067583,
       45.3573429
     ]
+  },
+  "Chamblee, Georgia": {
+    "type": "Point",
+    "coordinates": [
+      -84.2988296,
+      33.892176
+    ]
+  },
+  "Hudson, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.5678236,
+      42.3913088
+    ]
+  },
+  "Edgewater, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.55301414304145,
+      38.9358105
+    ]
   }
 }
