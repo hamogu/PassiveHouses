@@ -4961,5 +4961,68 @@
       -96.1964149,
       33.2944518
     ]
+  },
+  "Saitama City": {
+    "coordinates": [
+      139.5857489,
+      35.9076462
+    ],
+    "type": "Point"
+  },
+  "Shrewsberry, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.755032,
+      42.2866866
+    ]
+  },
+  "Chelsea, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -84.020224,
+      42.3180163
+    ]
+  },
+  "Des Moines, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -93.6046655,
+      41.5910323
+    ]
+  },
+  "Olalla, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.5429467,
+      47.4305404
+    ]
+  },
+  "Forest Grove, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -123.1110551,
+      45.5190404
+    ]
+  },
+  "Stow, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.5050009,
+      42.4365949
+    ]
+  },
+  "Burlington, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -88.27619,
+      42.6780758
+    ]
+  },
+  "Omaha, Nebraska": {
+    "type": "Point",
+    "coordinates": [
+      -95.9383758,
+      41.2587459
+    ]
   }
 }
