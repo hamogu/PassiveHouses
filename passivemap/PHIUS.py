@@ -73,7 +73,7 @@ def extract_project_detail(soup):
     
     Some of the data comes in formats that can be make more useful
     (e.g. the date could be parsed into ISO or the area converted to a number)
-    but that is outside of the scope of this funtion. 
+    but that is outside of the scope of this function.
     
     
     Parameters

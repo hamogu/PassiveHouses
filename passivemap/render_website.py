@@ -69,9 +69,9 @@ def PHI_data():
         known_projects = json.load(f)
 
     for row in known_projects:
-        # Don't know what 5 is. I notice those projects don't have a pid either,
+        # Don't know what 3 or 5 is. I notice those projects don't have a pid either,
         # so I can't look up any additional details anyway.
-        if row['std'] == '5':
+        if row['std'] in '35':
             continue
 
         locations.append([row['lat'], row['lon']])
