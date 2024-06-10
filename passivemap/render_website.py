@@ -8,14 +8,16 @@ PHIUSstatuscolor = {'Pre-certified': "darkgreen", 'Design Certified': "darkgreen
                'Certified': "gray", 'Final Certified': 'gray',
                 'Registered': "lightgray", None: "lightgray"}
 
-PHIstandard = {'0': 'PHI Low Energy Building',
-               '1': 'EnerPHit',
-               '2': 'Passive House',
-               # In Dec 2022 there is only one building with std=4 and according to the text
-               # on the PHI website for that project, it's a "Passive house".
-               # So, this might just be an error in the database.
-               '4': 'Passive House'}
-
+PHIstandard = {
+    "0": "PHI Low Energy Building",
+    "1": "EnerPHit",
+    "2": "Passive House",
+    # In Dec 2022 there is only one building with std=4 and according to the text
+    # on the PHI website for that project, it's a "Passive house".
+    # So, this might just be an error in the database.
+    "4": "Passive House",
+    "p": "Passive House",
+}
 
 
 def PHIUS_data():
@@ -71,7 +73,7 @@ def PHI_data():
     for row in known_projects:
         # Don't know what 3 or 5 is. I notice those projects don't have a pid either,
         # so I can't look up any additional details anyway.
-        if row['std'] in '35':
+        if row["std"] in "35e":
             continue
 
         locations.append([row['lat'], row['lon']])

@@ -1,4 +1,3 @@
-import os
 import json
 from urllib.request import urlopen
 
@@ -48,14 +47,18 @@ def extract_project_data(soup):
                 ]:
         tag = soup.find(attrs={'class': k})
         if tag:
-            extracted_data[v] = tag.get_text()
-    
+            extracted_data[v] = tag.get_text().strip()
+
     completion = soup.find(attrs={'class': 'completion-date'})
     # Text is something like "Completed 2019" be we want to get only the date
     if completion:
-        extracted_data['Construction Completion'] = int(completion.get_text().split(' ')[1])
+        extracted_data["Construction Completion"] = int(
+            completion.get_text().strip().split(" ")[1]
+        )
     if 'INT. Conditioned Floor Area' in extracted_data:
-        extracted_data['Floor area'] = float(extracted_data['INT. Conditioned Floor Area'].replace('sq. ft.', ''))
+        extracted_data["Floor area"] = float(
+            extracted_data["INT. Conditioned Floor Area"].strip().replace("sq. ft.", "")
+        )
     return extracted_data
 
 
@@ -89,8 +92,8 @@ def extract_project_detail(soup):
     extracted_data = {}
     for d in soup.find_all(attrs={'class': 'structured-data'}):
         for li in d.find_all('li'):
-            key = li.find(attrs={'class': 'label'}).text
-            value = li.find(attrs={'class': 'value'}).text
+            key = li.find(attrs={"class": "label"}).text.strip()
+            value = li.find(attrs={"class": "value"}).text.strip()
             extracted_data[key] = value
 
     loc = soup.find(attrs={'class': 'location'})
@@ -103,11 +106,13 @@ def get_list_all_projects():
     url = "https://www.phius.org/certified-project-database?_page=1&keywords=&_limit=10000"
     html = urlopen(url).read()
     allsoup = BeautifulSoup(html, features="lxml")
-    projectlist = allsoup.find_all('article', attrs={'data-result-type': "project"})
+    projectlist = allsoup.find_all(
+        "article", attrs={"data-result-type": "designguide-project"}
+    )
     all_projects = {}
     for p in projectlist:
         out = extract_project_data(p)
-        title = out.pop('title')
+        title = out.pop("title").strip()
         all_projects[title] = out
     return all_projects
 
@@ -145,7 +150,7 @@ def add_location():
         # If we have a string location, but no Location object
         if ('location' in v):
             loc = v['location']
-            if not 'Location' in v:
+            if "Location" not in v:
                 # If we have a string location, but no Location object
                 if loc in known_locs:
                     v['Location'] = known_locs[loc]
@@ -181,7 +186,7 @@ def json2geojson():
     out = {'type': "FeatureCollection", 'features': []}
 
     for k, v in known_projects.items():
-        if not 'Location' in v:
+        if "Location" not in v:
             print(f'Skipping {k} - unknown location')
             continue
         prop = {}
@@ -217,6 +222,7 @@ if __name__ == '__main__':
     html = urlopen(url).read()
     allsoup = BeautifulSoup(html, features="lxml")
     current_project_list = get_list_all_projects()
+    print(len(current_project_list))
     download_new_project_details(current_project_list)
     add_location()
     #json2geojson()

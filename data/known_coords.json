@@ -5024,5 +5024,390 @@
       -95.9383758,
       41.2587459
     ]
+  },
+  "Gorham, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.1729953,
+      44.3878621
+    ]
+  },
+  "Studio City, California": {
+    "type": "Point",
+    "coordinates": [
+      -118.3961877,
+      34.1483989
+    ]
+  },
+  "Yorktown, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.80819,
+      41.2956496
+    ]
+  },
+  "Damascus, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.42831112768494,
+      45.4220856
+    ]
+  },
+  "Hanover, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -72.288666,
+      43.703622
+    ]
+  },
+  "Northampton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.6311006,
+      42.3178989
+    ]
+  },
+  "Wurtsboro, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.4871031,
+      41.5767603
+    ]
+  },
+  "Braintree, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0041229,
+      42.2205956
+    ]
+  },
+  "Clinton Corners, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7623524,
+      41.8300933
+    ]
+  },
+  "TACOMA, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.438329,
+      47.2455013
+    ]
+  },
+  "Gardiner, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1504231,
+      41.6798157
+    ]
+  },
+  "Dover, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.5243682,
+      39.158168
+    ]
+  },
+  "Rumson, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -73.9990269,
+      40.372054
+    ]
+  },
+  "Pine Plains, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6563091,
+      41.9797287
+    ]
+  },
+  "Saugerties, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9529126,
+      42.0775906
+    ]
+  },
+  "Flushing, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8174291,
+      40.7654301
+    ]
+  },
+  "Brookline, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1187421,
+      42.3329021
+    ]
+  },
+  "Bristol, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -74.86447057681232,
+      40.122900200000004
+    ]
+  },
+  "Rochester, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.615214,
+      43.157285
+    ]
+  },
+  "Charlestown, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0619957,
+      42.3778749
+    ]
+  },
+  "Storrs, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.2495231,
+      41.8084314
+    ]
+  },
+  "Mashpee, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.4811383,
+      41.6484421
+    ]
+  },
+  "Dalton, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.7360253,
+      41.5342441
+    ]
+  },
+  "Taos, New Mexico": {
+    "type": "Point",
+    "coordinates": [
+      -105.573284,
+      36.4072377
+    ]
+  },
+  "Louisville, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.1319296,
+      39.977763
+    ]
+  },
+  "Exton, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.6207651,
+      40.0289955
+    ]
+  },
+  "Richfield Springs, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.9854335,
+      42.8534057
+    ]
+  },
+  "Oak Harbor, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.643224,
+      48.2931559
+    ]
+  },
+  "Tokyo": {
+    "type": "Point",
+    "coordinates": [
+      -98.5324331,
+      29.5498845
+    ]
+  },
+  "Foxborough, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2478308,
+      42.0653768
+    ]
+  },
+  "Bridgeport, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.1887863,
+      41.1792695
+    ]
+  },
+  "Ludlow, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.7011648,
+      43.3961459
+    ]
+  },
+  "Talent, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.788924,
+      42.243808
+    ]
+  },
+  "Mendham Township, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.56430241294552,
+      40.778723150000005
+    ]
+  },
+  "Wareham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.7217017,
+      41.7626037
+    ]
+  },
+  "Pelham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.4034708,
+      42.3924166
+    ]
+  },
+  "Northfield, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.4558506,
+      42.6943896
+    ]
+  },
+  "Beverly Shores, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -86.9775319,
+      41.6925381
+    ]
+  },
+  "Lansing, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.4779117,
+      42.4840418
+    ]
+  },
+  "Barnegat, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.22073950889322,
+      39.7557459
+    ]
+  },
+  "Lake Geneva, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -88.4334301,
+      42.5916836
+    ]
+  },
+  "Texas": {
+    "type": "Point",
+    "coordinates": [
+      -98.5456116,
+      31.2638905
+    ]
+  },
+  "Greenwood Lake, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.2943178,
+      41.2225932
+    ]
+  },
+  "Mullica Hill, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -75.22763055416667,
+      39.7358605
+    ]
+  },
+  "Pelican Rapids, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -96.083112,
+      46.570792
+    ]
+  },
+  "Goodhue, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -92.7175627,
+      44.396973
+    ]
+  },
+  "South Haven, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -86.2736407,
+      42.4030865
+    ]
+  },
+  "Ames, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -93.6170448,
+      42.0267567
+    ]
+  },
+  "Danvers, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9368313,
+      42.566751
+    ]
+  },
+  "Porter, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -95.2296553,
+      30.1024397
+    ]
+  },
+  "Kilmarnock, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -76.3796733,
+      37.7104146
+    ]
+  },
+  "Bluffdale, Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.939284,
+      40.4898176
+    ]
+  },
+  "Ogano": {
+    "type": "Point",
+    "coordinates": [
+      139.0066442,
+      36.0201187
+    ]
+  },
+  "Northhampton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.6633999,
+      42.3295905
+    ]
+  },
+  "Bristol Township, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -74.86447057681232,
+      40.122900200000004
+    ]
   }
 }
