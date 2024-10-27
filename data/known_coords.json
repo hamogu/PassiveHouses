@@ -3247,6 +3247,13 @@
       42.3875968
     ]
   },
+  "Sommerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0994968,
+      42.3875968
+    ]
+  },
   "Boston, Massachusetts": {
     "type": "Point",
     "coordinates": [
@@ -5408,6 +5415,545 @@
     "coordinates": [
       -74.86447057681232,
       40.122900200000004
+    ]
+  },
+  "Troy, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6917878,
+      42.7284117
+    ]
+  },
+  "Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9497211,
+      40.6526006
+    ]
+  },
+  "Quebec, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -93.1041882,
+      45.024685
+    ]
+  },
+  "Perkasie, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.292676,
+      40.372048
+    ]
+  },
+  "Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9494939,
+      42.466763
+    ]
+  },
+  "South Portland, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2529189,
+      43.6382443
+    ]
+  },
+  "Washington DC, District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0365427,
+      38.8950368
+    ]
+  },
+  "Albany, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.754968,
+      42.6511674
+    ]
+  },
+  "Mosier, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -121.398518,
+      45.6835405
+    ]
+  },
+  "Rock Hill, Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -90.3784505,
+      38.6075525
+    ]
+  },
+  "Oklahoma": {
+    "type": "Point",
+    "coordinates": [
+      -97.2684063,
+      34.9550817
+    ]
+  },
+  "Montana": {
+    "type": "Point",
+    "coordinates": [
+      -109.638757,
+      47.3752671
+    ]
+  },
+  "Oregonia, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -84.0960452,
+      39.4508937
+    ]
+  },
+  "Georgia": {
+    "type": "Point",
+    "coordinates": [
+      -83.1137366,
+      32.3293809
+    ]
+  },
+  "Tennessee": {
+    "type": "Point",
+    "coordinates": [
+      -86.2820081,
+      35.7730076
+    ]
+  },
+  "Kalamazoo, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -85.5872286,
+      42.291707
+    ]
+  },
+  "Evanston, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.6846053,
+      42.0470043
+    ]
+  },
+  "Spring Lake, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -86.196997,
+      43.076963
+    ]
+  },
+  "West Deptford, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -75.1888708,
+      39.832362
+    ]
+  },
+  "Arlington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1564428,
+      42.4153739
+    ]
+  },
+  "Brighton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1533859,
+      42.3491615
+    ]
+  },
+  "Tumwater, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.910368,
+      47.0080655
+    ]
+  },
+  "Acushnet, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.907816,
+      41.6806593
+    ]
+  },
+  "New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.4041622,
+      40.0757384
+    ]
+  },
+  "Bronx, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8785937,
+      40.8466508
+    ]
+  },
+  "Wellfleet, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.0327996,
+      41.9376051
+    ]
+  },
+  "Palo Pinto, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -98.2814881,
+      32.7215726
+    ]
+  },
+  "Dedham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1755732,
+      42.2489143
+    ]
+  },
+  "Worcester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.8018877,
+      42.2625621
+    ]
+  },
+  "Rocky River, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -81.8393034,
+      41.4756031
+    ]
+  },
+  "Morning View, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.4563282,
+      38.8320105
+    ]
+  },
+  "Arvada, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.0811573,
+      39.8005505
+    ]
+  },
+  "Quincy, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0037374,
+      42.2509914
+    ]
+  },
+  "Rockford, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.7344099,
+      45.0882963
+    ]
+  },
+  "Waite Park, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -94.2334634,
+      45.5537128
+    ]
+  },
+  "Mattapan, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0869953,
+      42.2723208
+    ]
+  },
+  "Grayslake, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.0412192,
+      42.3433518
+    ]
+  },
+  "Santa Cruz, California": {
+    "type": "Point",
+    "coordinates": [
+      -121.99059,
+      37.050096
+    ]
+  },
+  "Antrim, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -71.9389689,
+      43.0309142
+    ]
+  },
+  "West Bloomfield Township, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.3740333,
+      42.5684073
+    ]
+  },
+  "Evergreen, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.32145797867402,
+      39.6361637
+    ]
+  },
+  "Louisville, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -85.759407,
+      38.2542376
+    ]
+  },
+  "Burke Lakefront, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -81.68113241152425,
+      41.518816900000004
+    ]
+  },
+  "Salisbury Mills, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.106274,
+      41.432323
+    ]
+  },
+  "Santa Fe, New Mexico": {
+    "type": "Point",
+    "coordinates": [
+      -105.938456,
+      35.6876096
+    ]
+  },
+  "Carbondale, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -107.2112407,
+      39.4005647
+    ]
+  },
+  "Bentonville, Arkansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.2088172,
+      36.3728538
+    ]
+  },
+  "Union Pier, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -86.6925251,
+      41.8280974
+    ]
+  },
+  "New York City": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "New York city, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.0060152,
+      40.7127281
+    ]
+  },
+  "Bourne, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.5989196,
+      41.7412166
+    ]
+  },
+  "Boone, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -81.684004,
+      36.2187873
+    ]
+  },
+  "Tannersville, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1337508,
+      42.1956438
+    ]
+  },
+  "Newark, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.1723667,
+      40.735657
+    ]
+  },
+  "Truro, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.0497457,
+      41.993437
+    ]
+  },
+  "Cincinatti, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -84.75399213059424,
+      39.182238
+    ]
+  },
+  "Anaconda, Montana": {
+    "type": "Point",
+    "coordinates": [
+      -112.953131,
+      46.1294685
+    ]
+  },
+  "Alexandria, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.0470229,
+      38.8051095
+    ]
+  },
+  "Horicon, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7145213,
+      43.7115964
+    ]
+  },
+  "Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.607716,
+      38.7251776
+    ]
+  },
+  "Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -89.4337288,
+      40.0796606
+    ]
+  },
+  "Utah": {
+    "type": "Point",
+    "coordinates": [
+      -111.714358,
+      39.4225192
+    ]
+  },
+  "North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -79.0392919,
+      35.6729639
+    ]
+  },
+  "Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -82.6881395,
+      40.2253569
+    ]
+  },
+  "Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.9382069,
+      39.5162401
+    ]
+  },
+  "Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -94.6113288,
+      45.9896587
+    ]
+  },
+  "Detroit, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.0466403,
+      42.3315509
+    ]
+  },
+  "Los Cerrillos, New Mexico": {
+    "type": "Point",
+    "coordinates": [
+      -106.1260256,
+      35.4372052
+    ]
+  },
+  "Hope, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.158936,
+      44.265363
+    ]
+  },
+  "Allentown": {
+    "type": "Point",
+    "coordinates": [
+      -75.4712794,
+      40.6022059
+    ]
+  },
+  "Newmarket, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -70.935974,
+      43.082931
+    ]
+  },
+  "Milton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.065573,
+      42.2501425
+    ]
+  },
+  "Shapherdstown, West Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.8065649,
+      39.432942
+    ]
+  },
+  "Caldwell/Essex CO., New Jersey, Reunion": {
+    "type": "Point",
+    "coordinates": [
+      -74.2764643,
+      40.8387003
+    ]
+  },
+  "Dorhcester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0644672,
+      42.3008399
+    ]
+  },
+  "Kisarazu, Chiba, Japan": {
+    "type": "Point",
+    "coordinates": [
+      139.9393503,
+      35.3808893
+    ]
+  },
+  "Winchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1369982,
+      42.4523178
     ]
   }
 }
