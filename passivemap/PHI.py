@@ -2,9 +2,16 @@ import json
 from urllib.request import urlopen
 
 
-standard = {'0': 'PHI Low Energy Building',
-            '1': 'EnerPHit',
-            '2': 'Passive House'}
+standard = {
+    "0": "PHI Low Energy Building",
+    "1": "EnerPHit",
+    "2": "Passive House",
+    "3": "EnerPHit Retrofit",
+    "4": "EnerPHit Retrofit",
+    "p": "Passive House",
+    "u": "EnerPHit unit",
+    "e": "EnerPHit Retrofit",
+}
 
 def json2geojson():
     with open("data/PHI.json", 'r') as f:

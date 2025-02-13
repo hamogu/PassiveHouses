@@ -3,21 +3,12 @@ import folium
 from folium.plugins import MarkerCluster
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from PHI import standard as PHIstandard
 
 PHIUSstatuscolor = {'Pre-certified': "darkgreen", 'Design Certified': "darkgreen",
                'Certified': "gray", 'Final Certified': 'gray',
                 'Registered': "lightgray", None: "lightgray"}
 
-PHIstandard = {
-    "0": "PHI Low Energy Building",
-    "1": "EnerPHit",
-    "2": "Passive House",
-    # In Dec 2022 there is only one building with std=4 and according to the text
-    # on the PHI website for that project, it's a "Passive house".
-    # So, this might just be an error in the database.
-    "4": "Passive House",
-    "p": "Passive House",
-}
 
 
 def PHIUS_data():
@@ -35,7 +26,7 @@ def PHIUS_data():
 
     
     for k, v in known_projects.items():
-        if not 'Location' in v:
+        if "Location" not in v:
             print(f'Skipping {k} - unknown location')
             continue
         locations.append([v['Location']['coordinates'][1], v['Location']['coordinates'][0]])
@@ -43,7 +34,10 @@ def PHIUS_data():
         link = v['link']
         name = f"<a href='{link}' target='_blank'>{k}</a>"
         desc = '<table>'
-        desc = desc + '<tr><td>Certified by</td><td><a href="https://www.phius.org">PHIUS</a></td></tr>'
+        desc = (
+            desc
+            + '<tr><td>Certified by</td><td><a href="https://www.phius.org" target="_blank">PHIUS</a></td></tr>'
+        )
 
         for col in ['Project Type', 'Building Function', 'Construction Type', 'INT. Conditioned Floor Area']:
             if col in v:
@@ -73,7 +67,9 @@ def PHI_data():
     for row in known_projects:
         # Don't know what 3 or 5 is. I notice those projects don't have a pid either,
         # so I can't look up any additional details anyway.
-        if row["std"] in "35e":
+        # if row["std"] in "35e":
+        #    continue
+        if row["pid"] is None:
             continue
 
         locations.append([row['lat'], row['lon']])
