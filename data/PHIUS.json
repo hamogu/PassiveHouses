@@ -38153,11 +38153,21 @@
     "Status": "Registered",
     "Building Function": "Multifamily",
     "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
     "INT. Conditioned Floor Area": "20679 sq. ft.",
     "Floor area": 20679.0,
     "Project Submitter": "Sarah Carter",
     "Number of Units": "21",
-    "Compliance Software": "WUFI Passive"
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Boston, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.0582912,
+        42.3602534
+      ]
+    }
   },
   "Salem Fairweather - Deep Energy Exterior Retrofit": {
     "link": "https://www.phius.org/certified-project-database/salem-fairweather-deep-energy-exterior-retrofit",
@@ -39965,11 +39975,12 @@
   "RiverBend BaseCamp": {
     "link": "https://www.phius.org/certified-project-database/riverbend-basecamp",
     "Status": "Registered",
-    "Building Function": "Other Non-Residential",
+    "Building Function": "Single-Family",
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "1912 sq. ft.",
     "Floor area": 1912.0,
     "Project Submitter": "Taylor Massey",
+    "Number of Units": "1",
     "Compliance Software": "WUFI Passive"
   },
   "Smith Dickey Residence": {
@@ -40526,8 +40537,10 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "58542 sq. ft.",
     "Floor area": 58542.0,
+    "Phius Certified Verifier": "Cody Wero",
     "Project Submitter": "Ashley Wisse",
     "Number of Units": "43",
+    "Program Version": "Phius CORE 2024",
     "Compliance Software": "WUFI Passive"
   },
   "Harvard House": {
@@ -50058,6 +50071,2130 @@
       "coordinates": [
         -74.0060152,
         40.7127281
+      ]
+    }
+  },
+  "The Guild": {
+    "link": "https://www.phius.org/certified-project-database/guild",
+    "Status": "Final Certified",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "30982 sq. ft.",
+    "Construction Completion": "2023",
+    "Floor area": 30982.0,
+    "Phius Certified Verifier": "Margaret Dean",
+    "Phius CPHC (Lead)": "Jeff Geisinger",
+    "Project Submitter": "Jeff Geisinger",
+    "Developer": "Construction Managers & Developers, LLC",
+    "Architecture Planning": "Utile",
+    "Building Owner": "Broadway Investment Realty LLC",
+    "Mechanical Systems Designer": "Petersen Engineering, Inc.",
+    "Additional Consultants": "RSE Associates",
+    "Construction Company": "Construction Managers and Developers LLC",
+    "Construction Type": "Heavy Timber, Wood-Frame",
+    "Number of Units": "45",
+    "Number of Stories": "5",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Market Category": "Affordable Housing",
+    "Design Certification": "August 10, 2022",
+    "Final Certification": "January 29, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "3.19",
+    "Annual Cooling Demand": "2.45",
+    "Peak Heating Load": "3.53",
+    "Peak Cooling Load": "2.56",
+    "Site Energy Use Index (EUI)": "22.39",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "6652",
+    "Air Tightness (per enclosure area)": "0.054",
+    "Facade Type": "Fiber Cement",
+    "Wall 1 R-Value": "29",
+    "Roof 1 R-Value": "59",
+    "Floor 1 R-Value": "13",
+    "Window Manufacturer 1": "Amberline",
+    "Whole Window U-Value 1": "0.21",
+    "Window Glazing SHGC 1": "0.39",
+    "Ventilation System Manufacturer": "Annexair",
+    "Ventilation System Layout": "Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "82",
+    "Measured Ventilation Fan Efficiency": "0.67",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Heating System Type": "Air Source Heat Pump",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "Rheem",
+    "Hot Water System Layout": "De-Centralized",
+    "Hot Water System Type": "Electric Water Heater",
+    "location": "Somerville, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.0994968,
+        42.3875968
+      ]
+    }
+  },
+  "Lake Ave Residence": {
+    "link": "https://www.phius.org/certified-project-database/lake-ave-residence",
+    "Status": "Final Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "1149 sq. ft.",
+    "Floor area": 1149.0,
+    "Phius CPHC (Lead)": "Natalia Quintanilla",
+    "Phius Certified Rater": "Jeffrey Parker",
+    "Project Submitter": "Natalia Quintanilla",
+    "Architecture Planning": "Lush Design Lab",
+    "Building Owner": "Agnieszka & Adam Hellman",
+    "Mechanical Systems Designer": "Lush Design Lab",
+    "Construction Company": "H. Madrigal Construction Inc",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "May 15, 2023",
+    "Final Certification": "January 24, 2025",
+    "Region": "Midwest",
+    "Annual Heating Demand": "9.71",
+    "Annual Cooling Demand": "5.2",
+    "Peak Heating Load": "6.45",
+    "Peak Cooling Load": "3.22",
+    "Site Energy Use Index (EUI)": "19.65",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "2978",
+    "Air Tightness (per enclosure area)": "0.045",
+    "Window Manufacturer 1": "Alpen",
+    "Ventilation System Manufacturer": "S&P",
+    "Measured Ventilation Fan Efficiency": "0.31",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "Rheem",
+    "location": "Wilmette, Illinois",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.7193768,
+        42.0757315
+      ]
+    }
+  },
+  "High Street House": {
+    "link": "https://www.phius.org/certified-project-database/high-street-house",
+    "Status": "Final Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "1621 sq. ft.",
+    "Floor area": 1621.0,
+    "Phius Certified Rater": "Matt Zarotny",
+    "Phius CPHC (Lead)": "Patricia Chen",
+    "Project Submitter": "Patricia Chen",
+    "Architecture Planning": "Patricia Chen Architecture",
+    "Building Owner": "Patricia Chen",
+    "Mechanical Systems Designer": "Staengl Engineering",
+    "Construction Company": "Wright Construction Company",
+    "Number of Units": "1",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "October 30, 2023",
+    "Final Certification": "January 17, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "9.92",
+    "Annual Cooling Demand": "3.96",
+    "Peak Heating Load": "6.51",
+    "Peak Cooling Load": "1.88",
+    "Site Energy Use Index (EUI)": "18.19",
+    "Site Energy Use Index (w/Renewables)": "12.44",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "3111",
+    "Source Energy (Residential w/Renewables)": "2077",
+    "HERS Rating": "26",
+    "Air Tightness (per enclosure area)": "0.055",
+    "Wall 1 R-Value": "50",
+    "Roof 1 R-Value": "84",
+    "Floor 1 R-Value": "32",
+    "Window Manufacturer 1": "Alpen",
+    "Whole Window U-Value 1": "0.14",
+    "Window Glazing SHGC 1": "0.54",
+    "Ventilation System Manufacturer": "RenewAire",
+    "Ventilation System Layout": "Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "83",
+    "Measured Ventilation Fan Efficiency": "0.45",
+    "Heating System Manufacturer": "GE",
+    "Heating System Type": "Air Source Heat Pump",
+    "Cooling System Manufacturer": "GE",
+    "Hot Water System Manufacturer": "Rheem",
+    "Hot Water System Layout": "Centralized",
+    "Hot Water System Type": "Heat Pump Water Heater",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "6255",
+    "Renewable Energy System Size": "4.87",
+    "location": "Ludlow, Vermont",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.7011648,
+        43.3961459
+      ]
+    }
+  },
+  "Carleton College Student Housing - Lilac Building 2": {
+    "link": "https://www.phius.org/certified-project-database/carleton-college-student-housing-lilac-building-2",
+    "Status": "Final Certified",
+    "Building Function": "Dormitory",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "8179 sq. ft.",
+    "Floor area": 8179.0,
+    "Phius Certified Verifier": "Jacob Selstad",
+    "Phius CPHC (Lead)": "Molly Eagen",
+    "Project Submitter": "Molly Eagen",
+    "Architecture Planning": "LHB, Inc.",
+    "Building Owner": "Carleton College",
+    "Mechanical Systems Designer": "Emanuelson-Podas, Inc | Horwitz, Inc",
+    "Additional Consultants": "Mattson Macdonald Young, Inc | TKDA | Cause | Terra Construction | Pegasus Group | Gephart Electric | MNCEE",
+    "Construction Company": "Terra Construction",
+    "Construction Type": "Insulated Concrete Form, Wood-Frame",
+    "Number of Units": "2",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "October 20, 2023",
+    "Final Certification": "January 17, 2025",
+    "Region": "Midwest",
+    "Annual Heating Demand": "6.51",
+    "Annual Cooling Demand": "3.29",
+    "Peak Heating Load": "5.68",
+    "Peak Cooling Load": "1.57",
+    "Site Energy Use Index (EUI)": "18.06",
+    "Site Energy Use Index (w/Renewables)": "16.91",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "2996",
+    "Source Energy (Residential w/Renewables)": "2806",
+    "Air Tightness (per enclosure area)": "0.066",
+    "Facade Type": "Fiber Cement",
+    "Wall 1 Type": "Insulated Concrete Form (ICF)",
+    "Wall 1 R-Value": "43",
+    "Wall 1 Insulation Type": "EPS",
+    "Wall 2 Type": "Framing with Continuous Insulation",
+    "Wall 2 R-Value": "43",
+    "Wall 2 Insulation Type": "Mineral Wool, Other",
+    "Roof 1 Type": "Vented Above Deck",
+    "Roof 1 R-Value": "70",
+    "Roof 1 Insulation Type": "Fiberglass, XPS",
+    "Floor Type 1": "Basement Slab",
+    "Floor 1 R-Value": "30",
+    "Floor 1 Insulation Type": "XPS",
+    "Window Manufacturer 1": "Alpen",
+    "Whole Window U-Value 1": "0.16",
+    "Window Glazing SHGC 1": "0.38",
+    "Ventilation System Manufacturer": "RenewAire",
+    "Measured Ventilation Fan Efficiency": "0.33",
+    "Heating System Manufacturer": "Daikin",
+    "Cooling System Manufacturer": "Daikin",
+    "Hot Water System Manufacturer": "Carleton College District Energy System",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "59527",
+    "Renewable Energy System Size": "51.47",
+    "location": "Northfield, Minnesota",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -93.161159,
+        44.4582041
+      ]
+    }
+  },
+  "Mitchell Street Passive House": {
+    "link": "https://www.phius.org/certified-project-database/mitchell-street-passive-house",
+    "Status": "Final Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "3200 sq. ft.",
+    "Construction Completion": "2023",
+    "Floor area": 3200.0,
+    "Phius Certified Rater": "Adin Maynard",
+    "Phius CPHC (Lead)": "John Loercher",
+    "Project Submitter": "John Loercher",
+    "Developer": "Mitchell Street House LLC",
+    "Architecture Planning": "Ryan Enschede Studio",
+    "Building Owner": "Mitchell Street House LLC",
+    "Mechanical Systems Designer": "Baukraft Engineering PLLC",
+    "Construction Company": "Zuniga Property Solutions Inc",
+    "Number of Units": "1",
+    "Number of Stories": "1",
+    "Program Version": "PHIUS+ 2018",
+    "All Electric": "Yes",
+    "Design Certification": "February 9, 2023",
+    "Final Certification": "January 17, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "8.42",
+    "Annual Cooling Demand": "6.74",
+    "Peak Heating Load": "6.16",
+    "Peak Cooling Load": "3.33",
+    "Site Energy Use Index (EUI)": "15.4",
+    "Site Energy Use Index (w/Renewables)": "4.9",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "8087",
+    "Source Energy (Residential w/Renewables)": "2573",
+    "HERS Rating": "31",
+    "HERS Rating w/Renewables": "7",
+    "Air Tightness (per enclosure area)": "0.029",
+    "Wall 1 R-Value": "41",
+    "Roof 1 R-Value": "79",
+    "Floor 1 R-Value": "22",
+    "Window Manufacturer 1": "Ikon",
+    "Whole Window U-Value 1": "0.18",
+    "Window Glazing SHGC 1": "0.46",
+    "Ventilation System Manufacturer": "BRINK",
+    "Measured Ventilation Fan Efficiency": "0.58",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "Rheem",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "9846",
+    "Renewable Energy System Size": "9.5",
+    "location": "Hillsdale, New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.5259511,
+        42.1789784
+      ]
+    }
+  },
+  "1210 Maple Avenue, Evanston, IL 60602": {
+    "link": "https://www.phius.org/certified-project-database/1210-maple-avenue-evanston-il-60602",
+    "Status": "Final Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "3081 sq. ft.",
+    "Floor area": 3081.0,
+    "Phius Certified Rater": "Jeffrey Parker",
+    "Phius CPHC (Lead)": "Scott Farbman",
+    "Project Submitter": "Scott Farbman",
+    "Architecture Planning": "Kipnis Architecture + Planning",
+    "Building Owner": "Margaret Stender",
+    "Mechanical Systems Designer": "Superior Sheet Metal & Heating, Inc.",
+    "Construction Company": "Berliant Builders, Inc.",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "Phius ZERO 2021",
+    "All Electric": "Yes",
+    "Design Certification": "August 9, 2024",
+    "Final Certification": "December 19, 2024",
+    "Region": "Midwest",
+    "Annual Heating Demand": "9.75",
+    "Annual Cooling Demand": "4.24",
+    "Peak Heating Load": "5.39",
+    "Peak Cooling Load": "2.84",
+    "Site Energy Use Index (EUI)": "14.09",
+    "Site Energy Use Index (w/Renewables)": "-4.13",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4581",
+    "HERS Rating": "34",
+    "HERS Rating w/Renewables": "-9",
+    "Air Tightness (per enclosure area)": "0.033",
+    "Window Manufacturer 1": "Sierra Pacific",
+    "Ventilation System Manufacturer": "Panasonic",
+    "Measured Ventilation Fan Efficiency": "0.48",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "A.O. Smith",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "16450",
+    "Renewable Energy System Size": "1218",
+    "location": "Evanston, Illinois",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.6846053,
+        42.0470043
+      ]
+    }
+  },
+  "New Queue Test Project": {
+    "link": "https://www.phius.org/certified-project-database/new-queue-test-project",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1 sq. ft.",
+    "Floor area": 1.0,
+    "Project Submitter": "Haley Harlow",
+    "Number of Units": "1",
+    "Design Certification": "November 26, 2024",
+    "Final Certification": "November 7, 2024",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Maple on Franklin": {
+    "link": "https://www.phius.org/certified-project-database/maple-franklin",
+    "Status": "Final Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "61847 sq. ft.",
+    "Floor area": 61847.0,
+    "Builder": "Chris Burke",
+    "Phius CPHB": "Sean Henry",
+    "Phius Certified Verifier": "Mark Norton",
+    "Phius CPHC (Lead)": "Maciej Konieczny",
+    "Project Submitter": "Maciej Konieczny",
+    "Developer": "Neighborworks Housing Solutions",
+    "Architecture Planning": "The Narrow Gate",
+    "Building Owner": "Neighborworks Housing Solutions",
+    "Mechanical Systems Designer": "Petersen Engineering, Inc.",
+    "Construction Company": "NEI General Contracting",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "72",
+    "Number of Stories": "4",
+    "Program Version": "PHIUS+ 2018 CORE",
+    "Market Category": "Affordable Housing",
+    "Design Certification": "July 13, 2021",
+    "Final Certification": "August 5, 2024",
+    "Region": "Northeast",
+    "Annual Heating Demand": "2.53",
+    "Annual Cooling Demand": "2.53",
+    "Peak Heating Load": "3.19",
+    "Peak Cooling Load": "1.73",
+    "Site Energy Use Index (EUI)": "20.53",
+    "Site Energy Use Index (w/Renewables)": "15.56",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "6044",
+    "Source Energy (Residential w/Renewables)": "4198",
+    "Air Tightness (per enclosure area)": "0.048",
+    "Wall 1 R-Value": "25",
+    "Roof 1 R-Value": "57",
+    "Floor 1 R-Value": "17",
+    "Window Manufacturer 1": "Intus",
+    "Whole Window U-Value 1": "0.16",
+    "Window Glazing SHGC 1": "0.39",
+    "Ventilation System Manufacturer": "Swegon",
+    "Measured Ventilation Fan Efficiency": "0.52",
+    "Heating System Manufacturer": "Daikin",
+    "Cooling System Manufacturer": "Daikin",
+    "Hot Water System Manufacturer": "Lochinvar",
+    "Renewable Energy Type(s)": "Off-Site PV",
+    "Renewable Energy Annual Production": "126265",
+    "Renewable Energy System Size": "106.56",
+    "location": "Holbrook, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.008958,
+        42.1552232
+      ]
+    }
+  },
+  "Edogawa Passive House": {
+    "link": "https://www.phius.org/certified-project-database/edogawa-passive-house",
+    "Status": "Design Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1130 sq. ft.",
+    "Floor area": 1130.0,
+    "Phius Certified Rater": "Sayo Okada",
+    "Phius CPHC (Lead)": "Kazumasa Tsushima",
+    "Project Submitter": "Kazumasa Tsushima",
+    "Number of Units": "1",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Design Certification": "November 4, 2023",
+    "Annual Heating Demand": "3.16",
+    "Annual Cooling Demand": "9.25",
+    "Peak Heating Load": "2.84",
+    "Peak Cooling Load": "2.69",
+    "Site Energy Use Index (EUI)": "13.5",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "3177",
+    "location": "Tokyo, Japan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        139.750418,
+        35.686098
+      ]
+    }
+  },
+  "Brookside Commons Building 2": {
+    "link": "https://www.phius.org/certified-project-database/brookside-commons-building-2",
+    "Status": "Design Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "23820 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 23820.0,
+    "Phius CPHB": "Michael Anderson",
+    "Phius CPHC (Lead)": "Nicole Burger",
+    "Project Submitter": "Nicole Burger",
+    "Construction Company": "La Rosa Building Group",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "20",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "December 2, 2021",
+    "Region": "Northeast",
+    "Annual Heating Demand": "2.73",
+    "Annual Cooling Demand": "3.1",
+    "Peak Heating Load": "2.95",
+    "Peak Cooling Load": "0.99",
+    "Site Energy Use Index (EUI)": "17.36",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4544",
+    "Wall 1 R-Value": "30",
+    "Roof 1 R-Value": "63",
+    "Floor 1 R-Value": "11",
+    "Whole Window U-Value 1": "0.18",
+    "Window Glazing SHGC 1": "0.33",
+    "Ventilation System Layout": "De-Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "80",
+    "Heating System Type": "Air Source Heat Pump",
+    "Hot Water System Layout": "De-Centralized",
+    "Hot Water System Type": "Electric Water Heater",
+    "location": "Waterford, Connecticut",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.1519367,
+        41.358659
+      ]
+    }
+  },
+  "Brookside Commons Building 1": {
+    "link": "https://www.phius.org/certified-project-database/brookside-commons-building-1",
+    "Status": "Design Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "26187 sq. ft.",
+    "Floor area": 26187.0,
+    "Phius CPHB": "Michael Anderson",
+    "Phius CPHC (Lead)": "Nicole Burger",
+    "Project Submitter": "Nicole Burger",
+    "Construction Company": "La Rosa Building Group",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "20",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "December 2, 2021",
+    "Region": "Northeast",
+    "Annual Heating Demand": "2.74",
+    "Annual Cooling Demand": "3.24",
+    "Peak Heating Load": "2.93",
+    "Peak Cooling Load": "1.02",
+    "Site Energy Use Index (EUI)": "17.51",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4320",
+    "Wall 1 R-Value": "30",
+    "Roof 1 R-Value": "63",
+    "Floor 1 R-Value": "11",
+    "Whole Window U-Value 1": "0.18",
+    "Window Glazing SHGC 1": "0.33",
+    "Ventilation System Layout": "De-Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "80",
+    "Heating System Type": "Air Source Heat Pump",
+    "Hot Water System Layout": "De-Centralized",
+    "Hot Water System Type": "Electric Water Heater",
+    "location": "Waterford, Connecticut",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.1519367,
+        41.358659
+      ]
+    }
+  },
+  "205 Kent Street (D)": {
+    "link": "https://www.phius.org/certified-project-database/205-kent-street-d",
+    "Status": "Design Certified",
+    "Building Function": "Office",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "3615 sq. ft.",
+    "Floor area": 3615.0,
+    "Phius CPHC (Lead)": "Ryan Seavy",
+    "Project Submitter": "Ryan Seavy",
+    "Primary Reviewer": "Al Mitchell",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "Design Certification": "October 8, 2021",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "Wall 1 R-Value": "34",
+    "Roof 1 R-Value": "77",
+    "Floor 1 R-Value": "16",
+    "Whole Window U-Value 1": "0.14",
+    "Window Glazing SHGC 1": "0.25",
+    "Ventilation System Layout": "De-Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "65",
+    "Heating System Type": "Air Source Heat Pump",
+    "Hot Water System Layout": "De-Centralized",
+    "Hot Water System Type": "Tankless Electric Water Heater",
+    "location": "Blacksburg, Virginia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -80.4136767,
+        37.2296566
+      ]
+    }
+  },
+  "Casa Merlot (D)": {
+    "link": "https://www.phius.org/certified-project-database/casa-merlot-d",
+    "Status": "Design Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "2B - Hot - Dry",
+    "INT. Conditioned Floor Area": "2535 sq. ft.",
+    "Floor area": 2535.0,
+    "Phius CPHC (Lead)": "Ignacio Lopez de Maturana",
+    "Project Submitter": "Ignacio Lopez de Maturana",
+    "Primary Reviewer": "Andr\u00e9s Pinz\u00f3n",
+    "Construction Company": "Atelier Diseno Biopasivo + 100x100biopasiva",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "ADD'L Certification Badges": "PHIUS+ Source Zero",
+    "Design Certification": "September 2, 2021",
+    "Compliance Software": "WUFI Passive",
+    "Air Tightness (per enclosure area)": "0.06",
+    "Wall 1 R-Value": "28",
+    "Roof 1 R-Value": "43",
+    "Floor 1 R-Value": "16",
+    "Whole Window U-Value 1": "0.23",
+    "Window Glazing SHGC 1": "0.29",
+    "location": "Valle de Guadalupe, Ensenada, BC, Mexico",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -116.57019,
+        31.786365
+      ]
+    }
+  },
+  "Willow Creek Rentals Phase III - Building E1 (D)": {
+    "link": "https://www.phius.org/certified-project-database/willow-creek-rentals-phase-iii-building-e1-d",
+    "Status": "Design Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "4974 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 4974.0,
+    "Phius Certified Verifier": "Karla Butterfield",
+    "Phius CPHC (Lead)": "Thomas Moore",
+    "Project Submitter": "Thomas Moore",
+    "Primary Reviewer": "Andr\u00e9s Pinz\u00f3n",
+    "Number of Units": "3",
+    "Program Version": "PHIUS+ 2018",
+    "Design Certification": "January 4, 2021",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Connecticut",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.7342163,
+        41.6500201
+      ]
+    }
+  },
+  "Brookfield Commons Phase 3": {
+    "link": "https://www.phius.org/certified-project-database/brookfield-commons-phase-3",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "174886 sq. ft.",
+    "Floor area": 174886.0,
+    "Project Submitter": "Thomas Moore",
+    "Number of Units": "138",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New Jersey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.4041622,
+        40.0757384
+      ]
+    }
+  },
+  "EBAD": {
+    "link": "https://www.phius.org/certified-project-database/ebad",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "Retrofit",
+    "INT. Conditioned Floor Area": "2611 sq. ft.",
+    "Floor area": 2611.0,
+    "Project Submitter": "Arick DYRDAL",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Ward Creek Passive House": {
+    "link": "https://www.phius.org/certified-project-database/ward-creek-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3107 sq. ft.",
+    "Floor area": 3107.0,
+    "Project Submitter": "Jocelyn Reynier",
+    "Number of Units": "1",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -120.737257,
+        43.9792797
+      ]
+    }
+  },
+  "Duval Passive Main House": {
+    "link": "https://www.phius.org/certified-project-database/duval-passive-main-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1930 sq. ft.",
+    "Floor area": 1930.0,
+    "Project Submitter": "Trey Farmer",
+    "Number of Units": "1",
+    "Region": "South Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Texas",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5456116,
+        31.2638905
+      ]
+    }
+  },
+  "Ruiz Home": {
+    "link": "https://www.phius.org/certified-project-database/ruiz-home",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1200 sq. ft.",
+    "Floor area": 1200.0,
+    "Project Submitter": "Trey Farmer",
+    "Number of Units": "1",
+    "Region": "South Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Texas",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5456116,
+        31.2638905
+      ]
+    }
+  },
+  "Billy Frank Leadership Academy": {
+    "link": "https://www.phius.org/certified-project-database/billy-frank-leadership-academy",
+    "Status": "Registered",
+    "Building Function": "Other Non-Residential",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1545 sq. ft.",
+    "Floor area": 1545.0,
+    "Project Submitter": "Sammy Brusky",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.0365427,
+        38.8950368
+      ]
+    }
+  },
+  "Porter Street": {
+    "link": "https://www.phius.org/certified-project-database/porter-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "129359 sq. ft.",
+    "Floor area": 129359.0,
+    "Phius Certified Verifier": "Sean Barfield",
+    "Project Submitter": "Kristin Koehn-Glossner",
+    "Number of Units": "114",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Victory Terrace Apartments": {
+    "link": "https://www.phius.org/certified-project-database/victory-terrace-apartments",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "60155 sq. ft.",
+    "Floor area": 60155.0,
+    "Project Submitter": "Emily Durso",
+    "Number of Units": "75",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "283 N. Harvard": {
+    "link": "https://www.phius.org/certified-project-database/283-n-harvard",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "39350 sq. ft.",
+    "Floor area": 39350.0,
+    "Project Submitter": "Britt Clark",
+    "Number of Units": "50",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Clarendon Hill Townhouse 4": {
+    "link": "https://www.phius.org/certified-project-database/clarendon-hill-townhouse-4",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "14776 sq. ft.",
+    "Floor area": 14776.0,
+    "Project Submitter": "Rheannon DeMond",
+    "Number of Units": "11",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Hebrew Senior Life - Stoughton": {
+    "link": "https://www.phius.org/certified-project-database/hebrew-senior-life-stoughton",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "95291 sq. ft.",
+    "Floor area": 95291.0,
+    "Project Submitter": "Andy Allwine",
+    "Number of Units": "96",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Bowman Passive House": {
+    "link": "https://www.phius.org/certified-project-database/bowman-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3447 sq. ft.",
+    "Floor area": 3447.0,
+    "Project Submitter": "Anna Koosmann",
+    "Number of Units": "1",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Minnesota",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -94.6113288,
+        45.9896587
+      ]
+    }
+  },
+  "Reisch": {
+    "link": "https://www.phius.org/certified-project-database/reisch",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2036 sq. ft.",
+    "Floor area": 2036.0,
+    "Project Submitter": "Elise Fabbri",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.5992372,
+        41.7962409
+      ]
+    }
+  },
+  "Mogul Kramer Addition": {
+    "link": "https://www.phius.org/certified-project-database/mogul-kramer-addition",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "Addition",
+    "INT. Conditioned Floor Area": "1366 sq. ft.",
+    "Floor area": 1366.0,
+    "Project Submitter": "Di George",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Meredith-Cummins Residence": {
+    "link": "https://www.phius.org/certified-project-database/meredith-cummins-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "4633 sq. ft.",
+    "Floor area": 4633.0,
+    "Project Submitter": "Robin McGrew",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "Prescriptive Checklist",
+    "location": "Virginia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -78.4927721,
+        37.1232245
+      ]
+    }
+  },
+  "1546 East New York Avenue": {
+    "link": "https://www.phius.org/certified-project-database/1546-east-new-york-avenue",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "73329 sq. ft.",
+    "Floor area": 73329.0,
+    "Project Submitter": "Hiromi Tabei",
+    "Number of Units": "95",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Overlook Ridge Malden 13B": {
+    "link": "https://www.phius.org/certified-project-database/overlook-ridge-malden-13b",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "82344 sq. ft.",
+    "Floor area": 82344.0,
+    "Project Submitter": "Thomas Secondo",
+    "Number of Units": "99",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Overlook Ridge Malden 14B": {
+    "link": "https://www.phius.org/certified-project-database/overlook-ridge-malden-14b",
+    "Status": "Registered",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "101228 sq. ft.",
+    "Floor area": 101228.0,
+    "Project Submitter": "Thomas Secondo",
+    "Number of Units": "82",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Wesley Town Homes": {
+    "link": "https://www.phius.org/certified-project-database/wesley-town-homes",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1495 sq. ft.",
+    "Floor area": 1495.0,
+    "Project Submitter": "Cody Farmer",
+    "Number of Units": "1",
+    "Region": "North Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Colorado",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -105.607716,
+        38.7251776
+      ]
+    }
+  },
+  "Reynolds": {
+    "link": "https://www.phius.org/certified-project-database/reynolds",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3650 sq. ft.",
+    "Floor area": 3650.0,
+    "Project Submitter": "Lindsay Schack",
+    "Number of Units": "1",
+    "Region": "North Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Montana",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -109.638757,
+        47.3752671
+      ]
+    }
+  },
+  "Mt Hood Overlook": {
+    "link": "https://www.phius.org/certified-project-database/mt-hood-overlook",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "5251 sq. ft.",
+    "Floor area": 5251.0,
+    "Project Submitter": "Maren Longhurst",
+    "Number of Units": "1",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.0365427,
+        38.8950368
+      ]
+    }
+  },
+  "Sunshine on Raymond": {
+    "link": "https://www.phius.org/certified-project-database/sunshine-raymond",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "48000 sq. ft.",
+    "Floor area": 48000.0,
+    "Project Submitter": "Maren Longhurst",
+    "Number of Units": "63",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.0365427,
+        38.8950368
+      ]
+    }
+  },
+  "47 Olympia Place": {
+    "link": "https://www.phius.org/certified-project-database/47-olympia-place",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "96566 sq. ft.",
+    "Floor area": 96566.0,
+    "Project Submitter": "Andrew Steingiser",
+    "Number of Units": "68",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "41LL": {
+    "link": "https://www.phius.org/certified-project-database/41ll",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "1307 sq. ft.",
+    "Floor area": 1307.0,
+    "Project Submitter": "Akash Ghulyani",
+    "Developer": "Simplify Living, Inc",
+    "Mechanical Systems Designer": "AC TECH & SUPPLY LLC",
+    "Construction Type": "Wood-Frame",
+    "Number of Units": "1",
+    "Number of Stories": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "Facade Type": "Fiber Cement",
+    "Wall 1 Type": "Exterior Continuous Insulation Only",
+    "Wall 1 R-Value": "13",
+    "Wall 1 Insulation Type": "Other",
+    "Wall 2 Type": "Exterior Load Bearing Double-Stud",
+    "Wall 2 R-Value": "15",
+    "Wall 2 Insulation Type": "Mineral Wool",
+    "Roof 1 Type": "Unvented Roof",
+    "Roof 1 R-Value": "26",
+    "Roof 1 Insulation Type": "Other",
+    "Roof 2 Type": "Unvented Roof",
+    "Roof 2 R-Value": "46",
+    "Roof 2 Insulation Type": "Mineral Wool",
+    "Floor Type 1": "Basement Slab",
+    "Floor 1 R-Value": "26",
+    "Floor 1 Insulation Type": "Other",
+    "Ventilation System Manufacturer": "Zehnder",
+    "Ventilation System Product Name": "ComfoAir-Q350",
+    "Ventilation System Type": "ERV",
+    "Heating System Type": "Air Source Heat Pump",
+    "Cooling System Type": "Air Source Heat Pump",
+    "Hot Water System Manufacturer": "Bradford White",
+    "Hot Water System Product Name": "AeroTherm\u00ae Series Heat Pump Water Heater 50 Gallon Model # RE2H50S10",
+    "Hot Water System Layout": "De-Centralized",
+    "Hot Water System Type": "Heat Pump Water Heater",
+    "Hot Water System Rating": "Uniform Energy Factor (UEF)",
+    "Range Hood Type": "Exhaust",
+    "Dryer Type": "Non-Vented",
+    "location": "Princeton, New Jersey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.6597376,
+        40.3496953
+      ]
+    }
+  },
+  "St. Mary's Center for Women and Children - New North": {
+    "link": "https://www.phius.org/certified-project-database/st-marys-center-women-and-children-new-north",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "100250 sq. ft.",
+    "Floor area": 100250.0,
+    "Project Submitter": "Sabrina Larkin",
+    "Number of Units": "71",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Silverthorne Passive House": {
+    "link": "https://www.phius.org/certified-project-database/silverthorne-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2730 sq. ft.",
+    "Floor area": 2730.0,
+    "Project Submitter": "John Loercher",
+    "Number of Units": "1",
+    "Region": "North Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Colorado",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -105.607716,
+        38.7251776
+      ]
+    }
+  },
+  "108 Norwell": {
+    "link": "https://www.phius.org/certified-project-database/108-norwell",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "4102 sq. ft.",
+    "Floor area": 4102.0,
+    "Project Submitter": "John Loercher",
+    "Number of Units": "4",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "106 Norwell": {
+    "link": "https://www.phius.org/certified-project-database/106-norwell",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "4102 sq. ft.",
+    "Floor area": 4102.0,
+    "Project Submitter": "John Loercher",
+    "Number of Units": "4",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "104 Norwell": {
+    "link": "https://www.phius.org/certified-project-database/104-norwell",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "4102 sq. ft.",
+    "Floor area": 4102.0,
+    "Project Submitter": "John Loercher",
+    "Number of Units": "4",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "26 Heron Street": {
+    "link": "https://www.phius.org/certified-project-database/26-heron-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "39637 sq. ft.",
+    "Floor area": 39637.0,
+    "Project Submitter": "Christopher Goodwin",
+    "Number of Units": "32",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Residences at El Centro - Lafayette": {
+    "link": "https://www.phius.org/certified-project-database/residences-el-centro-lafayette",
+    "Status": "Registered",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "25315 sq. ft.",
+    "Floor area": 25315.0,
+    "Project Submitter": "Lisa Reed",
+    "Number of Units": "19",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "BLOCK 9 \u2013 ASSEMBLY ROW": {
+    "link": "https://www.phius.org/certified-project-database/block-9-assembly-row",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "268402 sq. ft.",
+    "Floor area": 268402.0,
+    "Project Submitter": "Vitor Leite Goncalves",
+    "Number of Units": "312",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Catawba College New Residence Hall": {
+    "link": "https://www.phius.org/certified-project-database/catawba-college-new-residence-hall",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "42556 sq. ft.",
+    "Floor area": 42556.0,
+    "Project Submitter": "Sophie Martin",
+    "Number of Units": "136",
+    "Region": "Southeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "North Carolina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -79.0392919,
+        35.6729639
+      ]
+    }
+  },
+  "14 White Street Place": {
+    "link": "https://www.phius.org/certified-project-database/14-white-street-place",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "22230 sq. ft.",
+    "Floor area": 22230.0,
+    "Project Submitter": "Tom Boeman",
+    "Number of Units": "25",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "9 Taylor Street": {
+    "link": "https://www.phius.org/certified-project-database/9-taylor-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "29004 sq. ft.",
+    "Floor area": 29004.0,
+    "Project Submitter": "Tom Boeman",
+    "Number of Units": "34",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "The Biel Passive House": {
+    "link": "https://www.phius.org/certified-project-database/biel-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3201 sq. ft.",
+    "Floor area": 3201.0,
+    "Project Submitter": "Nicole Schuster",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Walden Square - Building B": {
+    "link": "https://www.phius.org/certified-project-database/walden-square-building-b",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "40428 sq. ft.",
+    "Floor area": 40428.0,
+    "Project Submitter": "Kevin Collins",
+    "Number of Units": "35",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Walden Square - Building A": {
+    "link": "https://www.phius.org/certified-project-database/walden-square-building",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "78711 sq. ft.",
+    "Floor area": 78711.0,
+    "Project Submitter": "Kevin Collins",
+    "Number of Units": "60",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Jay Road": {
+    "link": "https://www.phius.org/certified-project-database/jay-road",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "5283 sq. ft.",
+    "Floor area": 5283.0,
+    "Project Submitter": "Stefan Goebel",
+    "Number of Units": "1",
+    "Region": "North Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Colorado",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -105.607716,
+        38.7251776
+      ]
+    }
+  },
+  "64 Medford": {
+    "link": "https://www.phius.org/certified-project-database/64-medford",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "14390 sq. ft.",
+    "Floor area": 14390.0,
+    "Project Submitter": "Jordan Goldman",
+    "Number of Units": "12",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "95 Everett St": {
+    "link": "https://www.phius.org/certified-project-database/95-everett-st",
+    "Status": "Registered",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "93577 sq. ft.",
+    "Floor area": 93577.0,
+    "Project Submitter": "Kevin Collins",
+    "Number of Units": "88",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Colony Retirement Homes - Phase 2": {
+    "link": "https://www.phius.org/certified-project-database/colony-retirement-homes-phase-2",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "50987 sq. ft.",
+    "Floor area": 50987.0,
+    "Project Submitter": "Chris Kennedy",
+    "Number of Units": "48",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "145 Broome St": {
+    "link": "https://www.phius.org/certified-project-database/145-broome-st",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "140157 sq. ft.",
+    "Floor area": 140157.0,
+    "Project Submitter": "Thomas Moore",
+    "Number of Units": "191",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "444 W Lemon Street": {
+    "link": "https://www.phius.org/certified-project-database/444-w-lemon-street",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "Retrofit",
+    "INT. Conditioned Floor Area": "1573 sq. ft.",
+    "Floor area": 1573.0,
+    "Project Submitter": "Andy Allwine",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Pennsylvania",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.7278831,
+        40.9699889
+      ]
+    }
+  },
+  "ADU 844 Tauromee Ave - (Main House is Phius Project 2484)": {
+    "link": "https://www.phius.org/certified-project-database/adu-844-tauromee-ave-main-house-phius-project-2484",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "361 sq. ft.",
+    "Floor area": 361.0,
+    "Project Submitter": "Stefan Goebel",
+    "Number of Units": "1",
+    "Compliance Software": "WUFI Passive"
+  },
+  "The Beacon Residential": {
+    "link": "https://www.phius.org/certified-project-database/beacon-residential",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "243271 sq. ft.",
+    "Floor area": 243271.0,
+    "Project Submitter": "Jordan Goldman",
+    "Number of Units": "282",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Fall Brook Passive House": {
+    "link": "https://www.phius.org/certified-project-database/fall-brook-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "4737 sq. ft.",
+    "Floor area": 4737.0,
+    "Project Submitter": "Richard Pedranti",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "17 Hartwell": {
+    "link": "https://www.phius.org/certified-project-database/17-hartwell",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "345766 sq. ft.",
+    "Floor area": 345766.0,
+    "Project Submitter": "Rheannon DeMond",
+    "Number of Units": "312",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "617 ministerial": {
+    "link": "https://www.phius.org/certified-project-database/617-ministerial",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2765 sq. ft.",
+    "Floor area": 2765.0,
+    "Project Submitter": "Laura briggs",
+    "Number of Units": "1",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Atlanta Craftsman Passive House": {
+    "link": "https://www.phius.org/certified-project-database/atlanta-craftsman-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3683 sq. ft.",
+    "Floor area": 3683.0,
+    "Project Submitter": "Chris Laumer-Giddens",
+    "Number of Units": "1",
+    "Region": "Southeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Georgia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -83.1137366,
+        32.3293809
+      ]
+    }
+  },
+  "San Badger Passive House": {
+    "link": "https://www.phius.org/certified-project-database/san-badger-passive-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3412 sq. ft.",
+    "Floor area": 3412.0,
+    "Primary Reviewer": "James Ortega",
+    "Project Submitter": "Scott Yribar",
+    "Number of Units": "1",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Idaho",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -114.015407,
+        43.6447642
+      ]
+    }
+  },
+  "75 First St Cambridge": {
+    "link": "https://www.phius.org/certified-project-database/75-first-st-cambridge",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "77748 sq. ft.",
+    "Floor area": 77748.0,
+    "Project Submitter": "Mark Newey",
+    "Number of Units": "90",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Ganymede Cabin": {
+    "link": "https://www.phius.org/certified-project-database/ganymede-cabin",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "740 sq. ft.",
+    "Floor area": 740.0,
+    "Project Submitter": "Kathleen Ellis",
+    "Number of Units": "1",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Wisconsin",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.6884637,
+        44.4308975
+      ]
+    }
+  },
+  "Tradewind": {
+    "link": "https://www.phius.org/certified-project-database/tradewind",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3667 sq. ft.",
+    "Floor area": 3667.0,
+    "Project Submitter": "Richard Gardner",
+    "Number of Units": "1",
+    "Region": "South Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Texas",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -98.5456116,
+        31.2638905
+      ]
+    }
+  },
+  "Sagamore Residence": {
+    "link": "https://www.phius.org/certified-project-database/sagamore-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3629 sq. ft.",
+    "Floor area": 3629.0,
+    "Project Submitter": "James Hartford",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Sturgeon Place": {
+    "link": "https://www.phius.org/certified-project-database/sturgeon-place",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "64319 sq. ft.",
+    "Floor area": 64319.0,
+    "Project Submitter": "Christina A\u00dfmann",
+    "Number of Units": "51",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "O'Meara SFR": {
+    "link": "https://www.phius.org/certified-project-database/omeara-sfr",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "1206 sq. ft.",
+    "Floor area": 1206.0,
+    "Project Submitter": "Glen Camuso",
+    "Number of Units": "1",
+    "Program Version": "Phius ZERO 2024",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Oregon",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -120.737257,
+        43.9792797
+      ]
+    }
+  },
+  "The Lirio": {
+    "link": "https://www.phius.org/certified-project-database/lirio",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "95116 sq. ft.",
+    "Floor area": 95116.0,
+    "Project Submitter": "Emma Weinberg",
+    "Number of Units": "112",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "299 Broadway - Building B": {
+    "link": "https://www.phius.org/certified-project-database/299-broadway-building-b",
+    "Status": "Registered",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "184456 sq. ft.",
+    "Floor area": 184456.0,
+    "Project Submitter": "Jeff Geisinger",
+    "Architecture Planning": "Utile",
+    "Mechanical Systems Designer": "Petersen Engineering, Inc.",
+    "Number of Units": "200",
+    "Market Category": "Supportive Housing",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive"
+  },
+  "151 Spencer Street": {
+    "link": "https://www.phius.org/certified-project-database/151-spencer-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "18624 sq. ft.",
+    "Floor area": 18624.0,
+    "Project Submitter": "Elizabeth Hauver",
+    "Number of Units": "19",
+    "Number of Stories": "4",
+    "Compliance Software": "WUFI Passive"
+  },
+  "Goodness Residence (D)": {
+    "link": "https://www.phius.org/certified-project-database/goodness-residence-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "1583 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 1583.0,
+    "Phius Certified Rater": "Juanita Ellias",
+    "Phius CPHC (Lead)": "Thomas Bassett-Dilley",
+    "Project Submitter": "Thomas Bassett-Dilley",
+    "Primary Reviewer": "Andr\u00e9s Pinz\u00f3n",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Milwaukee, Wisconsin",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.922497,
+        43.0349931
+      ]
+    }
+  },
+  "Chittenden Residence (D)": {
+    "link": "https://www.phius.org/certified-project-database/chittenden-residence-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4C - Mixed - Marine",
+    "INT. Conditioned Floor Area": "3656 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 3656.0,
+    "Phius CPHC (Lead)": "Benjamin Wolk",
+    "Project Submitter": "Benjamin Wolk",
+    "Primary Reviewer": "Isaac Elnecave",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Shoreline, Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.3437497,
+        47.7564667
+      ]
+    }
+  },
+  "Wilber Residence (D)": {
+    "link": "https://www.phius.org/certified-project-database/wilber-residence-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "INT. Conditioned Floor Area": "4500 sq. ft.",
+    "Floor area": 4500.0,
+    "Phius CPHC (Lead)": "Ilka Cassidy",
+    "Project Submitter": "Ilka Cassidy",
+    "Primary Reviewer": "Isaac Elnecave",
+    "Number of Units": "1",
+    "Program Version": "Phius CORE 2021",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "State College, Pennsylvania",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.8616386,
+        40.7944504
+      ]
+    }
+  },
+  "A2 Collaborative Passive House (D)": {
+    "link": "https://www.phius.org/certified-project-database/a2-collaborative-passive-house-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "2228 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 2228.0,
+    "Phius CPHC (Lead)": "Dale Babcock",
+    "Project Submitter": "Dale Babcock",
+    "Primary Reviewer": "John Loercher",
+    "Number of Units": "1",
+    "Program Version": "Phius CORE 2021",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Ann Arbor, Michigan",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -83.7312291,
+        42.2681569
+      ]
+    }
+  },
+  "Carlisle Passive House (D)": {
+    "link": "https://www.phius.org/certified-project-database/carlisle-passive-house-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4C - Mixed - Marine",
+    "INT. Conditioned Floor Area": "3860 sq. ft.",
+    "Construction Completion": "2021",
+    "Floor area": 3860.0,
+    "Primary Reviewer": "John Loercher",
+    "Construction Company": "Carlisle Classic Homes",
+    "Construction Type": "Insulated Concrete Form (ICF)",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "Air Tightness (per enclosure area)": "0.06",
+    "location": "Seattle, Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -122.3300624,
+        47.6038321
+      ]
+    }
+  },
+  "Ipsen-Wegerson Passive House (D)": {
+    "link": "https://www.phius.org/certified-project-database/ipsen-wegerson-passive-house-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "7 - Very Cold",
+    "INT. Conditioned Floor Area": "1393 sq. ft.",
+    "Floor area": 1393.0,
+    "Phius CPHC (Lead)": "Sean Meyers",
+    "Project Submitter": "Sean Meyers",
+    "Primary Reviewer": "Isaac Elnecave",
+    "Construction Company": "Lakeside Advanced Builders - Tim Johnson",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Bayfield, Wisconsin",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -91.1983175,
+        46.4710241
+      ]
+    }
+  },
+  "LaFleur-Hebert Residence (D)": {
+    "link": "https://www.phius.org/certified-project-database/lafleur-hebert-residence-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2188 sq. ft.",
+    "Construction Completion": "2020",
+    "Floor area": 2188.0,
+    "Phius CPHC (Lead)": "John Semmelhack",
+    "Project Submitter": "John Semmelhack",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "South Central",
+    "Compliance Software": "WUFI Passive",
+    "location": "Louisiana",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -92.007126,
+        30.8703881
+      ]
+    }
+  },
+  "Sheridan Street Small Homes, Unit B3 (D)": {
+    "link": "https://www.phius.org/certified-project-database/sheridan-street-small-homes-unit-b3-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "873 sq. ft.",
+    "Construction Completion": "2020",
+    "Floor area": 873.0,
+    "Phius CPHC (Lead)": "Laura briggs",
+    "Project Submitter": "Laura briggs",
+    "Construction Company": "One Neighborhood Builders",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "ADD'L Certification Badges": "PHIUS+ Source Zero",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Providence, Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.4128343,
+        41.8239891
+      ]
+    }
+  },
+  "Sheridan Street Small Homes, Unit B2 (D)": {
+    "link": "https://www.phius.org/certified-project-database/sheridan-street-small-homes-unit-b2-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "873 sq. ft.",
+    "Construction Completion": "2020",
+    "Floor area": 873.0,
+    "Phius CPHC (Lead)": "Laura briggs",
+    "Project Submitter": "Laura briggs",
+    "Construction Company": "One Neighborhood Builders",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "ADD'L Certification Badges": "PHIUS+ Source Zero",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Providence, Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.4128343,
+        41.8239891
+      ]
+    }
+  },
+  "Sheridan Street Small Homes, Unit A2 (D)": {
+    "link": "https://www.phius.org/certified-project-database/sheridan-street-small-homes-unit-a2-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "784 sq. ft.",
+    "Construction Completion": "2020",
+    "Floor area": 784.0,
+    "Phius Certified Rater": "Jon Erickson",
+    "Phius CPHC (Secondary)": "Ryan Abendroth",
+    "Phius CPHC (Lead)": "Laura briggs",
+    "Project Submitter": "Laura briggs",
+    "Construction Company": "One Neighborhood Builders",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "Phius ZERO 2021",
+    "ADD'L Certification Badges": "PHIUS+ Source Zero",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Olneyville, Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.4464469,
+        41.8148223
+      ]
+    }
+  },
+  "Apple River Cabin (D)": {
+    "link": "https://www.phius.org/certified-project-database/apple-river-cabin-d",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "1200 sq. ft.",
+    "Construction Completion": "2022",
+    "Floor area": 1200.0,
+    "Phius CPHC (Lead)": "Elizabeth Turner",
+    "Project Submitter": "Elizabeth Turner",
+    "Primary Reviewer": "Isaac Elnecave",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "1",
+    "Program Version": "PHIUS+ 2018",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Amery, Wisconsin",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -92.3621369,
+        45.3069062
       ]
     }
   }

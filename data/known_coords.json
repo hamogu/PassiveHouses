@@ -5955,5 +5955,61 @@
       -71.1369982,
       42.4523178
     ]
+  },
+  "Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.5992372,
+      41.7962409
+    ]
+  },
+  "Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -78.4927721,
+      37.1232245
+    ]
+  },
+  "Princeton, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.6597376,
+      40.3496953
+    ]
+  },
+  "Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -77.7278831,
+      40.9699889
+    ]
+  },
+  "Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -114.015407,
+      43.6447642
+    ]
+  },
+  "Tokyo, Japan": {
+    "type": "Point",
+    "coordinates": [
+      139.750418,
+      35.686098
+    ]
+  },
+  "Valle de Guadalupe, Ensenada, BC, Mexico": {
+    "type": "Point",
+    "coordinates": [
+      -116.57019,
+      31.786365
+    ]
+  },
+  "Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.6884637,
+      44.4308975
+    ]
   }
 }
