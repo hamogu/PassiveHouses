@@ -24,7 +24,8 @@ def PHIUS_data():
     with open("data/PHIUS.json", 'r') as f:
         known_projects = json.load(f)
 
-    
+    assert len(known_projects) > 1400, "PHIUS data is too small, something went wrong"
+
     for k, v in known_projects.items():
         if "Location" not in v:
             print(f'Skipping {k} - unknown location')
@@ -64,12 +65,12 @@ def PHI_data():
     with open("data/PHI.json", 'r') as f:
         known_projects = json.load(f)
 
+    assert len(known_projects) > 5000, "PHI data is too small, something went wrong"
+
     for row in known_projects:
-        # Don't know what 3 or 5 is. I notice those projects don't have a pid either,
+        # Some have standard set empty. I notice those projects don't have a pid either,
         # so I can't look up any additional details anyway.
-        # if row["std"] in "35e":
-        #    continue
-        if row["pid"] is None:
+        if row["std"] == "":
             continue
 
         locations.append([row['lat'], row['lon']])
@@ -106,6 +107,9 @@ def make_map(locations, popups, icons, name='Passive Houses'):
 
 PHI_loc, PHI_popup, PHI_icon = PHI_data()
 PHIUS_loc, PHIUS_popup, PHIUS_icon = PHIUS_data()
+
+assert len(PHI_loc) > 5000, "PHI data is too small, something went wrong"
+assert len(PHIUS_loc) > 1300, "PHIUS data is too small, something went wrong"
 
 env = Environment(loader=FileSystemLoader('html_templates'),
                   autoescape=select_autoescape(['html']))
