@@ -3261,6 +3261,27 @@
       42.3602534
     ]
   },
+  "Boston, Massachusetts, Other": {
+    "type": "Point",
+    "coordinates": [
+      -71.0582912,
+      42.3602534
+    ]
+  },
+  "Alliston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0582912,
+      42.3602534
+    ]
+  },
+  "Nedham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2362017,
+      42.2813785
+    ]
+  },
   "New Haven, Connecticut": {
     "type": "Point",
     "coordinates": [
@@ -6010,6 +6031,223 @@
     "coordinates": [
       -89.6884637,
       44.4308975
+    ]
+  },
+  "Amsterdam, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1905821,
+      42.9362232
+    ]
+  },
+  "Hillsborough, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -79.0993958,
+      36.075382
+    ]
+  },
+  "New Brunswick, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.4439254,
+      40.4951365
+    ]
+  },
+  "South Berwick, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.8089397,
+      43.2344819
+    ]
+  },
+  "Mammoth Lakes, California": {
+    "type": "Point",
+    "coordinates": [
+      -118.9668509,
+      37.6432525
+    ]
+  },
+  "Cushing, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -69.23996,
+      44.019484
+    ]
+  },
+  "Jamaica Plain, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1143838,
+      42.3116046
+    ]
+  },
+  "Superior, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.1685977,
+      39.9527634
+    ]
+  },
+  "Revere, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0119948,
+      42.4084302
+    ]
+  },
+  "Kalispell, Montana": {
+    "type": "Point",
+    "coordinates": [
+      -114.315321,
+      48.202158
+    ]
+  },
+  "Saginaw, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -83.9490365,
+      43.4200387
+    ]
+  },
+  "Iowa City, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -91.5299106,
+      41.6612561
+    ]
+  },
+  "Barrington Hills, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.1556336,
+      42.1447475
+    ]
+  },
+  "Matthews, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.7224386,
+      35.1159532
+    ]
+  },
+  "Paonia, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -107.5920018,
+      38.8683205
+    ]
+  },
+  "Perth Amboy, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.2724241,
+      40.5133218
+    ]
+  },
+  "Medicine Lodge, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -98.580361,
+      37.2811339
+    ]
+  },
+  "Other": {
+    "type": "Point",
+    "coordinates": [
+      -93.4636058,
+      35.8652256
+    ]
+  },
+  "Massachusetts, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -71.8277335,
+      42.376117
+    ]
+  },
+  "Cortland, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.0704906,
+      42.5842136
+    ]
+  },
+  "Norwood, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1994976,
+      42.194543
+    ]
+  },
+  "Swampscott, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9171507,
+      42.4699241
+    ]
+  },
+  "Liberty, Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -94.419079,
+      39.246479
+    ]
+  },
+  "Lexington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2245003,
+      42.4473175
+    ]
+  },
+  "Medford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1061639,
+      42.4184296
+    ]
+  },
+  "Scottsdale, Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -111.926018,
+      33.4942189
+    ]
+  },
+  "Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -93.3122705,
+      41.9216734
+    ]
+  },
+  "Victor, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.4088794,
+      42.9825634
+    ]
+  },
+  "Memphis, Tennessee": {
+    "type": "Point",
+    "coordinates": [
+      -90.0517638,
+      35.1460249
+    ]
+  },
+  "Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -111.763275,
+      34.395342
+    ]
+  },
+  "Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -85.1551411,
+      37.5726028
     ]
   }
 }
