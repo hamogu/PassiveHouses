@@ -20755,7 +20755,7 @@
     "Compliance Software": "PHPP",
     "Air Tightness (per enclosure area)": "0.023",
     "Heating System Type": "Air Source Heat Pump",
-    "location": "Shaw Island, San Juan Islands, Washington",
+    "location": "Shaw Island, Washington",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -20852,7 +20852,7 @@
     "Air Tightness (per enclosure area)": "0.04",
     "Measured Ventilation Fan Efficiency": "0.29",
     "Heating System Type": "Variable Refrigerant Flow (VRF)",
-    "location": "Unicorporated Adams County, Colorado",
+    "location": "Adams County, Colorado",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -37132,7 +37132,7 @@
     "All Electric": "Yes",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Shapherdstown, West Virginia",
+    "location": "Shepherdstown, West Virginia",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -38451,7 +38451,7 @@
     "Program Version": "Phius CORE Prescriptive 2021",
     "Region": "Northeast",
     "Compliance Software": "Prescriptive Checklist",
-    "location": "Caldwell/Essex CO., New Jersey, Reunion",
+    "location": "Caldwell, New Jersey",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -38935,9 +38935,10 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Secondary Reviewer": "Elizabeth Marin (Test)",
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -38949,9 +38950,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -39021,9 +39022,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -39035,9 +39036,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -39049,9 +39050,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -39063,9 +39064,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -39077,9 +39078,9 @@
     "Project Type": "New Construction",
     "INT. Conditioned Floor Area": "12032 ft\u00b2",
     "Floor area": 12032.0,
+    "Project Submitter": "Nicole Schuster",
     "Phius CPHC (Secondary)": "Hadley Carlberg",
     "Phius CPHC (Lead)": "Dylan Lamar",
-    "Project Submitter": "Nicole Schuster",
     "Number of Units": "12",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive"
@@ -42526,7 +42527,7 @@
     "Number of Stories": "4",
     "Program Version": "Phius CORE 2021",
     "Region": "Northeast",
-    "location": "Sommerville, Massachusetts",
+    "location": "Somerville, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -46044,7 +46045,7 @@
     "Number of Units": "30",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Northhampton, Massachusetts",
+    "location": "Northampton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -47675,7 +47676,7 @@
     "Program Version": "Phius CORE 2021",
     "Region": "Midwest",
     "Compliance Software": "WUFI Passive",
-    "location": "Cincinatti, Ohio",
+    "location": "Cincinnatti, Ohio",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -47713,7 +47714,7 @@
     "Compliance Software": "WUFI Passive",
     "Source Energy (Residential)": "3489",
     "Source Energy (Non-Residential)": "38",
-    "location": "Sommerville, Massachusetts",
+    "location": "Somerville, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -49876,7 +49877,7 @@
     "Program Version": "Phius CORE 2021",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Dorhcester, Massachusetts",
+    "location": "Dorchester, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -50940,7 +50941,7 @@
     "Floor 1 R-Value": "16",
     "Whole Window U-Value 1": "0.23",
     "Window Glazing SHGC 1": "0.29",
-    "location": "Valle de Guadalupe, Ensenada, BC, Mexico",
+    "location": "Valle de Guadalupe, BC, Mexico",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -51824,7 +51825,7 @@
     "Number of Units": "88",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Alliston, Massachusetts",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -54877,7 +54878,7 @@
     "Window Manufacturer 1": "Intus",
     "Ventilation System Manufacturer": "Oxygen",
     "Hot Water System Manufacturer": "Rheem",
-    "location": "Nedham, Massachusetts",
+    "location": "Needham, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55487,7 +55488,7 @@
     "Number of Units": "22",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts, Canada",
+    "location": "Newton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55507,7 +55508,7 @@
     "Number of Units": "48",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts, Canada",
+    "location": "Newton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55527,7 +55528,7 @@
     "Number of Units": "153",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts, Canada",
+    "location": "Newton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55547,7 +55548,7 @@
     "Number of Units": "72",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts, Canada",
+    "location": "Newton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55569,7 +55570,7 @@
     "Number of Units": "154",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Dedham, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55633,7 +55634,7 @@
     "Number of Units": "78",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55699,7 +55700,8 @@
     "Number of Units": "4",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Erving, Massachusetts",
+    "location_by_hand": "1 Care Drive, Erving, MA",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55720,6 +55722,7 @@
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
     "location": "Massachusetts",
+    "location_by_hand": "1 Care Drive, Erving, MA",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55740,6 +55743,7 @@
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
     "location": "Massachusetts",
+    "location_by_hand": "1 Care Drive, Erving, MA",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55833,7 +55837,7 @@
     "Number of Units": "187",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Lexington, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55853,7 +55857,7 @@
     "Number of Units": "119",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -55913,7 +55917,7 @@
     "Number of Units": "93",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Newton, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56069,7 +56073,7 @@
     "Number of Units": "45",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56169,7 +56173,7 @@
     "Number of Units": "2",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "New York",
+    "location": "Cooperstown, New York",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56189,7 +56193,7 @@
     "Number of Units": "11",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "New York",
+    "location": "Cooperstown, New York",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56245,7 +56249,7 @@
     "Range Hood Type": "Recirculation",
     "Dryer Type": "Non-Vented",
     "Renewable Energy Type(s)": "On-Site PV",
-    "location": "South Boston, Massachusetts",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56265,7 +56269,7 @@
     "Number of Units": "30",
     "Region": "Northeast",
     "Compliance Software": "METr",
-    "location": "Connecticut",
+    "location": "Griswold, Connecticut",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56285,7 +56289,7 @@
     "Number of Units": "30",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Connecticut",
+    "location": "Griswold, Connecticut",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56326,7 +56330,7 @@
     "Number of Units": "341",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "New York",
+    "location": "New York, New York",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56366,7 +56370,7 @@
     "Number of Units": "52",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Berverly, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56385,7 +56389,7 @@
     "Project Submitter": "Ryan Dirks",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Massachusetts",
+    "location": "Revere, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56405,7 +56409,7 @@
     "Number of Units": "1",
     "Region": "North Central",
     "Compliance Software": "WUFI Passive",
-    "location": "Colorado",
+    "location": "Twin Lakes, Colorado",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -56488,7 +56492,7 @@
     "Program Version": "Phius CORE 2024",
     "Region": "Northeast",
     "Compliance Software": "WUFI Passive",
-    "location": "Boston, Massachusetts, Other",
+    "location": "Boston, Massachusetts",
     "Location": {
       "type": "Point",
       "coordinates": [
@@ -57684,6 +57688,750 @@
       "coordinates": [
         -76.98804281910948,
         38.89384735
+      ]
+    }
+  },
+  "North Jersey Passive House": {
+    "link": "https://www.phius.org/certified-project-database/north-jersey-passive-house",
+    "Status": "Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "4A - Mixed - Humid",
+    "INT. Conditioned Floor Area": "11075 ft\u00b2",
+    "Floor area": 11075.0,
+    "Phius Certified Rater": "Benjamin Cohen",
+    "Phius CPHC (Secondary)": "Ilka Cassidy",
+    "Phius CPHC (Lead)": "Paul Thompson",
+    "Project Submitter": "Laura Blau",
+    "Mechanical Systems Designer": "Logan's Mechanical",
+    "Construction Company": "Vanco Construction Inc",
+    "Number of Units": "1",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Design Certification": "October 9, 2023",
+    "Final Certification": "November 25, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "5.07 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "2.64 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "3.99 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "1.48 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "13.92 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (w/Renewables)": "10.23 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "7939 kWh/person.yr",
+    "Source Energy (Residential w/Renewables)": "5583 kWh/person.yr",
+    "HERS Rating": "39",
+    "HERS Rating w/Renewables": "-6",
+    "Window Manufacturer 1": "Zola",
+    "Ventilation System Manufacturer": "Zehnder",
+    "Measured Ventilation Fan Efficiency": "0.5 W/cfm",
+    "Heating System Manufacturer": "Daikin",
+    "Cooling System Manufacturer": "Daikin",
+    "Hot Water System Manufacturer": "Lochinvar",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "30639 kWh/yr",
+    "Renewable Energy System Size": "23.4kW",
+    "location": "Mendham Township, New Jersey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.56430241294552,
+        40.778723150000005
+      ]
+    }
+  },
+  "The Elmwood": {
+    "link": "https://www.phius.org/certified-project-database/elmwood",
+    "Status": "Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "68755 ft\u00b2",
+    "Floor area": 68755.0,
+    "Phius CPHC (Lead)": "Lois Arena",
+    "Phius CPHB": "Derek Skeffington",
+    "Phius Certified Verifier": "Jillian Flynn",
+    "Project Submitter": "Lois Arena",
+    "Developer": "WinnDevelopment",
+    "Architecture Planning": "CUBE 3 Architecture",
+    "Building Owner": "WinnCompanies",
+    "Mechanical Systems Designer": "BLW Engineering, Inc.",
+    "Construction Company": "Dellbrook | JKS",
+    "Number of Units": "63",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Design Certification": "October 2, 2023",
+    "Final Certification": "November 14, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "4.06 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "2.25 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "3.73 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "1.9 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "22.67 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4970 kWh/person.yr",
+    "Air Tightness (per enclosure area)": "0.058 CFM50/ft\u00b2",
+    "Window Manufacturer 1": "Intus",
+    "Window Manufacturer 2": "Kawneer",
+    "Ventilation System Manufacturer": "Swegon & Renewaire",
+    "Measured Ventilation Fan Efficiency": "0.78 W/cfm",
+    "Heating System Manufacturer": "Daikin",
+    "Cooling System Manufacturer": "Daikin",
+    "Hot Water System Manufacturer": "Rinnai",
+    "location": "Shrewsbury, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.7172866,
+        42.283828
+      ]
+    }
+  },
+  "Matunuck Shellfish Hatchery Research and Innovation Center": {
+    "link": "https://www.phius.org/certified-project-database/matunuck-shellfish-hatchery-research-and-innovation-center",
+    "Status": "Certified",
+    "Building Function": "Other Non-Residential",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "3776 ft\u00b2",
+    "Floor area": 3776.0,
+    "Phius Certified Verifier": "John Rodenhizer",
+    "Project Submitter": "Zack Norwood",
+    "Architecture Planning": "Frank Karpowicz Architects",
+    "Building Owner": "Matunuck Oyster Farm",
+    "Mechanical Systems Designer": "Environmental Design Systems, Inc.",
+    "Construction Company": "DiStefano Brothers Construction, Inc.",
+    "Number of Stories": "2",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "December 6, 2024",
+    "Final Certification": "November 12, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "5.71 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "5.31 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "5.34 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "3.01 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "42.68 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Non-Residential)": "76.82 kBTU/ft\u00b2.yr",
+    "Window Manufacturer 1": "Ikon",
+    "Ventilation System Manufacturer": "Menerga",
+    "Measured Ventilation Fan Efficiency": "1 W/cfm",
+    "Heating System Manufacturer": "York",
+    "Cooling System Manufacturer": "York",
+    "location": "Wakefield, Rhode Island",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.5014469,
+        41.437324
+      ]
+    }
+  },
+  "Pok Oi Residences": {
+    "link": "https://www.phius.org/certified-project-database/pok-oi-residences",
+    "Status": "Certified",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "82412 ft\u00b2",
+    "Construction Completion": "2025",
+    "Floor area": 82412.0,
+    "Phius CPHB": "Alex Mahegan",
+    "Builder": "Dan Pope",
+    "Phius Certified Verifier": "Mark Norton",
+    "Phius CPHC (Secondary)": "Maciej Konieczny",
+    "Phius CPHC (Lead)": "Kevin Collins",
+    "Project Submitter": "Frank Stone",
+    "Affiliate": "Beacon Communities",
+    "Developer": "Beacon Communities",
+    "Architecture Planning": "Bruner / Cott",
+    "Building Owner": "Chinese Consolidated Benevolent Association of New England",
+    "Mechanical Systems Designer": "Petersen Engineering",
+    "Additional Consultants": "New Ecology, Inc. as CPHC and Verifier. NEI General Contractors as Builder.",
+    "Construction Company": "NEI General Contracting",
+    "Construction Type": "Wood Frame",
+    "Number of Units": "85",
+    "Number of Stories": "6",
+    "Program Version": "PHIUS+ 2018 CORE",
+    "Market Category": "Affordable Housing",
+    "Design Certification": "January 13, 2021",
+    "Final Certification": "October 28, 2025",
+    "Region": "Northeast",
+    "Annual Heating Demand": "3.17 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "3.02 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "3.04 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "2.72 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "20.94 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (w/Renewables)": "19.35 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4834 kWh/person.yr",
+    "Source Energy (Residential w/Renewables)": "4385 kWh/person.yr",
+    "Wall 1 R-Value": "28",
+    "Roof 1 R-Value": "50",
+    "Floor 1 R-Value": "10",
+    "Window Manufacturer 1": "Quaker",
+    "Whole Window U-Value 1": "0.2",
+    "Window Glazing SHGC 1": "0.53",
+    "Ventilation System Manufacturer": "Renewaire",
+    "Ventilation System Layout": "Centralized",
+    "Ventilation System Type": "ERV",
+    "Sensible Recovery Efficiency": "80%",
+    "Measured Ventilation Fan Efficiency": "0.47 W/cfm",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Heating System Type": "Variable Refrigerant Flow (VRF)",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "Lochinvar",
+    "Hot Water System Layout": "Centralized",
+    "Hot Water System Type": "Natural Gas Water Heater",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "38524 kWh/yr",
+    "Renewable Energy System Size": "32.83kW",
+    "location": "Boston, Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.0582912,
+        42.3602534
+      ]
+    }
+  },
+  "Evanston's First Passive House": {
+    "link": "https://www.phius.org/certified-project-database/evanstons-first-passive-house",
+    "Status": "Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "3081 ft\u00b2",
+    "Construction Completion": "2024",
+    "Floor area": 3081.0,
+    "Phius CPHC (Secondary)": "Grahm Balkany",
+    "Phius Certified Rater": "Jeffrey Parker",
+    "Phius CPHC (Lead)": "Scott Farbman",
+    "Project Submitter": "Scott Farbman",
+    "Architecture Planning": "Kipnis Architecture + Planning",
+    "Building Owner": "Margaret Stender",
+    "Mechanical Systems Designer": "Superior Sheet Metal & Heating, Inc.",
+    "Construction Company": "Berliant Builders, Inc.",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "Phius ZERO 2021",
+    "All Electric": "Yes",
+    "Design Certification": "August 9, 2024",
+    "Final Certification": "December 19, 2024",
+    "Region": "Midwest",
+    "Annual Heating Demand": "9.75 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "4.24 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "5.39 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "2.84 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "14.09 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (w/Renewables)": "-4.13 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "4581 kWh/person.yr",
+    "HERS Rating": "34",
+    "HERS Rating w/Renewables": "-9",
+    "Air Tightness (per enclosure area)": "0.033 CFM50/ft\u00b2",
+    "Window Manufacturer 1": "Sierra Pacific",
+    "Ventilation System Manufacturer": "Panasonic",
+    "Measured Ventilation Fan Efficiency": "0.48 W/cfm",
+    "Heating System Manufacturer": "Mitsubishi",
+    "Cooling System Manufacturer": "Mitsubishi",
+    "Hot Water System Manufacturer": "A.O. Smith",
+    "Renewable Energy Type(s)": "On-Site PV",
+    "Renewable Energy Annual Production": "16450 kWh/yr",
+    "Renewable Energy System Size": "1218kW",
+    "location": "Evanston, Illinois",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -87.6846053,
+        42.0470043
+      ]
+    }
+  },
+  "Ridgeline House": {
+    "link": "https://www.phius.org/certified-project-database/ridgeline-house",
+    "Status": "Design Certified",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "5A - Cool - Humid",
+    "INT. Conditioned Floor Area": "3280 ft\u00b2",
+    "Floor area": 3280.0,
+    "Phius CPHC (Secondary)": "Karl Hansen",
+    "Phius Certified Rater": "Anthony Lisanti",
+    "Phius CPHC (Lead)": "James Hartford",
+    "Project Submitter": "Karl Hansen",
+    "Number of Units": "1",
+    "Number of Stories": "2",
+    "Program Version": "Phius CORE 2021",
+    "All Electric": "Yes",
+    "Design Certification": "May 29, 2024",
+    "Region": "Northeast",
+    "Annual Heating Demand": "9.03 kBTU/ft\u00b2.yr",
+    "Annual Cooling Demand": "3.68 kBTU/ft\u00b2.yr",
+    "Peak Heating Load": "6.78 kBTU/ft\u00b2.yr",
+    "Peak Cooling Load": "2.33 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (EUI)": "21.94 kBTU/ft\u00b2.yr",
+    "Site Energy Use Index (w/Renewables)": "2.55 kBTU/ft\u00b2.yr",
+    "Compliance Software": "WUFI Passive",
+    "Source Energy (Residential)": "6433 kWh/person.yr",
+    "Air Tightness (per enclosure area)": "0.06 CFM50/ft\u00b2",
+    "location": "Clinton Corners, New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -73.7623524,
+        41.8300933
+      ]
+    }
+  },
+  "Crescent Parcel - Drexel Village Building 3": {
+    "link": "https://www.phius.org/certified-project-database/crescent-parcel-drexel-village-building-3",
+    "Status": "Registered",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "35401 ft\u00b2",
+    "Floor area": 35401.0,
+    "Project Submitter": "Chloe Moucachen",
+    "Number of Units": "18",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Bartlett Place - Lot C": {
+    "link": "https://www.phius.org/certified-project-database/bartlett-place-lot-c",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "91473 ft\u00b2",
+    "Floor area": 91473.0,
+    "Project Submitter": "Bradley Newkirk",
+    "Number of Units": "61",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "86 Marcella Street": {
+    "link": "https://www.phius.org/certified-project-database/86-marcella-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "15715 ft\u00b2",
+    "Floor area": 15715.0,
+    "Project Submitter": "Lama Bitar",
+    "Number of Units": "12",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts, Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.8277335,
+        42.376117
+      ]
+    }
+  },
+  "75 Marcella Street": {
+    "link": "https://www.phius.org/certified-project-database/75-marcella-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "10682 ft\u00b2",
+    "Floor area": 10682.0,
+    "Project Submitter": "Lama Bitar",
+    "Number of Units": "8",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "7 Hartwell Avenue": {
+    "link": "https://www.phius.org/certified-project-database/7-hartwell-avenue",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "115360 ft\u00b2",
+    "Floor area": 115360.0,
+    "Phius CPHC (Lead)": "Thomas Secondo",
+    "Project Submitter": "Vikram Narla",
+    "Number of Units": "130",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Jaycox Pond House": {
+    "link": "https://www.phius.org/certified-project-database/jaycox-pond-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "6578 ft\u00b2",
+    "Floor area": 6578.0,
+    "Project Submitter": "Yevgeniya Ilyasova",
+    "Additional Consultants": "Ruchira (rss@riverarchitects.com)",
+    "Number of Units": "1",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Gowanus Green B": {
+    "link": "https://www.phius.org/certified-project-database/gowanus-green-b",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "273932 ft\u00b2",
+    "Floor area": 273932.0,
+    "Project Submitter": "Jon Jensen",
+    "Number of Units": "303",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New Jersey",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.4041622,
+        40.0757384
+      ]
+    }
+  },
+  "Kapicka Residence": {
+    "link": "https://www.phius.org/certified-project-database/kapicka-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "4745 ft\u00b2",
+    "Floor area": 4745.0,
+    "Project Submitter": "Thomas Bassett-Dilley",
+    "Number of Units": "1",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Illinois",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.4337288,
+        40.0796606
+      ]
+    }
+  },
+  "Fu & Palanca Residence": {
+    "link": "https://www.phius.org/certified-project-database/fu-palanca-residence",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "3273 ft\u00b2",
+    "Floor area": 3273.0,
+    "Project Submitter": "Russell Weiser",
+    "Number of Units": "1",
+    "Region": "Northwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Washington",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -77.0365427,
+        38.8950368
+      ]
+    }
+  },
+  "1274 Massachusetts Avenue": {
+    "link": "https://www.phius.org/certified-project-database/1274-massachusetts-avenue",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "47103 ft\u00b2",
+    "Floor area": 47103.0,
+    "Project Submitter": "Christopher Goodwin",
+    "Number of Units": "45",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Le Monarque": {
+    "link": "https://www.phius.org/certified-project-database/le-monarque",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "12144 ft\u00b2",
+    "Construction Completion": "2026",
+    "Floor area": 12144.0,
+    "Phius CPHC (Lead)": "Raphael Boisjoly",
+    "Project Submitter": "Raphael Boisjoly",
+    "Developer": "Le Parall\u00e8le de l'Habitation Sociale",
+    "Architecture Planning": "\u00c9quipe A",
+    "Mechanical Systems Designer": "Akonovia",
+    "Construction Company": "Construction Longer (HUDL)",
+    "Number of Units": "134",
+    "Market Category": "Low Income Housing",
+    "Compliance Software": "WUFI Passive",
+    "location": "Quebec, Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -93.1041882,
+        45.024685
+      ]
+    }
+  },
+  "3-5 Militia Drive-East Building": {
+    "link": "https://www.phius.org/certified-project-database/3-5-militia-drive-east-building",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "150186 ft\u00b2",
+    "Floor area": 150186.0,
+    "Project Submitter": "Elizabeth Venuti",
+    "Number of Units": "140",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "148-15 Archer Avenue": {
+    "link": "https://www.phius.org/certified-project-database/148-15-archer-avenue",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "114219 ft\u00b2",
+    "Floor area": 114219.0,
+    "Project Submitter": "Jon Jensen",
+    "Number of Units": "127",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "New York",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -74.0060152,
+        40.7127281
+      ]
+    }
+  },
+  "Double Edge Theatre Design Center": {
+    "link": "https://www.phius.org/certified-project-database/double-edge-theatre-design-center",
+    "Status": "Registered",
+    "Building Function": "Other Non-Residential",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "2987 ft\u00b2",
+    "Floor area": 2987.0,
+    "Project Submitter": "Andy Allwine",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "164 Essex Street": {
+    "link": "https://www.phius.org/certified-project-database/164-essex-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "86433 ft\u00b2",
+    "Floor area": 86433.0,
+    "Project Submitter": "Nicholas Abreu",
+    "Number of Units": "80",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts, Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -71.8277335,
+        42.376117
+      ]
+    }
+  },
+  "Crescent Parcel - Drexel Village Building 1": {
+    "link": "https://www.phius.org/certified-project-database/crescent-parcel-drexel-village-building-1",
+    "Status": "Registered",
+    "Building Function": "Mixed-Use",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "168169 ft\u00b2",
+    "Floor area": 168169.0,
+    "Project Submitter": "Chloe Moucachen",
+    "Number of Units": "139",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Crescent Parcel - Drexel Village Building 2": {
+    "link": "https://www.phius.org/certified-project-database/crescent-parcel-drexel-village-building-2",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "75551 ft\u00b2",
+    "Floor area": 75551.0,
+    "Project Submitter": "Chloe Moucachen",
+    "Number of Units": "60",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "2116 Nicollet": {
+    "link": "https://www.phius.org/certified-project-database/2116-nicollet",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "40000 ft\u00b2",
+    "Floor area": 40000.0,
+    "Project Submitter": "Elizabeth Turner",
+    "Number of Units": "53",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Minnesota, Canada",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -93.1039662,
+        45.0099006
+      ]
+    }
+  },
+  "Stoney Bridge Retrofit": {
+    "link": "https://www.phius.org/certified-project-database/stoney-bridge-retrofit",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "Retrofit",
+    "INT. Conditioned Floor Area": "7274 ft\u00b2",
+    "Floor area": 7274.0,
+    "Project Submitter": "Steven Rhodes",
+    "Number of Units": "1",
+    "Region": "Midwest",
+    "Compliance Software": "WUFI Passive",
+    "location": "Ohio",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -82.6881395,
+        40.2253569
+      ]
+    }
+  },
+  "235 Third Street": {
+    "link": "https://www.phius.org/certified-project-database/235-third-street",
+    "Status": "Registered",
+    "Building Function": "Multifamily",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "32360 ft\u00b2",
+    "Floor area": 32360.0,
+    "Project Submitter": "Tom Boeman",
+    "Number of Units": "55",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Massachusetts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.032366,
+        42.3788774
+      ]
+    }
+  },
+  "Walsh House": {
+    "link": "https://www.phius.org/certified-project-database/walsh-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "INT. Conditioned Floor Area": "4366 ft\u00b2",
+    "Floor area": 4366.0,
+    "Project Submitter": "Leonard Sciarra",
+    "Number of Units": "1",
+    "Region": "Midwest",
+    "Compliance Software": "Prescriptive Checklist",
+    "location": "Illinois",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -89.4337288,
+        40.0796606
+      ]
+    }
+  },
+  "Fox House": {
+    "link": "https://www.phius.org/certified-project-database/fox-house",
+    "Status": "Registered",
+    "Building Function": "Single-Family",
+    "Project Type": "New Construction",
+    "ASHRAE Climate Zone": "6A - Cool - Humid",
+    "INT. Conditioned Floor Area": "6428 ft\u00b2",
+    "Floor area": 6428.0,
+    "Project Submitter": "Enrique Bueno",
+    "Number of Units": "1",
+    "Number of Stories": "3",
+    "Program Version": "Phius CORE 2021",
+    "Region": "Northeast",
+    "Compliance Software": "WUFI Passive",
+    "location": "Stowe, Vermont",
+    "Location": {
+      "type": "Point",
+      "coordinates": [
+        -72.6854695,
+        44.4654236
       ]
     }
   }

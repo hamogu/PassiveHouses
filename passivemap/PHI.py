@@ -1,3 +1,24 @@
+"""
+On 12/7/2025 it seems that I can't pull form the URL (404), but
+https://database.passivehouse.com/en/buildings/map/
+exists (it doesn't render though).
+It seems that the data is embedded in the sourcecode of the website in marker_data_array
+
+They group the different classes together with the following color code. I can compare that to the color groups
+that I use:
+    let icons_std = {
+        "0": BlueIcon,
+        "c": BlueIcon,
+        "1": YellowIcon,
+        "3": YellowIcon,
+        "4": YellowIcon,
+        "e": YellowIcon,
+        "u": YellowIcon,
+        "2": RedIcon,
+        "p": RedIcon,
+    }
+"""
+
 import json
 from urllib.request import urlopen
 
