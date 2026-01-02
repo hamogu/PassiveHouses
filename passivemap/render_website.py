@@ -1,3 +1,4 @@
+import argparse
 import json
 import folium
 from folium.plugins import MarkerCluster
@@ -105,27 +106,31 @@ def make_map(locations, popups, icons, name='Passive Houses'):
 
     return m
 
-PHI_loc, PHI_popup, PHI_icon = PHI_data()
-PHIUS_loc, PHIUS_popup, PHIUS_icon = PHIUS_data()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Render passive house maps")
+    parser.add_argument('--output-dir', type=str, default='docs', help='Output directory for rendered HTML files')
+    args = parser.parse_args()
 
-assert len(PHI_loc) > 5000, "PHI data is too small, something went wrong"
-assert len(PHIUS_loc) > 1300, "PHIUS data is too small, something went wrong"
+    PHI_loc, PHI_popup, PHI_icon = PHI_data()
+    PHIUS_loc, PHIUS_popup, PHIUS_icon = PHIUS_data()
 
-env = Environment(loader=FileSystemLoader('html_templates'),
-                  autoescape=select_autoescape(['html']))
+    assert len(PHI_loc) > 5000, "PHI data is too small, something went wrong"
+    assert len(PHIUS_loc) > 1300, "PHIUS data is too small, something went wrong"
 
-template = env.get_template('index.html')
-with open('docs/index.html', "w") as f:
-    m = make_map(PHI_loc + PHIUS_loc, PHI_popup + PHIUS_popup, PHI_icon + PHIUS_icon)
-    f.write(template.render(map_html=m._repr_html_()))
+    env = Environment(loader=FileSystemLoader('html_templates'),
+                    autoescape=select_autoescape(['html']))
 
+    template = env.get_template('index.html')
+    with open(f'{args.output_dir}/index.html', "w") as f:
+        m = make_map(PHI_loc + PHIUS_loc, PHI_popup + PHIUS_popup, PHI_icon + PHIUS_icon)
+        f.write(template.render(map_html=m._repr_html_()))
 
-template = env.get_template('PHI.html')
-with open('docs/PHI.html', "w") as f:
-    m = make_map(PHI_loc, PHI_popup, PHI_icon)
-    f.write(template.render(map_html=m._repr_html_()))
+    template = env.get_template('PHI.html')
+    with open(f'{args.output_dir}/PHI.html', "w") as f:
+        m = make_map(PHI_loc, PHI_popup, PHI_icon)
+        f.write(template.render(map_html=m._repr_html_()))
 
-template = env.get_template('PHIUS.html')
-with open('docs/PHIUS.html', "w") as f:
-    m = make_map(PHIUS_loc, PHIUS_popup, PHIUS_icon)
-    f.write(template.render(map_html=m._repr_html_()))
+    template = env.get_template('PHIUS.html')
+    with open(f'{args.output_dir}/PHIUS.html', "w") as f:
+        m = make_map(PHIUS_loc, PHIUS_popup, PHIUS_icon)
+        f.write(template.render(map_html=m._repr_html_()))

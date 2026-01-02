@@ -2746,8 +2746,8 @@
   "Spokane Valley, Washington": {
     "type": "Point",
     "coordinates": [
-      -117.2613936,
-      47.6571104
+      -122.3181184,
+      47.6215112
     ]
   },
   "Watertown, Connecticut": {
@@ -6836,6 +6836,2890 @@
     "coordinates": [
       -80.2493276,
       43.5460516
+    ]
+  },
+  "223 Linden St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9165269,
+      40.696469
+    ]
+  },
+  "3151 W 5th Ave, Chicago, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.7044051,
+      41.8787338
+    ]
+  },
+  "Cape View Way, Bourne, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.5375274,
+      41.7823863
+    ]
+  },
+  "440 Hartford Tpke, Shrewsbury, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.740889,
+      42.2436153
+    ]
+  },
+  "526 Hartford Tpke, Shrewsbury, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.6723155,
+      42.2796834
+    ]
+  },
+  "9 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9502739,
+      41.305506
+    ]
+  },
+  "2 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.949611,
+      41.303731
+    ]
+  },
+  "1 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.950295,
+      41.3056
+    ]
+  },
+  "288 Harrison Ave, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0627193,
+      42.3473864
+    ]
+  },
+  "62 Packard Street, Hudson, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.5788381,
+      42.3974866
+    ]
+  },
+  "45 South Street, Williamstown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -73.2107429,
+      42.7121602
+    ]
+  },
+  "4942 W 44th St, Chicago, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.7476552,
+      41.8135254
+    ]
+  },
+  "252 Dunning, Madison, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.3502176,
+      43.0936684
+    ]
+  },
+  "763 Main Street, Falmouth, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.6022294,
+      41.5533812
+    ]
+  },
+  "20 Amherst Rd, Pelham, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.4736578,
+      42.3785187
+    ]
+  },
+  "47 Leavitt Street, Salem, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.889631,
+      42.5151084
+    ]
+  },
+  "10 Stonley Rd, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1080592,
+      42.3038292
+    ]
+  },
+  "108 Centre Street, Brookline, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1263866,
+      42.3436459
+    ]
+  },
+  "110 Mercer Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0496036,
+      42.3308616
+    ]
+  },
+  "72 Mercer Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0491986,
+      42.3312266
+    ]
+  },
+  "7 Van Buren, Oak Park, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.7748541,
+      41.8744412
+    ]
+  },
+  "466 River St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0926564,
+      42.2685225
+    ]
+  },
+  "145 Warren St, Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1885111,
+      42.3297138
+    ]
+  },
+  "555 Merrimack St., Lowell, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3166504,
+      42.6474672
+    ]
+  },
+  "25 Sixth Street, Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0342708,
+      42.3952517
+    ]
+  },
+  "1599 Columbus Avenue, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0985795,
+      42.3215851
+    ]
+  },
+  "21 Newton St, Waltham, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2294543,
+      42.3762752
+    ]
+  },
+  "88 Throop Ave, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.946534,
+      40.7023237
+    ]
+  },
+  "63 Stockholm St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9253648,
+      40.6970089
+    ]
+  },
+  "11 West 126th St, NY, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9421608,
+      40.8073472
+    ]
+  },
+  "55 Bunker Hill St, Charlestown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0571894,
+      42.3773845
+    ]
+  },
+  "375 Dudley Street, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0756562,
+      42.3261603
+    ]
+  },
+  "130 Chestnut Hill Avenue, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1534665,
+      42.3429912
+    ]
+  },
+  "15 Riverdale Ave, Newton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.194576,
+      42.3654955
+    ]
+  },
+  "3450 Eads Street, Washington, District of Columbia": {
+    "type": "Point",
+    "coordinates": [
+      -76.9569308,
+      38.8956458
+    ]
+  },
+  "3 Hawkins Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0983051,
+      42.380244
+    ]
+  },
+  "1200 Sumner Rd SE, Washington, DC": {
+    "type": "Point",
+    "coordinates": [
+      -76.9981907,
+      38.8611602
+    ]
+  },
+  "603 N Walnut, Fayetteville, Arkansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.1532627,
+      36.0719009
+    ]
+  },
+  "154 Broadway, Somerville, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0855067,
+      42.3882153
+    ]
+  },
+  "187 Lyman St, Northborough, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.603496,
+      42.295412
+    ]
+  },
+  "25 Dukes Rd, Nantucket, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.1172545,
+      41.2800046
+    ]
+  },
+  "5 Front Street, Portland, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2609248,
+      43.6798847
+    ]
+  },
+  "6 Johnson Park, Utica, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.2360989,
+      43.0915929
+    ]
+  },
+  "2503 Washington St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0874316,
+      42.327046
+    ]
+  },
+  "2 Glen Brook Way, Medway, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.4515947,
+      42.1385776
+    ]
+  },
+  "14 Johnson Park, Utica, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.237146,
+      43.0919502
+    ]
+  },
+  "200 Square Street, Utica, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.236259,
+      43.091324
+    ]
+  },
+  "132 Northampton Rd, Amherst, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.5250173,
+      42.3700629
+    ]
+  },
+  "120 N Franklin St, Holbrook, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0083282,
+      42.1567354
+    ]
+  },
+  "Wallace St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.122238,
+      42.3995288
+    ]
+  },
+  "640 North Main St, Randolph, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0520727,
+      42.1781094
+    ]
+  },
+  "31 Tufts St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0886216,
+      42.3824371
+    ]
+  },
+  "11 E. Lenox Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0786879,
+      42.3348372
+    ]
+  },
+  "3365 Third Avenue, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.920078,
+      40.8147651
+    ]
+  },
+  "9 Leyland St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0712989,
+      42.3211596
+    ]
+  },
+  "Orkney St., Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1408945,
+      39.9866579
+    ]
+  },
+  "13 Kirkland street, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.115125,
+      42.3765141
+    ]
+  },
+  "5 Sacramento St, Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1188064,
+      42.3828148
+    ]
+  },
+  "17th Street, Boise, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -116.2114222,
+      43.6237841
+    ]
+  },
+  "1005 Broadway, Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0185599,
+      42.4026184
+    ]
+  },
+  "341 E 162nd St, Bronx, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9144209,
+      40.8251849
+    ]
+  },
+  "242 Main Street, Bridgewater, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.9810352,
+      41.9953269
+    ]
+  },
+  "211 Warren Street, Hudson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7930619,
+      42.2541389
+    ]
+  },
+  "159 Allston Street, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1081124,
+      42.3587986
+    ]
+  },
+  "276 Chestnut St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.8750942,
+      40.6810721
+    ]
+  },
+  "206 Main St, Gloucester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -75.171194,
+      39.788663
+    ]
+  },
+  "261 Broadway, Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0964856,
+      42.3677334
+    ]
+  },
+  "1860 Eastern Pky, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9079002,
+      40.6758972
+    ]
+  },
+  "425 Grand Concourse, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9280721,
+      40.8171169
+    ]
+  },
+  "60 Stearns St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.129988,
+      42.3857495
+    ]
+  },
+  "69 Hillside Avenue, Hastings-on-Hudson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8739743,
+      40.9941185
+    ]
+  },
+  "11 Crown Street, Meriden, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.8018629,
+      41.53687
+    ]
+  },
+  "1300e  E Pike, Seattle, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.3270159,
+      47.6141016
+    ]
+  },
+  "2126 Mapes Ave, Bronx, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.8846951,
+      40.8473609
+    ]
+  },
+  "577 West 161st Street, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9423085,
+      40.836486
+    ]
+  },
+  "675 Concord Ave, Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1497661,
+      42.390524
+    ]
+  },
+  "542 W 153rd St, New York, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9462032,
+      40.831
+    ]
+  },
+  "3221 Blenheim Place, Winston Salem, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.3091587,
+      36.1104255
+    ]
+  },
+  "176 North Winooski Ave, Burlington, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.2107323,
+      44.4853228
+    ]
+  },
+  "Pine St, Norton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1690082,
+      41.9617349
+    ]
+  },
+  "29 Bellis Circle, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1342883,
+      42.3899607
+    ]
+  },
+  "1005 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2459717,
+      42.8814289
+    ]
+  },
+  "1012 Woodland Park Circle, Canandaigua, NY": {
+    "type": "Point",
+    "coordinates": [
+      -77.2462977,
+      42.8812502
+    ]
+  },
+  "1011 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2461887,
+      42.8814244
+    ]
+  },
+  "1007 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.246044,
+      42.8814274
+    ]
+  },
+  "1006 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2460584,
+      42.8812586
+    ]
+  },
+  "1009 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2461163,
+      42.8814259
+    ]
+  },
+  "1004 Woodland Park Circle, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2459786,
+      42.8812614
+    ]
+  },
+  "2950 Park Ave, NY, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9230682,
+      40.8198064
+    ]
+  },
+  "512 E 2nd St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -78.9003424,
+      36.7010463
+    ]
+  },
+  "2 Thomas Street, Middlebury, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -73.1608945,
+      44.0077859
+    ]
+  },
+  "5424 Addison Road, Fairmount Heights, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.9145123,
+      38.9037548
+    ]
+  },
+  "Emerson St, Portland, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.6366051,
+      45.5615087
+    ]
+  },
+  "Mechanic Street, Wakefield, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4940098,
+      41.4395101
+    ]
+  },
+  "59 North St, Watertown, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.0706245,
+      41.5970314
+    ]
+  },
+  "322 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5423845,
+      42.4430992
+    ]
+  },
+  "323 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5422537,
+      42.4428685
+    ]
+  },
+  "Lowell Ave 634, Palo Alto, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.1421635,
+      37.4405084
+    ]
+  },
+  "344 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5422578,
+      42.4434826
+    ]
+  },
+  "341 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5417275,
+      42.4432681
+    ]
+  },
+  "340 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5422146,
+      42.4433731
+    ]
+  },
+  "337 Rachel Carson Trail, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5418648,
+      42.4431233
+    ]
+  },
+  "336 Rachel Carson Way, Ithaca, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.5417274,
+      42.4427413
+    ]
+  },
+  "17 Carol Street, Danbury, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.4599981,
+      41.3465366
+    ]
+  },
+  "4564 19th Street, San Francisco, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.4403701,
+      37.7591658
+    ]
+  },
+  "6th Street, Charlottesville, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -78.4818293,
+      38.0235595
+    ]
+  },
+  "Washington Street, Urbana, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -88.2080382,
+      40.1055391
+    ]
+  },
+  "1206 N Lemon Ave, Menlo Park, California": {
+    "type": "Point",
+    "coordinates": [
+      -122.1986149,
+      37.4376667
+    ]
+  },
+  "3226 S. US Hwy. 25W, Williamsburg, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.158098,
+      36.751699
+    ]
+  },
+  "Brandeis University, Waltham, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2580196,
+      42.3665095
+    ]
+  },
+  "108 Prospect St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0967472,
+      42.3749559
+    ]
+  },
+  "485 Grove St, Worcester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.8106637,
+      42.2886978
+    ]
+  },
+  "366 Broadway, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0964334,
+      42.393927
+    ]
+  },
+  "89 Blanchard Rd, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.158144,
+      42.3941743
+    ]
+  },
+  "75 Dudley Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.087239,
+      42.3291194
+    ]
+  },
+  "52 South Circuit Ave, Worcester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.8366325,
+      42.2518497
+    ]
+  },
+  "54 South Circuit Ave, Worcester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.8362258,
+      42.2518704
+    ]
+  },
+  "2015 Queen Ave, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.3094256,
+      44.9621812
+    ]
+  },
+  "2818 N Girard Ave, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.296728,
+      45.0088091
+    ]
+  },
+  "3rd Avenue, Dilworth, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -96.7133047,
+      46.8797863
+    ]
+  },
+  "108 Norwell St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0786529,
+      42.2989556
+    ]
+  },
+  "106 Norwell St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0786621,
+      42.2990258
+    ]
+  },
+  "3 Walnut Street, Foxborough, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2559173,
+      42.0478961
+    ]
+  },
+  "14th Avenue, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.2550358,
+      44.9503216
+    ]
+  },
+  "24 Webster Ave, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0958461,
+      42.3785445
+    ]
+  },
+  "12 School Street, Templeton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.0753468,
+      42.6059018
+    ]
+  },
+  "145 Broome St, New York, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.984727,
+      40.716363
+    ]
+  },
+  "299 Broadway, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0918498,
+      42.3922904
+    ]
+  },
+  "375 Broadway, Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0194652,
+      42.4022077
+    ]
+  },
+  "247 Hancock Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0598688,
+      42.3091459
+    ]
+  },
+  "461 New Jersey Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.893764,
+      40.668117
+    ]
+  },
+  "1177 Bushwick Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9165167,
+      40.6888515
+    ]
+  },
+  "792 Rockaway, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9089393,
+      40.6508479
+    ]
+  },
+  "1471 Blue Hill Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0938007,
+      42.273988
+    ]
+  },
+  "273 Highland St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0960433,
+      42.3237352
+    ]
+  },
+  "492 Newport St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8962695,
+      40.661128
+    ]
+  },
+  "710 Blake Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8916544,
+      40.6682217
+    ]
+  },
+  "127 Amory Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1007871,
+      42.3191461
+    ]
+  },
+  "252 Bridge St, Salem, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.8959527,
+      42.5243492
+    ]
+  },
+  "303 Hinsdale, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8994884,
+      40.667642
+    ]
+  },
+  "510 Vermont St, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8927011,
+      40.6668354
+    ]
+  },
+  "791 Saratoga Ave, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9152833,
+      40.6612464
+    ]
+  },
+  "104 Norwell St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0786712,
+      42.2990959
+    ]
+  },
+  "306 Pennsylvania Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8955633,
+      40.6702717
+    ]
+  },
+  "432 Wyona St, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8920477,
+      40.6680091
+    ]
+  },
+  "372 Livonia Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9054837,
+      40.6629773
+    ]
+  },
+  "2505 Washington St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0874421,
+      42.3270229
+    ]
+  },
+  "33 Harvard Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1327118,
+      42.3548395
+    ]
+  },
+  "59 Bow Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0992433,
+      42.3815688
+    ]
+  },
+  "369 Warren Street, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.989258,
+      40.6848059
+    ]
+  },
+  "15 Allen St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0932411,
+      42.378365
+    ]
+  },
+  "355 Bennington St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0259848,
+      42.3793682
+    ]
+  },
+  "495 Dorchester Avenue, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0568771,
+      42.3320475
+    ]
+  },
+  "104 Main St, Watertown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1870676,
+      42.3668983
+    ]
+  },
+  "440 Broadway, Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0348488,
+      42.3927105
+    ]
+  },
+  "10 Sunnyside Ave., Arlington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1345753,
+      42.4078767
+    ]
+  },
+  "2501 N 4th St, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.28504,
+      45.00492
+    ]
+  },
+  "95 Lawrence Rd, Wellfleet, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.0215104,
+      41.9416387
+    ]
+  },
+  "733 Broadway, Lowell, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3302558,
+      42.6426597
+    ]
+  },
+  "121 Prospect St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0959095,
+      42.3765273
+    ]
+  },
+  "335 8th Avenue, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9971461,
+      40.7475198
+    ]
+  },
+  "1695 Monroe Avenue, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9069643,
+      40.844306
+    ]
+  },
+  "4 Mellen St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1193377,
+      42.3809022
+    ]
+  },
+  "28 Mount Pleasant Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0784741,
+      42.3850376
+    ]
+  },
+  "84 Prospect Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.095934,
+      42.3759202
+    ]
+  },
+  "27 Crafts Ave, Northampton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.6318008,
+      42.3177745
+    ]
+  },
+  "6321 S. Eberhart Ave, Chicago, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.6129327,
+      41.7796139
+    ]
+  },
+  "2702 Creston Avenue, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.894281,
+      40.8678729
+    ]
+  },
+  "100 South Campus Drive, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1294602,
+      42.3649465
+    ]
+  },
+  "1751 Monroe Avenue, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9068161,
+      40.845496
+    ]
+  },
+  "2252 Aqueduct Ave, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9070845,
+      40.8589111
+    ]
+  },
+  "811 Gladstone Ave, Ottawa, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -75.7093302,
+      45.4056619
+    ]
+  },
+  "13 Warwick St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1103826,
+      42.3941682
+    ]
+  },
+  "1200 Montello St, Brockton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.013306,
+      42.061194
+    ]
+  },
+  "20 N. Kirkwood Street, Dover, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.5321747,
+      39.1605981
+    ]
+  },
+  "22 N. Kirkwood Street, Dover, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.5321831,
+      39.1606206
+    ]
+  },
+  "32 Marion St, Brookline, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1224722,
+      42.3398149
+    ]
+  },
+  "394 McGrath Hwy, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0906253,
+      42.3815444
+    ]
+  },
+  "326 Rockaway, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9115813,
+      40.6716775
+    ]
+  },
+  "138 Croton Ave, Ossining, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8520106,
+      41.1669679
+    ]
+  },
+  "Muirfield Cir., Louisville, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.1515663,
+      39.9553989
+    ]
+  },
+  "1118 W 7th, Austin, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -97.755649,
+      30.274059
+    ]
+  },
+  "750 North Avers Avenue, Chicago, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.7224942,
+      41.8944906
+    ]
+  },
+  "3371 Washington St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1053185,
+      42.3091395
+    ]
+  },
+  "1623 Center St, Omaha, Nebraska": {
+    "type": "Point",
+    "coordinates": [
+      -95.9376836,
+      41.2413229
+    ]
+  },
+  "Walnut Street, Foxborough, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.24361,
+      42.0492431
+    ]
+  },
+  "700 Foster Drive, Des Moines, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -93.6771822,
+      41.5698559
+    ]
+  },
+  "2371 Frederick Douglass Blvd., New York, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9501643,
+      40.8117169
+    ]
+  },
+  "Grant St, Chelsea, Michigan": {
+    "type": "Point",
+    "coordinates": [
+      -84.0245036,
+      42.3151315
+    ]
+  },
+  "118 Prospect Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0959095,
+      42.3765273
+    ]
+  },
+  "1201 River Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1219073,
+      42.2560949
+    ]
+  },
+  "Community Place, Madison, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.4167069,
+      40.761042
+    ]
+  },
+  "Walnut Street, Madison, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.413191,
+      40.7622195
+    ]
+  },
+  "Marlin Dr, Chamblee, Georgia": {
+    "type": "Point",
+    "coordinates": [
+      -84.2853234,
+      33.8724254
+    ]
+  },
+  "379 Somerville Ave., Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1000701,
+      42.3815924
+    ]
+  },
+  "Cottage Street, Chelsea, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0309854,
+      42.3911379
+    ]
+  },
+  "3 Van Horne, Canmore, Alberta, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -115.35353,
+      51.0725576
+    ]
+  },
+  "Baird Road, Perinton, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.4615036,
+      43.1216802
+    ]
+  },
+  "11 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9502687,
+      41.3054824
+    ]
+  },
+  "2 H Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.041493,
+      42.337905
+    ]
+  },
+  "10 Tyler Street New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9495821,
+      41.3036031
+    ]
+  },
+  "8 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.950391,
+      41.3051143
+    ]
+  },
+  "7 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9502792,
+      41.3055295
+    ]
+  },
+  "6 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9496303,
+      41.3038105
+    ]
+  },
+  "4 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9496206,
+      41.3037707
+    ]
+  },
+  "5 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9502845,
+      41.305553
+    ]
+  },
+  "3 Tyler Street, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9502897,
+      41.3055765
+    ]
+  },
+  "2147 Washington Street, Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0819503,
+      42.3318785
+    ]
+  },
+  "6th St, Milwaukee, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -87.91825,
+      43.0266411
+    ]
+  },
+  "3 Boston Way, Newburyport, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.87922,
+      42.7984917
+    ]
+  },
+  "200 Valley Street, Portland, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2780981,
+      43.6509642
+    ]
+  },
+  "Broadway, Gary, Indiana": {
+    "type": "Point",
+    "coordinates": [
+      -87.3371053,
+      41.5973408
+    ]
+  },
+  "1719 Sheridan Avenue North, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.3121687,
+      44.9972565
+    ]
+  },
+  "12 Fayette Street, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1038498,
+      42.3715424
+    ]
+  },
+  "340 Dixwell Ave, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9351209,
+      41.3223485
+    ]
+  },
+  "Saint Johns Rd, Ridgefield, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.4970998,
+      41.2491527
+    ]
+  },
+  "34 Peabody Street, Salem, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.891869,
+      42.5184864
+    ]
+  },
+  "205 Kent Street, Blacksburg, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -80.4159908,
+      37.2263095
+    ]
+  },
+  "2436 Laburnum Avenue, Charlotte, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.8081275,
+      35.21032
+    ]
+  },
+  "1182 Woodycrest Ave, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9247909,
+      40.8364478
+    ]
+  },
+  "1492 Westminster St, Providence, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.434248,
+      41.8161576
+    ]
+  },
+  "42 Broad Street, Mount Vernon, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8375901,
+      40.9259258
+    ]
+  },
+  "4 Ward Place, Ossining, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8501132,
+      41.170542
+    ]
+  },
+  "Ross Drive, Vienna, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.2516301,
+      38.8833797
+    ]
+  },
+  "803 Knickerbocker Ave, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.907413,
+      40.692689
+    ]
+  },
+  "1202 Idaho Street, Belgrade, Montana": {
+    "type": "Point",
+    "coordinates": [
+      -111.1705199,
+      45.7640808
+    ]
+  },
+  "235 Third Street, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0817305,
+      42.3671941
+    ]
+  },
+  "1546 East New York Avenue, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9107875,
+      40.672097
+    ]
+  },
+  "Berks St, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1254012,
+      39.9708471
+    ]
+  },
+  "180 Broad Street, Bridgewater, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9748166,
+      41.9955964
+    ]
+  },
+  "444 W Lemon Street, Lancaster, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.3149901,
+      40.0434244
+    ]
+  },
+  "233 Massachusetts Avenue, Lexington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1971228,
+      42.4265831
+    ]
+  },
+  "Glenville Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1342642,
+      42.349766
+    ]
+  },
+  "23 State Line Rd., Millerton, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.5006583,
+      41.960172
+    ]
+  },
+  "14 Overlook Ridge, Malden, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0217115,
+      42.4394087
+    ]
+  },
+  "21 High Street, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9446487,
+      42.4665674
+    ]
+  },
+  "10 High Street, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9439828,
+      42.4661258
+    ]
+  },
+  "151 Spencer Street, Dorchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0755599,
+      42.2920266
+    ]
+  },
+  "77 Terrace St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0965621,
+      42.330983
+    ]
+  },
+  "280 E 161st St., Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9182998,
+      40.8253297
+    ]
+  },
+  "1 Terrace Street, Mission Hill, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.096298,
+      42.331549
+    ]
+  },
+  "1372 Broadway, Somerville, MA 02144": {
+    "type": "Point",
+    "coordinates": [
+      -71.1314511,
+      42.4059766
+    ]
+  },
+  "50 Herald Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0649985,
+      42.3464539
+    ]
+  },
+  "129 Hayden Rowe St, Hopkinton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.513378,
+      42.2146276
+    ]
+  },
+  "89 Faneuil St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1534106,
+      42.3563687
+    ]
+  },
+  "1139 Webster Ave, Bronx, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9110883,
+      40.8303776
+    ]
+  },
+  "371 Highland Ave, Somerville, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.118828,
+      42.395081
+    ]
+  },
+  "25 East Hoyle St, Norwood, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2022162,
+      42.1875644
+    ]
+  },
+  "315 Rindge Ave., Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1366718,
+      42.3938418
+    ]
+  },
+  "1270 Commonwealth Ave, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1324203,
+      42.349036
+    ]
+  },
+  "77 William St, Newburgh, NY": {
+    "type": "Point",
+    "coordinates": [
+      -74.015924,
+      41.4970321
+    ]
+  },
+  "New Brunswick City, NJ": {
+    "type": "Point",
+    "coordinates": [
+      -74.4456506,
+      40.493898
+    ]
+  },
+  "190 Veterans of Foreign Wars Parkway, Revere, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.9949567,
+      42.4121199
+    ]
+  },
+  "0 Bartlett St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0625839,
+      42.3776441
+    ]
+  },
+  "75 First St Cambridge, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0777132,
+      42.3684841
+    ]
+  },
+  "1151 Walnut Street, Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2069942,
+      42.3219497
+    ]
+  },
+  "11 Heron Street, West Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1489866,
+      42.2694474
+    ]
+  },
+  "970 Fellsway, Medford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.085601,
+      42.4150618
+    ]
+  },
+  "144 Market Street, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9478465,
+      42.4624485
+    ]
+  },
+  "95 Everett St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1379635,
+      42.3564279
+    ]
+  },
+  "26 Bartlett Station Drive, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0887964,
+      42.3279434
+    ]
+  },
+  "86 Marcella St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.096394,
+      42.3258138
+    ]
+  },
+  "75 Marcella St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0954998,
+      42.3236802
+    ]
+  },
+  "7 Hartwell Ave, Lexington, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2531907,
+      42.4760629
+    ]
+  },
+  "2952 West 28th St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9941655,
+      40.5742106
+    ]
+  },
+  "1274 Massachusetts Avenue, New York, New York": {
+    "type": "Point",
+    "coordinates": [
+      -78.8909197,
+      42.911226
+    ]
+  },
+  "2 Alpine St., Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1107875,
+      42.3937784
+    ]
+  },
+  "3-5 Militia Drive, Lexington, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2355399,
+      42.4523001
+    ]
+  },
+  "148\ufffd15 Archer Ave, Queens, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.8055442,
+      40.7011965
+    ]
+  },
+  "948 Conway Rd, Ashfield, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.7798079,
+      42.5174722
+    ]
+  },
+  "164 Essex Street, Melrose, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0687682,
+      42.4572547
+    ]
+  },
+  "175 Ruggles St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0878384,
+      42.3344535
+    ]
+  },
+  "600 Rivers Edge, Medford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0767015,
+      42.4051961
+    ]
+  },
+  "112 Queensberry Street, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.100337,
+      42.3417627
+    ]
+  },
+  "21 Oxford St, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9453158,
+      42.466207
+    ]
+  },
+  "66 Boylston St, Worcester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.7645223,
+      42.3010355
+    ]
+  },
+  "500 Lynnfield, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9796328,
+      42.5010719
+    ]
+  },
+  "475 State Street, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9799423,
+      40.6859178
+    ]
+  },
+  "Porter Street, Lynn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9339456,
+      42.4734884
+    ]
+  },
+  "283 N. Harvard, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.132373,
+      42.3541522
+    ]
+  },
+  "338 Canton St, Stoughton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.114642,
+      42.1274717
+    ]
+  },
+  "Overlook Ridge Malden 13B, Malden, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0252704,
+      42.4407568
+    ]
+  },
+  "90 Cushing Ave, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0636495,
+      42.3139927
+    ]
+  },
+  "26 Heron Street, West Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1494106,
+      42.2695635
+    ]
+  },
+  "375 Harold Cohen Way, Somerville, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0811265,
+      42.3911965
+    ]
+  },
+  "9 Taylor Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0889427,
+      42.3946064
+    ]
+  },
+  "40 R Highland Ave, Salem, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.9070591,
+      42.5148134
+    ]
+  },
+  "21 Walden Square Rd, Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.129425,
+      42.3890278
+    ]
+  },
+  "64 Medford St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0887752,
+      42.3754151
+    ]
+  },
+  "586 Canterbury Street, Roslindale, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1035977,
+      42.2914888
+    ]
+  },
+  "100 West Street, Needham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2354545,
+      42.2921154
+    ]
+  },
+  "840 Columbus Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0869398,
+      42.3368092
+    ]
+  },
+  "1 Gurney St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.09598,
+      42.33173
+    ]
+  },
+  "125 Fawcett St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1473057,
+      42.3928592
+    ]
+  },
+  "1 Railroad Ave, Bedford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2780758,
+      42.4861813
+    ]
+  },
+  "8 Winter Street, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0801097,
+      42.3723945
+    ]
+  },
+  "55 Linden St, Pittsfield, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -73.2546714,
+      42.4556461
+    ]
+  },
+  "17 Hartwell Ave, Lexington, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.2548544,
+      42.4748824
+    ]
+  },
+  "34 Wendell St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1168807,
+      42.3814313
+    ]
+  },
+  "Roslindale, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1244966,
+      42.2912093
+    ]
+  },
+  "501 Mainstreet, Hopkins, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.40635,
+      44.924511
+    ]
+  },
+  "501 Mystic Valley Parkway, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1300014,
+      42.4152848
+    ]
+  },
+  "78 Crafts Street, Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2024236,
+      42.3552459
+    ]
+  },
+  "75 Stergis Way, Dedham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1758292,
+      42.2346906
+    ]
+  },
+  "505 W. 119th St, Chicago, IL": {
+    "type": "Point",
+    "coordinates": [
+      -87.6349696,
+      41.6778084
+    ]
+  },
+  "1200 Centre St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1310493,
+      42.2968715
+    ]
+  },
+  "259 Lenox St, Norwood, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2000061,
+      42.1863841
+    ]
+  },
+  "Ipswich, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.8411583,
+      42.679273
+    ]
+  },
+  "4202 Washington St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1276126,
+      42.286767
+    ]
+  },
+  "101 E. 110th St, NY, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.945848,
+      40.795482
+    ]
+  },
+  "366 Rockaway Ave, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9112958,
+      40.6714527
+    ]
+  },
+  "77 Harvard St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0609037,
+      42.3492582
+    ]
+  },
+  "110 Ocean Ave, Revere, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.991627,
+      42.4039334
+    ]
+  },
+  "Wendel Way, Niagara Falls, NY": {
+    "type": "Point",
+    "coordinates": [
+      -79.0584897,
+      43.0872042
+    ]
+  },
+  "25 Waterfield Rd, Winchester, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1380844,
+      42.4509101
+    ]
+  },
+  "82 Shawsheen Rd, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0012728,
+      42.383546
+    ]
+  },
+  "1 Care Dr, Erving, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.4822687,
+      42.590103
+    ]
+  },
+  "555 Essex St, Swampscott, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.9241065,
+      42.4756381
+    ]
+  },
+  "331 Concord Ave, Lexington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2288079,
+      42.4181753
+    ]
+  },
+  "4 Walnut St, Brookline, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1165082,
+      42.3310532
+    ]
+  },
+  "431 Washington St, Newton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1904518,
+      42.3563689
+    ]
+  },
+  "89 Bedford Street, Lexington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2336274,
+      42.455175
+    ]
+  },
+  "65 Kilmarnock St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0995341,
+      42.3427871
+    ]
+  },
+  "293 TOWNSEND ST, New Brunswick, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.4497958,
+      40.4915143
+    ]
+  },
+  "Merrimack St, Lowell, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.318121,
+      42.647865
+    ]
+  },
+  "50 Huckins Ave, Quincy, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0113147,
+      42.2974386
+    ]
+  },
+  "1420 West Baltimore St, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -76.6403388,
+      39.2886033
+    ]
+  },
+  "665 Flushing Ave, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9466557,
+      40.7002597
+    ]
+  },
+  "31 Bartlett St., New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.94692,
+      40.7009384
+    ]
+  },
+  "14 White Street Place, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1175415,
+      42.3887799
+    ]
+  },
+  "30 Wendell St., Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.117369,
+      42.3815237
+    ]
+  },
+  "37 Allen Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0934514,
+      42.3773421
+    ]
+  },
+  "2 Lamartine St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1007103,
+      42.3226626
+    ]
+  },
+  "2855 Carnegie Dr, Boulder, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.2576555,
+      39.9835128
+    ]
+  },
+  "70 Belchertown Rd, Amherst, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.4785508,
+      42.3550484
+    ]
+  },
+  "2 Hillsboro St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.066921,
+      42.320144
+    ]
+  },
+  "31 South East St, Amherst, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.5015782,
+      42.3752185
+    ]
+  },
+  "147 St Felix, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9768033,
+      40.6853588
+    ]
+  },
+  "102 Temple Street, Worcester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.8410914,
+      42.572597
+    ]
+  },
+  "310 Harman St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9181066,
+      40.7005468
+    ]
+  },
+  "230 Moffat St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9050688,
+      40.6886172
+    ]
+  },
+  "160 Bleecker St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9196689,
+      40.6964105
+    ]
+  },
+  "135 Menahan St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9197375,
+      40.6957604
+    ]
+  },
+  "115 Linden St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.919761,
+      40.6933186
+    ]
+  },
+  "111 Linden St, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9198527,
+      40.693226
+    ]
+  },
+  "6040 Robinson, Overland Park, Kansas": {
+    "type": "Point",
+    "coordinates": [
+      -94.6754441,
+      39.0193202
+    ]
+  },
+  "392 Wyona, Brooklyn, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8923207,
+      40.6690735
+    ]
+  },
+  "20095 Bonnie Bank Blvd, Rocky River, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -81.8423662,
+      41.459775
+    ]
+  },
+  "Smith St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9926771,
+      40.683464
+    ]
+  },
+  "46 Winter Street, Quincy, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.9795058,
+      42.2412015
+    ]
+  },
+  "247 East 117th, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9384079,
+      40.7982493
+    ]
+  },
+  "105 West Tremont Ave, Bronx, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9129098,
+      40.8503477
+    ]
+  },
+  "75 North 7th St., Hudson, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7812263,
+      42.2493192
+    ]
+  },
+  "100 New St, Cambridge, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1399036,
+      42.3889187
+    ]
+  },
+  "722 Broadway, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1131255,
+      42.4000122
+    ]
+  },
+  "116 Beach 36th St, Queens, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.7688053,
+      40.5965431
+    ]
+  },
+  "Sheridan Street, Providence, Rhode Island": {
+    "type": "Point",
+    "coordinates": [
+      -71.4519439,
+      41.8232469
+    ]
+  },
+  "161 Emerson Place, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9617526,
+      40.6925878
+    ]
+  },
+  "13 New England Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0773983,
+      42.2916329
+    ]
+  },
+  "65 Fitchburg Rd, Ayer, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.5968045,
+      42.5720928
+    ]
+  },
+  "872 Broadway, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1179602,
+      42.4006138
+    ]
+  },
+  "21 Allen Street, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0932519,
+      42.3782694
+    ]
+  },
+  "75 Tremont St., Brighton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1686813,
+      42.3505623
+    ]
+  },
+  "337 Cumberland Ave, Portland, Maine": {
+    "type": "Point",
+    "coordinates": [
+      -70.2614756,
+      43.6582384
+    ]
+  },
+  "Bryant Avenue, New York City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8886162,
+      40.8241049
+    ]
+  },
+  "116 Grove St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9202177,
+      40.6934202
+    ]
+  },
+  "270 Talbot Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0756438,
+      42.2915806
+    ]
+  },
+  "51 Upper Pines Rd, Warren, Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.8531245,
+      44.1401948
+    ]
+  },
+  "Carter Rd, Puslinch, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -80.1860824,
+      43.537538
+    ]
+  },
+  "311 11th Ave E, Seattle, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.3181184,
+      47.6215112
+    ]
+  },
+  "21 De Sales Pl, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.905962,
+      40.6809735
+    ]
+  },
+  "75 Linden St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9209102,
+      40.6922287
+    ]
+  },
+  "": {
+    "type": "Point",
+    "coordinates": [
+      -100.445882,
+      39.7837304
+    ]
+  },
+  "Crescent Crossings 1C, Bridgeport, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -73.1758622,
+      41.1847828
+    ]
+  },
+  "28 Cooper St, Mashpee, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.4982392,
+      41.5974462
+    ]
+  },
+  "40 Brewster Wds Dr, Brewster, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.0888525,
+      41.75085989999999
+    ]
+  },
+  "278 East 9th St, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0500105,
+      42.33171859999999
+    ]
+  },
+  "3005 CreekView Drive, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2488328,
+      42.8832728
+    ]
+  },
+  "3004 Creekview Driv, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.24876379999999,
+      42.8827957
+    ]
+  },
+  "3001 CreekView Drive, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2480616,
+      42.8832821
+    ]
+  },
+  "3003 CreekView Drive, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.24844,
+      42.88327960000001
+    ]
+  },
+  "3000 Creekview Drive, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -77.2481509,
+      42.882763
+    ]
+  },
+  "295 Painter Hill, Wurtsboro, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.47611789999999,
+      41.68850459999999
+    ]
+  },
+  "99 Green Valley Rd, Williamsburg, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.1380594,
+      36.7052059
+    ]
+  },
+  "63 Green Valley Rd., Williamsburg, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.13827040000001,
+      36.7046666
+    ]
+  },
+  "98 Green Valley Rd., Williamsburg, Kentucky": {
+    "type": "Point",
+    "coordinates": [
+      -84.1376224,
+      36.7050863
+    ]
+  },
+  "3332 BN ryant Ave, Minneapolis, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.2908007,
+      44.9327136
+    ]
+  },
+  "47 Olympia Place, Amherst, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.5105842,
+      42.3949539
+    ]
+  },
+  "33 Joralemon St, Newark, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.1469839,
+      40.7929538
+    ]
+  },
+  "Hawthorn House, Bend, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -121.300789,
+      44.058324
+    ]
+  },
+  "1818 Fifth Avenue, Troy, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6873193,
+      42.7315747
+    ]
+  },
+  "23 N. Kirkwood Street Lot, Dover, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.5320304,
+      39.1611994
+    ]
+  },
+  "21 N. Kirkwood Street Lot, Dover, Delaware": {
+    "type": "Point",
+    "coordinates": [
+      -75.53195199999999,
+      39.161088
+    ]
+  },
+  "Leefort Terrace, Salem, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8821078,
+      42.5267487
+    ]
+  },
+  "Apple Ridge 2, Rochester, New Hampshire": {
+    "type": "Point",
+    "coordinates": [
+      -70.9461457,
+      43.291114
+    ]
+  },
+  "Hidden Brook, Bethany, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.940348,
+      41.4173911
+    ]
+  },
+  "9620 Winding River Drive, Beaver Dam, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.6728447,
+      38.0062358
+    ]
+  },
+  "Bethany Terraces, Brooklyn, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9823146,
+      40.6742312
+    ]
+  },
+  "84 Hadley Crescent, Halifax, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -63.6225308,
+      44.6238017
+    ]
+  },
+  "476 Fifth Avenue, New Work City, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.98213059999999,
+      40.7533914
+    ]
+  },
+  "295 West 1st Street, South Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.04768680000001,
+      42.3397906
+    ]
+  },
+  "380 BLUE HILL Ave, Dorchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.080668,
+      42.311547
+    ]
+  },
+  "34 Wales Street, Dorchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.08437599999999,
+      42.29675599999999
+    ]
+  },
+  "Haskell Lake Passive House, Lac du Flambeau, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.91749229999999,
+      45.9080987
+    ]
+  },
+  "Garnkirk Farms, Clarksburg, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.273107,
+      39.227669
+    ]
+  },
+  "Lot 2A-3-2 Harvard St, Mattapan, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0980144,
+      42.2872197
+    ]
+  },
+  "20 Malcom X Boulevard, Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0857359,
+      42.3291988
+    ]
+  },
+  "41 First St, Brooklyn, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.99140489999999,
+      40.6786262
+    ]
+  },
+  "125 Easy Street, Carbondale, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -107.100545,
+      39.395541
+    ]
+  },
+  "844 Tauromee Ave, Kansas City, Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -94.6318721,
+      39.111982
+    ]
+  },
+  "1463 Dot Ave, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0602715,
+      42.3005554
+    ]
+  },
+  "41 Northcote Reno, Toronto, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -79.42629099999999,
+      43.6441081
     ]
   }
 }
