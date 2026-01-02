@@ -6256,5 +6256,586 @@
       -93.1039662,
       45.0099006
     ]
+  },
+  "Hailey, Idaho": {
+    "type": "Point",
+    "coordinates": [
+      -114.315325,
+      43.519629
+    ]
+  },
+  "Mount Vernon, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.32642,
+      48.4200462
+    ]
+  },
+  "Easton, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.2099866,
+      40.6916081
+    ]
+  },
+  "Allentown, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.4716115,
+      40.6022552
+    ]
+  },
+  "Coatesville, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.8238355,
+      39.9831616
+    ]
+  },
+  "Deerfield, Illinois": {
+    "type": "Point",
+    "coordinates": [
+      -87.8445119,
+      42.1711365
+    ]
+  },
+  "Edmonton, Alberta, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -112.982025,
+      53.5762892
+    ]
+  },
+  "Saint John, New Brunswick, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -66.102258,
+      45.2926619
+    ]
+  },
+  "Toronto, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -79.7197747,
+      43.7183635
+    ]
+  },
+  "Summerside, Prince Edward Island, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -63.672942,
+      46.2556151
+    ]
+  },
+  "Salt Springs, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -62.8638742,
+      45.5508489
+    ]
+  },
+  "Ottawa, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -75.9208747,
+      45.2581304
+    ]
+  },
+  "Salisbury, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.4742261,
+      35.6709727
+    ]
+  },
+  "Baldwinsville, New York": {
+    "type": "Point",
+    "coordinates": [
+      -76.33271,
+      43.158679
+    ]
+  },
+  "Bastrop, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -97.3887764,
+      30.0541116
+    ]
+  },
+  "Twin Lakes, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -105.0064163,
+      39.8242717
+    ]
+  },
+  "Swisher, Iowa": {
+    "type": "Point",
+    "coordinates": [
+      -91.6929702,
+      41.8456224
+    ]
+  },
+  "Hamilton, Ohio": {
+    "type": "Point",
+    "coordinates": [
+      -84.5501874,
+      39.2085354
+    ]
+  },
+  "Dilworth, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -96.703412,
+      46.876629
+    ]
+  },
+  "Templeton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.0673927,
+      42.5557254
+    ]
+  },
+  "Alford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -73.4134619,
+      42.235937
+    ]
+  },
+  "Willmar, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -95.0435373,
+      45.1219492
+    ]
+  },
+  "Chattanooga, Tennessee": {
+    "type": "Point",
+    "coordinates": [
+      -85.3094883,
+      35.0457219
+    ]
+  },
+  "Silverthorne, Colorado": {
+    "type": "Point",
+    "coordinates": [
+      -106.0752294,
+      39.6317896
+    ]
+  },
+  "Livingston Manor, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.8268287,
+      41.89321
+    ]
+  },
+  "Carmel, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.6788272,
+      41.4266361
+    ]
+  },
+  "Watertown, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1843234,
+      42.3652576
+    ]
+  },
+  "Brownsville, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9124755,
+      40.665306
+    ]
+  },
+  "Shepherdstown, West Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -77.804161,
+      39.4300996
+    ]
+  },
+  "Marylhurst, Oregon": {
+    "type": "Point",
+    "coordinates": [
+      -122.6559109,
+      45.3891316
+    ]
+  },
+  "Allison Park, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -79.9581094,
+      40.5584013
+    ]
+  },
+  "Meadowview, Virginia": {
+    "type": "Point",
+    "coordinates": [
+      -81.8744385,
+      36.7632845
+    ]
+  },
+  "White Plains, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.7629097,
+      41.0339862
+    ]
+  },
+  "Lancaster, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.3056707,
+      40.0379958
+    ]
+  },
+  "Allston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1327494,
+      42.3555375
+    ]
+  },
+  "Beverly, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.8781883,
+      42.5489744
+    ]
+  },
+  "Malden, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0683741,
+      42.4268484
+    ]
+  },
+  "Mission Hill, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1020285,
+      42.3332651
+    ]
+  },
+  "Ogdensburg, New York": {
+    "type": "Point",
+    "coordinates": [
+      -75.4924943,
+      44.6975256
+    ]
+  },
+  "Hopkinton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.5196439,
+      42.2288875
+    ]
+  },
+  "Lac du Flambeau, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -89.8928015,
+      45.9702769
+    ]
+  },
+  "Florida": {
+    "type": "Point",
+    "coordinates": [
+      -81.4639835,
+      27.7567667
+    ]
+  },
+  "Melrose, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.064182,
+      42.4564323
+    ]
+  },
+  "Clarksburg, Maryland": {
+    "type": "Point",
+    "coordinates": [
+      -77.2678413,
+      39.2195565
+    ]
+  },
+  "Stoughton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1022015,
+      42.1252079
+    ]
+  },
+  "West Roxbury, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1494972,
+      42.2792649
+    ]
+  },
+  "Wellesley, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2925571,
+      42.2964859
+    ]
+  },
+  "Roslindale, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1244966,
+      42.2912093
+    ]
+  },
+  "Needham, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2360624,
+      42.2802645
+    ]
+  },
+  "Bedford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2817947,
+      42.4917301
+    ]
+  },
+  "Pittsfield, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -73.2541069,
+      42.4484778
+    ]
+  },
+  "Hopkins, Minnesota": {
+    "type": "Point",
+    "coordinates": [
+      -93.4114487,
+      44.9243986
+    ]
+  },
+  "Hyannis, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.2823287,
+      41.6535345
+    ]
+  },
+  "Brooklyn, NY, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9497211,
+      40.6526006
+    ]
+  },
+  "Liberty (Kansas City), Missouri": {
+    "type": "Point",
+    "coordinates": [
+      -94.461612,
+      39.2403686
+    ]
+  },
+  "Caldwell, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.2765366,
+      40.8398218
+    ]
+  },
+  "Kirkland, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.2070775,
+      47.6765382
+    ]
+  },
+  "Ogano-Machi Chichibu-Gun, Saitama, Japan": {
+    "type": "Point",
+    "coordinates": [
+      139.0088035,
+      36.0171178
+    ]
+  },
+  "Hamilton, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -79.8728583,
+      43.2560802
+    ]
+  },
+  "Embro, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -80.9005219,
+      43.1546467
+    ]
+  },
+  "Bromont, Quebec, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -72.6463074,
+      45.3187339
+    ]
+  },
+  "Doig River, British Columbia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -120.484784,
+      56.7021507
+    ]
+  },
+  "Hebron, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -66.090385,
+      43.8874729
+    ]
+  },
+  "Abercorn, Quebec, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -72.6588286,
+      45.0349009
+    ]
+  },
+  "Halifax, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -75.6238924,
+      45.3884175
+    ]
+  },
+  "Truro, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -63.2864971,
+      45.3656974
+    ]
+  },
+  "Clifton, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -63.4439425,
+      45.3360648
+    ]
+  },
+  "Hubley, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -63.8168976,
+      44.6682799
+    ]
+  },
+  "Fort St. John, British Columbia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -120.846943,
+      56.2524039
+    ]
+  },
+  "Lunenburg, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -64.3154816,
+      44.3774954
+    ]
+  },
+  "Waubaushene, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -79.710969,
+      44.754404
+    ]
+  },
+  "Kentville, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -64.495212,
+      45.0784875
+    ]
+  },
+  "Gyeonggi-do, South Korea": {
+    "type": "Point",
+    "coordinates": [
+      127.0535231,
+      37.2884675
+    ]
+  },
+  "Saitama City, Japan": {
+    "type": "Point",
+    "coordinates": [
+      139.8544081,
+      35.8428014
+    ]
+  },
+  "Tobermory, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -81.6430491,
+      45.234697
+    ]
+  },
+  "Canmore, Alberta, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -115.3481135,
+      51.0866897
+    ]
+  },
+  "Bridgewater, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -64.5193946,
+      44.3774134
+    ]
+  },
+  "Onoway, Alberta, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -114.1910354,
+      53.7038575
+    ]
+  },
+  "Edogawa-Tokyo, Japan": {
+    "type": "Point",
+    "coordinates": [
+      139.8684056,
+      35.6455661
+    ]
+  },
+  "Sherbrooke, Quebec, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -71.889038,
+      45.403271
+    ]
+  },
+  "Sutton, Quebec, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -72.6186317,
+      45.1115241
+    ]
+  },
+  "Puslinch, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -80.1137363,
+      43.4772238
+    ]
+  },
+  "Guelph, Ontario, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -80.2493276,
+      43.5460516
+    ]
   }
 }
