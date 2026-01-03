@@ -136,30 +136,49 @@ def write_address_table_of_new_projects():
         print(f'Wrote {len(name)} entries to PHIUS_locations.csv - check and edit addresses there!')
 
 
-def apply_address_edits_from_file(address_file):
-    '''Apply address edits from a CSV file to PHIUS.json
+def add_address_edits_to_patchfile(address_file):
+    """Add address edits from a CSV file to PHIUS_patched_addresses.json
 
     Parameters
     ----------
     address_file : str
         Path to CSV file with columns 'name', 'location', 'address'
-    '''
-    with open("data/PHIUS.json", 'r') as f:
-        known_projects = json.load(f)
+    """
+    with open("data/PHIUS_patched_addresses.json", "r") as f:
+        patched_addresses = json.load(f)
     t_edited = Table.read(address_file, format='csv')
     # Remove empty rows that a spreadsheet may have added
     t_edited = t_edited[~t_edited['name'].mask]
 
     for name, loc, addr in zip(t_edited['name'], t_edited['location'], t_edited['address']):
         if addr is masked:
-            known_projects[name]['address'] = ''
-        else:
+            addr = ""
+        patched_addresses[name] = addr
+
+    with open("data/PHIUS_patched_addresses.json", "w") as f:
+        json.dump(patched_addresses, f, indent=2)
+
+
+def apply_patched_address():
+    """Apply patched addresses from PHIUS_patched_addresses.json to PHIUS.json"""
+    with open("data/PHIUS.json", "r") as f:
+        known_projects = json.load(f)
+    with open("data/PHIUS_patched_addresses.json", "r") as f:
+        patched_addresses = json.load(f)
+
+    for name, addr in patched_addresses.items():
+        if name in known_projects:
+            if (
+                "address" in known_projects[name]
+                and known_projects[name]["address"] == addr
+            ):
+                continue
             known_projects[name]['address'] = addr
-        if addr != 'NO CITY':
-            # If we update, remove Location object to force re-geocoding
-            if 'Location' in known_projects[name]:
-                del known_projects[name]['Location']
-            print(f'Updated {name} with address {addr}')
+            if addr != "NO CITY":
+                # If we update, remove Location object to force re-geocoding
+                if "Location" in known_projects[name]:
+                    del known_projects[name]["Location"]
+                print(f"Updated {name} with patched address {addr}")
 
     with open("data/PHIUS.json", 'w') as f:
         json.dump(known_projects, f, indent=2)
@@ -191,6 +210,10 @@ def compare_project_lists(all_projects):
     removed_projects = old_db - new_db
     print(f'PHIUS added projects: {added_projects}')
     print(f'PHIUS removed projects: {removed_projects}')
+    for p in removed_projects:
+        del known_projects[p]
+    with open("data/PHIUS.json", "w") as f:
+        json.dump(known_projects, f, indent=2)
 
 def download_new_project_details(current_project_list, update_all=False):
     '''Compare new list of objects with old list. Add details for missing objects.
@@ -337,8 +360,9 @@ if __name__ == '__main__':
 
     if args.address_file:
         print(f'-- Applying address edits from {args.address_file} --')
-        apply_address_edits_from_file(args.address_file)
+        add_address_edits_to_patchfile(args.address_file)
 
+    apply_patched_address()
     compare_project_lists(current_project_list)
     download_new_project_details(current_project_list, update_all=args.redownload)
     write_address_table_of_new_projects()
