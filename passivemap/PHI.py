@@ -1,30 +1,11 @@
-"""
-On 12/7/2025 it seems that I can't pull form the URL (404), but
-https://database.passivehouse.com/en/buildings/map/
-exists (it doesn't render though).
-It seems that the data is embedded in the sourcecode of the website in marker_data_array
-
-They group the different classes together with the following color code. I can compare that to the color groups
-that I use:
-    let icons_std = {
-        "0": BlueIcon,
-        "c": BlueIcon,
-        "1": YellowIcon,
-        "3": YellowIcon,
-        "4": YellowIcon,
-        "e": YellowIcon,
-        "u": YellowIcon,
-        "2": RedIcon,
-        "p": RedIcon,
-    }
-"""
-
 import json
+import re
 from urllib.request import urlopen
 
 
 standard = {
     "0": "PHI Low Energy Building",
+    "c": "PHI Low Energy Building",
     "1": "EnerPHit",
     "2": "Passive House",
     "3": "EnerPHit Retrofit",
@@ -71,9 +52,12 @@ def json2geojson():
 
 
 if __name__ == '__main__':
-    url = "https://database.passivehouse.com/buildings/get_buildings/"
-    webjson = urlopen(url).read()
-    known_projects = json.loads(webjson)
+    url = 'https://database.passivehouse.com/en/buildings/map/'
+    with urlopen(url) as response:
+        data = response.read().decode('utf-8')
+    PHIjson = re.search(r'marker_data_array = (\[.*\]);', data, re.DOTALL).group(1)
+    known_projects = json.loads(PHIjson)
     with open("data/PHI.json", 'w') as f:
         json.dump(known_projects, f, indent=2)
+
     #json2geojson()
