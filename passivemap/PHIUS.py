@@ -146,17 +146,30 @@ def add_address_edits_to_patchfile(address_file):
     """
     with open("data/PHIUS_patched_addresses.json", "r") as f:
         patched_addresses = json.load(f)
+    with open("data/known_coords.json", "r") as f:
+        known_locs = json.load(f)
+
     t_edited = Table.read(address_file, format='csv')
     # Remove empty rows that a spreadsheet may have added
     t_edited = t_edited[~t_edited['name'].mask]
 
     for name, loc, addr in zip(t_edited['name'], t_edited['location'], t_edited['address']):
         if addr is masked:
-            addr = ""
-        patched_addresses[name] = addr
+            patched_addresses[name] = ""
+            continue
+        if addr == "NO CITY":
+            patched_addresses[name] = addr
+            continue
+        loc = find_location(known_locs, addr, verbose=False)
+        if loc is None:
+            print(f"Cannot geocode project {name} with edited address {addr}")
+        else:
+            patched_addresses[name] = addr
 
     with open("data/PHIUS_patched_addresses.json", "w") as f:
         json.dump(patched_addresses, f, indent=2)
+    with open("data/known_coords.json", "w") as f:
+        json.dump(known_locs, f, indent=2)
 
 
 def apply_patched_address():
@@ -165,6 +178,8 @@ def apply_patched_address():
         known_projects = json.load(f)
     with open("data/PHIUS_patched_addresses.json", "r") as f:
         patched_addresses = json.load(f)
+    with open("data/known_coords.json", "r") as f:
+        known_locs = json.load(f)
 
     for name, addr in patched_addresses.items():
         if name in known_projects:
@@ -173,12 +188,20 @@ def apply_patched_address():
                 and known_projects[name]["address"] == addr
             ):
                 continue
-            known_projects[name]['address'] = addr
-            if addr != "NO CITY":
-                # If we update, remove Location object to force re-geocoding
-                if "Location" in known_projects[name]:
-                    del known_projects[name]["Location"]
-                print(f"Updated {name} with patched address {addr}")
+            if addr in known_locs:
+                known_projects[name]["address"] = addr
+                if addr != "NO CITY":
+                    # If we update, remove Location object to force re-geocoding
+                    if "Location" in known_projects[name]:
+                        del known_projects[name]["Location"]
+                    print(f"Updated {name} with patched address {addr}")
+            else:
+                print(f"Address {addr} for project {name} not found in known locations")
+        # Project has been removed from PHIUS database
+        # so we accumulate extra lines in the patch file over time
+        # but for now, we just ignore those and don't bother cleaning up.
+        else:
+            pass
 
     with open("data/PHIUS.json", 'w') as f:
         json.dump(known_projects, f, indent=2)
@@ -240,16 +263,33 @@ def download_new_project_details(current_project_list, update_all=False):
         json.dump(known_projects, f, indent=2)
 
 
-def _geocode(location, countries=[', USA', ', Canada', '']):
+def _geocode(location, countries=[", USA", ", Canada", ""], verbose=True):
     '''Try to geocode a location, appending different country names if needed'''
     geoloc = None
     for country in countries:
         geoloc = geolocator.geocode(location + country, timeout=10)
         if geoloc is not None:
-            print(f'Resolved: {geoloc}')
+            if verbose:
+                print(f"Resolved: {geoloc}")
             return geoloc
-    print(f'Location not found: {location}')
+    if verbose:
+        print(f"Location not found: {location}")
     return None
+
+
+def find_location(known_locs, location, verbose=True):
+    """Geocode a location string to get latitude and longitude"""
+    if location in known_locs:
+        return known_locs[location]
+
+    geoloc = _geocode(location, verbose=verbose)
+    if geoloc is None:
+        return None
+    else:
+        locobj = {"type": "Point", "coordinates": [geoloc.longitude, geoloc.latitude]}
+        known_locs[location] = locobj
+        return locobj
+
 
 def add_location():
     '''Add locations to all projects in PHIUS.json
@@ -270,29 +310,15 @@ def add_location():
     for k, v in known_projects.items():
         # If we have a string location, but no Location object
         if ('location' in v) and 'Location' not in v:
-            geoloc = None
+            loc = None
             if 'address' in v and v['address'] != "NO CITY":
-                loc = v['address']
-                if loc in known_locs:
-                    v['Location'] = known_locs[loc]
-                    continue
-                geoloc = _geocode(loc)
-
-            if geoloc is None:
-                loc = v['location']
-                if loc in known_locs:
-                    v['Location'] = known_locs[loc]
-                    continue
-                geoloc = _geocode(loc)
-
-            if geoloc is None:
+                loc = find_location(known_locs, v["address"])
+            if loc is None:
+                loc = find_location(known_locs, v["location"])
+            if loc is None:
                 print(f'Skipping project {k} - location not found {v["location"]}')
-                continue
-            locobj = {"type": "Point", "coordinates": [geoloc.longitude, geoloc.latitude]}
-            # Save values so the same location is looked up only once for speed
-            known_locs[loc] = locobj
-            # And also add to the database of objects
-            v['Location'] = locobj
+            else:
+                v["Location"] = loc
 
     with open("data/PHIUS.json", 'w') as f:
         json.dump(known_projects, f, indent=2)
