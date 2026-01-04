@@ -182,6 +182,7 @@ def apply_patched_address():
         known_locs = json.load(f)
 
     for name, addr in patched_addresses.items():
+
         if name in known_projects:
             if (
                 "address" in known_projects[name]
@@ -190,7 +191,7 @@ def apply_patched_address():
                 continue
             if addr in known_locs:
                 known_projects[name]["address"] = addr
-                if addr != "NO CITY":
+                if addr != "NO CITY" and len(addr) > 0:
                     # If we update, remove Location object to force re-geocoding
                     if "Location" in known_projects[name]:
                         del known_projects[name]["Location"]
@@ -311,7 +312,7 @@ def add_location():
         # If we have a string location, but no Location object
         if ('location' in v) and 'Location' not in v:
             loc = None
-            if 'address' in v and v['address'] != "NO CITY":
+            if "address" in v and v["address"] != "NO CITY" and len(v["address"]) > 0:
                 loc = find_location(known_locs, v["address"])
             if loc is None:
                 loc = find_location(known_locs, v["location"])
