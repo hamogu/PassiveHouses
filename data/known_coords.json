@@ -11107,5 +11107,516 @@
       -80.82425554109653,
       35.578930282697925
     ]
+  },
+  "Santo, Texas": {
+    "type": "Point",
+    "coordinates": [
+      -98.2141084,
+      32.6037293
+    ]
+  },
+  "Mooresville, North Carolina": {
+    "type": "Point",
+    "coordinates": [
+      -80.8100724,
+      35.5848596
+    ]
+  },
+  "Olympia, Washington, Washington": {
+    "type": "Point",
+    "coordinates": [
+      -122.8950075,
+      47.0451022
+    ]
+  },
+  "California": {
+    "type": "Point",
+    "coordinates": [
+      -118.755997,
+      36.7014631
+    ]
+  },
+  "Cave Creek, Arizona": {
+    "type": "Point",
+    "coordinates": [
+      -111.950833,
+      33.8333333
+    ]
+  },
+  "Brooklyn, New Jersey": {
+    "type": "Point",
+    "coordinates": [
+      -74.9382343,
+      39.7023031
+    ]
+  },
+  "Japan": {
+    "type": "Point",
+    "coordinates": [
+      131.3496745,
+      33.532005
+    ]
+  },
+  "Vermont": {
+    "type": "Point",
+    "coordinates": [
+      -72.5002608,
+      44.5990718
+    ]
+  },
+  "Sherborn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3701417,
+      42.2397842
+    ]
+  },
+  "Greenfield, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.6002068,
+      42.5876342
+    ]
+  },
+  "Massachusetts, Other": {
+    "type": "Point",
+    "coordinates": [
+      -70.1418361,
+      41.6655596
+    ]
+  },
+  "storrs, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.2512807,
+      41.8085955
+    ]
+  },
+  "55 Walnut St, Foxborough, MA 02035": {
+    "type": "Point",
+    "coordinates": [
+      -71.2446166,
+      42.048613
+    ]
+  },
+  "W Lemon Street, Lancaster, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -76.3071443,
+      40.0442736
+    ]
+  },
+  "50 Huckins Ave, Quincy, MA 02171": {
+    "type": "Point",
+    "coordinates": [
+      -71.0113204,
+      42.2974933
+    ]
+  },
+  "147 Log City Rd, Amsterdam, New York": {
+    "type": "Point",
+    "coordinates": [
+      -74.1992274,
+      42.9782068
+    ]
+  },
+  "379 Somerville Ave, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1000701,
+      42.3815924
+    ]
+  },
+  "30 Empire Ct, Rochester, NH 03867": {
+    "type": "Point",
+    "coordinates": [
+      -70.9476718,
+      43.2897298
+    ]
+  },
+  "151 N 4th St, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1460395,
+      39.9538613
+    ]
+  },
+  "616 W North Ave, Milwaukee, Wisconsin": {
+    "type": "Point",
+    "coordinates": [
+      -87.9190625,
+      43.0606759
+    ]
+  },
+  "Treehouse Village Ecohousing (D), Bridgewater, Nova Scotia, Canada": {
+    "type": "Point",
+    "coordinates": [
+      -64.5339973,
+      44.3770987
+    ]
+  },
+  "392 Orchard St, New Haven, Connecticut": {
+    "type": "Point",
+    "coordinates": [
+      -72.9409764,
+      41.3121326
+    ]
+  },
+  "3729 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.197245,
+      39.9653241
+    ]
+  },
+  "3707 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1965887,
+      39.9653693
+    ]
+  },
+  "3844 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1993011,
+      39.9648653
+    ]
+  },
+  "3836 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1990904,
+      39.9649062
+    ]
+  },
+  "3810 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1980673,
+      39.9650196
+    ]
+  },
+  "3714 Melon Street, Philadelphia, Pennsylvania": {
+    "type": "Point",
+    "coordinates": [
+      -75.1967413,
+      39.9651499
+    ]
+  },
+  "5344 Second Ave, Pittsburgh, PA 15207": {
+    "type": "Point",
+    "coordinates": [
+      -79.9421567,
+      40.4030127
+    ]
+  },
+  "164 Jamaica Ave, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.8936974,
+      40.6797316
+    ]
+  },
+  "277 Great Road, Bedford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.2655458,
+      42.4871413
+    ]
+  },
+  "Prospect Street, Sherborn, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.3859178,
+      42.2595056
+    ]
+  },
+  "1134 Pacific St, New York, NY": {
+    "type": "Point",
+    "coordinates": [
+      -73.9541614,
+      40.6780416
+    ]
+  },
+  "Concord, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.3488963,
+      42.4605189
+    ]
+  },
+  "550 Huntington Avenue, Boston, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.0955638,
+      42.3356047
+    ]
+  },
+  "99 Revere Beach Parkway, Medford, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0740374,
+      42.4036109
+    ]
+  },
+  "1690 Hyde Park, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1244963,
+      42.2556543
+    ]
+  },
+  "1630 Hancock Street, Quincy, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0389308,
+      42.2838842
+    ]
+  },
+  "60 James Street, Greenfield, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.5939815,
+      42.5815589
+    ]
+  },
+  "17 Pearl St, Worcester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.6858464,
+      42.5663397
+    ]
+  },
+  "110 East 138th Street, Bronx, New York": {
+    "type": "Point",
+    "coordinates": [
+      -73.9320163,
+      40.8137711
+    ]
+  },
+  "80 Shawsheen Road, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.0012675,
+      42.383554
+    ]
+  },
+  "3000 CreekView Drive, Canandaigua, New York": {
+    "type": "Point",
+    "coordinates": [
+      -78.861645170951,
+      42.742575545506
+    ]
+  },
+  "292 Baker Avenue, Concord, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.385006112907,
+      42.459072366984
+    ]
+  },
+  "528 Boylston St, Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.190401460674,
+      42.318688312917
+    ]
+  },
+  "37 Brookline St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.102541501497,
+      42.362849713954
+    ]
+  },
+  "240 Broadway, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.095388942561,
+      42.367035275087
+    ]
+  },
+  "1740 Massachusetts Avenue, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.11954547163,
+      42.3847818453
+    ]
+  },
+  "259 Broadway, Arlington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.147216803774,
+      42.413127171703
+    ]
+  },
+  "972 Main Street, Winchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.144748733751,
+      42.463761431088
+    ]
+  },
+  "60 Ellery St, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.109845563578,
+      42.372455466183
+    ]
+  },
+  "150 Centre St, Dorchester, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.065777666527,
+      42.292036684067
+    ]
+  },
+  "101 Boston, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.058763596511,
+      42.326323175574
+    ]
+  },
+  "10 Revere Beach Parkway, Revere, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -70.989823007947,
+      42.401566928815
+    ]
+  },
+  "3458 Washington St, Boston, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.106805515557,
+      42.307067034226
+    ]
+  },
+  "9 Wyman Road, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.132168368873,
+      42.38121516928
+    ]
+  },
+  "Watertown, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1843234,
+      42.3652576
+    ]
+  },
+  "793 Washington St., Newton, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.206041340009,
+      42.35192706975
+    ]
+  },
+  "2072 Mass Ave, Cambridge, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.123020286052,
+      42.391132689455
+    ]
+  },
+  "Easthampton, MA": {
+    "type": "Point",
+    "coordinates": [
+      -72.6719579,
+      42.2708804
+    ]
+  },
+  "Swampscott, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.9171507,
+      42.4699241
+    ]
+  },
+  "15 Spencer St, Newton,  Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.225910713985,
+      42.348615855854
+    ]
+  },
+  "5 University Drive, Amherst, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -72.532135649337,
+      42.37945343162
+    ]
+  },
+  "Salem, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.8967226,
+      42.5195292
+    ]
+  },
+  "17 Kensington Ave, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.087051676923,
+      42.389654195296
+    ]
+  },
+  "294 Baker Avenue, Condord, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.385025060362,
+      42.459064788002
+    ]
+  },
+  "1208D VFW Pkwy, West Roxbury, MA 02132": {
+    "type": "Point",
+    "coordinates": [
+      -71.171129494578,
+      42.279402498857
+    ]
+  },
+  "Wareham, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.7217017,
+      41.7626037
+    ]
+  },
+  "New Bedford, MA": {
+    "type": "Point",
+    "coordinates": [
+      -70.934205,
+      41.6362152
+    ]
+  },
+  "Andover, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.1408776,
+      42.65717
+    ]
+  },
+  "Foskett St, Somerville, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.1160886,
+      42.3973019
+    ]
+  },
+  "Chelmsford, MA": {
+    "type": "Point",
+    "coordinates": [
+      -71.3517602,
+      42.5968617
+    ]
+  },
+  "3 Militia Drive, Lexington, Massachusetts": {
+    "type": "Point",
+    "coordinates": [
+      -71.235012784005,
+      42.451949255434
+    ]
   }
 }

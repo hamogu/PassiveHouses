@@ -1,10 +1,13 @@
 import argparse
 import json
+import time
 from urllib.request import urlopen
 
 from astropy.table import Table
 from numpy.ma import masked
 from geopy.geocoders import Nominatim, GoogleV3
+import geocoder
+
 from bs4 import BeautifulSoup
 
 # Default geolocator is Nominatim
@@ -151,7 +154,8 @@ def add_address_edits_to_patchfile(address_file):
 
     t_edited = Table.read(address_file, format='csv')
     # Remove empty rows that a spreadsheet may have added
-    t_edited = t_edited[~t_edited['name'].mask]
+    if hasattr(t_edited["name"], "mask"):
+        t_edited = t_edited[~t_edited["name"].mask]
 
     for name, loc, addr in zip(t_edited['name'], t_edited['location'], t_edited['address']):
         if addr is masked:
@@ -266,13 +270,19 @@ def download_new_project_details(current_project_list, update_all=False):
 
 def _geocode(location, countries=[", USA", ", Canada", ""], verbose=True):
     '''Try to geocode a location, appending different country names if needed'''
-    geoloc = None
+    geoloc = geocoder.uscensus(location).latlng
+    if geoloc is not None:
+        if verbose:
+            print(f"Resolved: {geoloc}")
+        return {"longitude": geoloc[1], "latitude": geoloc[0]}
     for country in countries:
+        if isinstance(geolocator, Nominatim):
+            time.sleep(1.1)
         geoloc = geolocator.geocode(location + country, timeout=10)
         if geoloc is not None:
             if verbose:
                 print(f"Resolved: {geoloc}")
-            return geoloc
+            return {"longitude": geoloc.longitude, "latitude": geoloc.latitude}
     if verbose:
         print(f"Location not found: {location}")
     return None
@@ -287,7 +297,10 @@ def find_location(known_locs, location, verbose=True):
     if geoloc is None:
         return None
     else:
-        locobj = {"type": "Point", "coordinates": [geoloc.longitude, geoloc.latitude]}
+        locobj = {
+            "type": "Point",
+            "coordinates": [geoloc["longitude"], geoloc["latitude"]],
+        }
         known_locs[location] = locobj
         return locobj
 
