@@ -95,12 +95,20 @@ def PHI_data():
 
 def make_map(locations, popups, icons, name='Passive Houses'):
     m = folium.Map(
-    #location=[40.1759, -100.6016],
-    location=[0, 0],
-    tiles="cartodbpositron",
-    #zoom_start=4,
-    zoom_start=2,
+        # location=[40.1759, -100.6016],
+        location=[0, 0],
+        tiles=None,
+        # tiles="cartodbpositron",
+        # zoom_start=4,
+        zoom_start=2,
     )
+    folium.TileLayer(
+        tiles="https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png?key=cb1_2q24_1_1e3fd9c624476f14a0491bc8",
+        attr='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+        name="CARTO DB basemap",
+        # overlay=False,
+        # control=True,
+    ).add_to(m)
 
     MarkerCluster(locations=locations, popups=popups, icons=icons, name=name).add_to(m)
 
